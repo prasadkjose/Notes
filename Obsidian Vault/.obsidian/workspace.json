@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Linux Setup.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Linux Setup"
             }
           }
         ],
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "8896732167792815",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Linux Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for Linux Setup"
             }
           },
           {
@@ -114,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Linux Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes"
+              "title": "Outgoing links from Linux Setup"
             }
           },
           {
@@ -143,21 +144,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md",
+                "file": "Linux Setup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of Linux Setup"
+            }
+          },
+          {
+            "id": "fe324030be7e2441",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +179,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9554327c9e2d78ed",
+  "active": "c088e2cfc586661a",
   "lastOpenFiles": [
-    "Notes.md",
+    "Linux Setup.md",
+    "Foundations of Cybersecurity.md",
     "2025-10-11.md",
     "Untitled.canvas",
     "Untitled.base",
