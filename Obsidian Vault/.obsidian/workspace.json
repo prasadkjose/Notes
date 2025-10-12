@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e81aaa8209d4545d",
+        "id": "65674f7caf3d4e6d",
         "type": "tabs",
         "children": [
           {
-            "id": "c088e2cfc586661a",
+            "id": "38117b552edbdf77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "8896732167792815",
@@ -162,13 +161,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9dbcf5a740131d2a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 602.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,15 +189,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "c088e2cfc586661a",
+  "active": "fe324030be7e2441",
   "lastOpenFiles": [
+    "scripts/setup_linux.sh",
     "Linux Setup.md",
+    "scripts",
+    "2025-10-12.md",
+    "Untitled.canvas",
     "Foundations of Cybersecurity.md",
     "2025-10-11.md",
-    "Untitled.canvas",
     "Untitled.base",
     "create a link.md",
     "Welcome.md"

@@ -2,5 +2,7 @@
   "editing-toolbar",
   "obsidian-git",
   "obsidian-outliner",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "copilot",
+  "terminal"
 ]
