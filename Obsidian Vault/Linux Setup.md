@@ -24,17 +24,15 @@ This guide outlines the steps I took to set up my current Linux environment.
 ### 2.1 Essential Software Installation
 
 
-```
+``` bash
 chmod +x setup_linux.sh
 sudo ./setup_linux.sh
 ```
 
-
+1. Install Obisidian from their website
 ### 2.3. Customization
 
-*   **Theme:** [Describe your chosen theme, e.g., "Installed the 'Breeze' global theme and customized colors."]
-*   **Icons:** [Mention your icon theme, e.g., "Using the 'Papirus' icon theme."]
-*   **Desktop Layout:** [Explain any changes to the desktop layout, e.g., "Moved the taskbar to the bottom and added widgets."]
+*   **Theme:** [Dream-dark-color-global-5]
 
 ---
 
@@ -42,40 +40,10 @@ sudo ./setup_linux.sh
 
 ### 3.1. Version Control
 
-*   **Install Git:**
-    ```bash
-    sudo apt install git -y
-    ```
-*   **Configure Git:**
-    ```bash
-    git config --global user.name "Your Name"
-    git config --global user.email "your.email@example.com"
-    ```
-
-### 3.2. Programming Languages
-
-*   **Python:**
-    *   **Install:** `sudo apt install python3 python3-pip -y`
-    *   **Verify:** `python3 --version` and `pip3 --version`
-*   **Node.js:**
-    *   **Install using NVM (Node Version Manager):**
-        ```bash
-        curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-        source ~/.bashrc # or ~/.zshrc if you use Zsh
-        nvm install --lts
-        ```
-    *   **Verify:** `node -v` and `npm -v`
-
-### 3.3. Docker
-
-*   **Install Docker:** Follow the official Docker installation guide for Ubuntu.
-    *   [Link to Docker Ubuntu Installation Guide](https://docs.docker.com/engine/install/ubuntu/)
-*   **Add user to docker group:**
-    ```bash
-    sudo usermod -aG docker $USER
-    newgrp docker # Apply group changes without logging out
-    ```
-
+```bash
+git config --global user.name "prasad koshy jose"
+git config --global user.email "prasadkjose@gmail.com"
+```
 ---
 
 ## 4. Additional Tools and Tweaks
@@ -91,27 +59,8 @@ sudo ./setup_linux.sh
 
 ### 4.2. System Monitoring
 
-*   **Install:** `sudo apt install htop glances -y`
-
+*   
 ### 4.3. Keyboard Shortcuts
 
-*   [List any custom keyboard shortcuts you've set up.]
 
----
 
-## Visual Elements
-
-To make this visually appealing, consider adding:
-
-*   **Screenshots:** Use `![Alt text](path/to/your/screenshot.png)` to embed screenshots of your desktop, specific applications, or terminal output.
-*   **Code Blocks:** Use triple backticks (```) for code snippets and commands.
-*   **Callouts:** Use Obsidian's callout feature for important notes or warnings. For example:
-    > [!NOTE] Important
-    > Remember to back up your data before making significant changes.
-*   **Headings and Subheadings:** Use `#`, `##`, `###` to structure your content logically.
-*   **Lists:** Use bullet points (`*` or `-`) and numbered lists (`1.`, `2.`) for clarity.
-*   **Bold and Italics:** Use `**bold**` and `*italics*` for emphasis.
-
----
-
-**Last Updated:** {{date}}
