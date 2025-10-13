@@ -298,346 +298,257 @@
 	1. Root - most privileges
 	    
 	2. Useradd and userdel
-    
 
 ## Vulnerabilities in systems: 
 
-1. Cycle through the management steps
-    
-2.  CI/CD can make automated tests easier. 
+	1. Cycle through the management steps
+	    
+	2.  CI/CD can make automated tests easier. 
+	3. Threats: dependencies, permissions, sec testing missing, exposed secrets, build environments,
+### Defense in depth model: 5 layer design
+
+	1. Perimeter layer: authentication layer - passwords
+	    
+	2. Network layer: authorization layer - firewalls
+	    
+	3. Endpoint layer: devices - antivirus
+	    
+	4. Application layer: MFA etc
+	    
+	5. Data Layer: PII defense etc, asset classification
     
 
-3. Threats: dependencies, permissions, sec testing missing, exposed secrets, build environments,
+### CVE: common vulnerability and exposures
+	1. Criteria; 
+		1. Independence of other issues
+		    
+		2. Potential sec risk
+		    
+		3. Submitted with evidence
+		    
+		4. Affects only one codebase
+	2. CVSS: score - 0 to 10, <4 is low risk, >9 is high list
+	3. List of common vulnerabilities - Top 10 by OWASP: 
+    
+		1. Broken access control
+		    
+		2. Cryptographic failures
+		    
+		3. Injection
+		    
+		4. Insecure design
+		    
+		5. Security misconfiguration
+		    
+		6. Vulnerable and outdated components. 
+		    
+		7. Identification and authentication failures
+		    
+		8. Software and data integrity failures
+		    
+		9. Security logging and monitoring failures
+		    
+		10. Server-side request forgery
+		    
+### Assessments: 
+    
+	1. Identification: state of security system
+	    
+	2. Analysis: source of the problem
+	    
+	3. Assessment: Scoring. 
+	    
+	4. Remediation
     
 
-4. Defense in depth model: 5 layer design
+### Pentesting: 
+
+	1. Simulated attach to identify vulnerabilities.
+	    
+	2. Pentesting can also be done to check compliance standards, HIIPA and GDPR
+	    
+	3. Strategies: 
+		1. Openbox - full access to the system as an admin or dev - with privilege access. 
+		    
+		2. Closedbox - no access at all - external, black-box, or zero knowledge penetration testing
+		    
+		3. Partial knowledge: limited knowledge and access - greybox testing
     
 
-5. Perimeter layer: authentication layer - passwords
+### Threats: 
+	1. Cryptojacking: Illegally installing malware to mine crypto
+	    
+	2. Crosssite scripting (XSS): 
+	    
+	
+	3. Insert code to manipulate;
+	    
+	4. Reflected - script sent to server and it actuates in the server. 
+	    
+	5. Stored - us stored infected data like images or other assets
+	    
+	6. DOM based: doesn’t involve server - like use URL queries. On the client side
+	    
+	7. SQL Injection: 
+		1. In-band - use same communication channel - query to get passwords
+		    
+		2. Out-of-band - use query to establish a new communication connection
+		    
+		3. Inferential - analyzing the behavior of the system.
     
-6. Network layer: authorization layer - firewalls
-    
-7. Endpoint layer: devices - antivirus
-    
-8. Application layer: MFA etc
-    
-9. Data Layer: PII defense etc, asset classification
-    
-
-10. CVE: common vulnerability and exposures
-    
-
-11. Criteria; 
-    
-
-12. Independence of other issues
-    
-13. Potential sec risk
-    
-14. Submitted with evidence
-    
-15. Affects only one codebase
-    
-
-16. CVSS: score - 0 to 10, <4 is low risk, >9 is high list
-    
-17. List of common vulnerabilities - Top 10 by OWASP: 
+### Prevention 
+	1. Prepared statements: a coding technique that executes SQL statements before passing them on to a database
+	    
+	2. Input sanitization: programming that removes user input which could be interpreted as code.
+	    
+	3. Input validation: programming that ensures user input meets a system's expectations.
     
 
-18. Broken access control
-    
-19. Cryptographic failures
-    
-20. Injection
-    
-21. Insecure design
-    
-22. Security misconfiguration
-    
-23. Vulnerable and outdated components. 
-    
-24. Identification and authentication failures
-    
-25. Software and data integrity failures
-    
-26. Security logging and monitoring failures
-    
-27. Server-side request forgery
+## Threat Modeling
+###  Process
+	1. Define the scope
+		
+	2. Identify threat
+		
+	3. Characterize the environment
+		
+	4. Analyze threats
+		
+	5. Mitigate risks
+		
+	6. Evaluate findings
     
 
-28. Assessments: 
+### Framework
+	### STRIDE -  spoofing, tampering, repudiation, information disclosure, denial of service, and elevation of privilege.
+	### Process of Attack Simulation and Threat Analysis (PASTA) 
+	### Trike
+	### VAST: Visual, Agile, and Simple Threat (VAST)
+    
+## Incident detection and response: 
+### Lifecycle 
+	1. Preparation
+	    
+	2. Detection and Analysis
+	    
+	3. Containment and eradication
+	    
+	4. Postincident analysis
+	    
+
+### Computer security incident response teams(CSIRTs) Roles: 
+	1. security analyst 
+	    
+	2. Tech/op lead
+	    
+	3. Incident Coordinator - Communication
     
 
-29. Identification: state of security system
+### Tools 
+	1. Intrusion Detection/Prevention system - Snort, Sarcata
+	    
+	2. Documentation Tools
+	    
+	3. Endpoint Detection System - bitdefender
+	    
+	4. Alert and Event management tools
     
-30. Analysis: source of the problem
-    
-31. Assessment: Scoring. 
-    
-32. Remediation
-    
-
-33. Pentesting: 
-    
-
-34. Simulated attach to identify vulnerabilities.
-    
-35. Pentesting can also be done to check compliance standards, HIIPA and GDPR
-    
-36. Strategies: 
-    
-
-37. Openbox - full access to the system as an admin or dev - with privilege access. 
-    
-38. Closedbox - no access at all - external, black-box, or zero knowledge penetration testing
-    
-39. Partial knowledge: limited knowledge and access - greybox testing
+	5. SIEM
+			1. Collect
+			    
+			2. Normalize
+			    
+			3. Analyze 
+	    
+	6. SIEM tools used Unified Data Model to store and query data. 
+	7. Entities or nouns like hostname, username
+	8. Event metadata: like timestamp and type
+	9. Network metadata: like protocol
+	10. Security result: sec outcome
     
 
-40. Threats: 
+### SOAR - Security Orchestration, Analysis and Response
+	1. Automate
+	    
+	2. Manage and central access
     
 
-41. Cryptojacking: Illegally installing malware to mine crypto
+## Network Security: 
     
-42. Crosssite scripting (XSS): 
+	1. Flow Analysis
+	    
+	2. Packet payload information
+	    
+	3. Temporal patterns
+	    
+	4. Tools like IDS and Network protocol analyzers(packet sniffers)
+	    
+	5. Data exfiltration attack
+    
+	6. Packet Captures: 
+	    
+		1. Network protocol analyzers (packet sniffers) like tcpdump, wireshark etc
+		
+			1. They collect packet from the NIC)network interface car)
+			    
+			2. `WireShark -
+				1. Frame - Info about the packet - frame length and the arrival time of the packet
+				    
+				2. Ethernet II - Ethernet level - source/dest MAC 
+				    
+				3. IPv4 - source/dest IP addresses, protocol like TCP or UDP
+				    
+				4. TCP/ICMP other final internet protocol information 
+	
+			3. TCP Dump: 
+				1. -i - interface
+				2. Common IPV4 header fields:
+					1. Version
+					    
+					2. Header length
+					    
+					3. ToS - type of service
+					    
+					4. Total length
+					    
+					5. ID + flags + offset
+					    
+				3. TTL
+				    
+				4. Protol - TCP(6)
+				    
+				5. Checksum
+				    
+				6. Source + destination
+		    
+
+		2. IDS 
+			1. host-based intrusion detection system (HIDS) -endpoints
+			    
+			2. Network-based intrusion detection system (NIDS)
+    
+#### Detection: 
+	1. Signature analysis to detect events. 
+	    
+	2. Suracata is a NIDS where rules can be created for signature
+	    
+	3. <action> <header> <source> -> <dest> (<options>)
+	    
+	4. Options are in parentheses - <option>:value like (msg:”GET something”)
+	    
+	5. Format type is EVE.JSON - extensible event  Format JSON
+	    
+	6. Fast.log has the alerts
     
 
-43. Insert code to manipulate;
-    
-44. Reflected - script sent to server and it actuates in the server. 
-    
-45. Stored - us stored infected data like images or other assets
-    
-46. DOM based: doesn’t involve server - like use URL queries. On the client side
-    
+#### Anomaly-based analysis
 
-47. SQL Injection: 
-    
-
-48. In-band - use same communication channel - query to get passwords
-    
-49. Out-of-band - use query to establish a new communication connection
-    
-50. Inferential - analyzing the behavior of the system.
-    
-51. Prevention: 
-    
-
-52. Prepared statements: a coding technique that executes SQL statements before passing them on to a database
-    
-53. Input sanitization: programming that removes user input which could be interpreted as code.
-    
-54. Input validation: programming that ensures user input meets a system's expectations.
-    
-
-55. Threat Modeling: 
-    
-
-56. Process: 
-    
-
-57. Define the scope
-    
-58. Identify threat
-    
-59. Characterize the environment
-    
-60. Analyze threats
-    
-61. Mitigate risks
-    
-62. Evaluate findings
-    
-
-63. Framework: 
-    
-
-64. ### STRIDE -  spoofing, tampering, repudiation, information disclosure, denial of service, and elevation of privilege.
-    
-65. Process of Attack Simulation and Threat Analysis (PASTA) 
-    
-66. ### Trike
-    
-67. VAST: Visual, Agile, and Simple Threat (VAST)
-    
-
-  
-
-Incident detection and response: 
-
-1. Lifecycle: 
-    
-
-2. Preparation
-    
-3. Detection and Analysis
-    
-4. Containment and eradication
-    
-5. Postincident analysis
-    
-
-6. Computer security incident response teams(CSIRTs) Roles: 
-    
-
-7. security analyst 
-    
-8. Tech/op lead
-    
-9. Incident Coordinator - Communication
-    
-
-10. Tools: 
-    
-
-11. Intrusion Detection/Prevention system - Snort, Sarcata
-    
-12. Documentation Tools
-    
-13. Endpoint Detection System - bitdefender
-    
-14. Alert and Event management tools
-    
-
-15. SIEM
-    
-
-16. Collect
-    
-17. Normalize
-    
-18. Analyze 
-    
-19. SIEM tools used Unified Data Model to store and query data. 
-    
-
-20. Entities or nouns like hostname, username
-    
-21. Event metadata: like timestamp and type
-    
-22. Network metadata: like protocol
-    
-23. Security result: sec outcome
-    
-
-24. SOAR - Sec Orchestration, Analysis and Response
-    
-
-25. Automate
-    
-26. Manage and central access
-    
-
-27. Network Security: 
-    
-
-28. Flow Analysis
-    
-29. Packet payload information
-    
-30. Temporal patterns
-    
-31. Tools like IDS and Network protocol analyzers(packet sniffers)
-    
-32. Data exfiltration attack
-    
-33. Packet Captures: 
-    
-
-34. Network protocol analyzers (packet sniffers) like tcpdump, wireshark etc
-    
-
-35. They collect packet from the NIC)network interface car)
-    
-36. `WireShark -
-    
-
-37. Frame - Info about the packet - frame length and the arrival time of the packet
-    
-38. Ethernet II - Ethernet level - source/dest MAC 
-    
-39. IPv4 - source/dest IP addresses, protocol like TCP or UDP
-    
-40. TCP/ICMP other final internet protocol information 
-    
-
-41. TCP Dump: 
-    
-
-42. -i - interface
-    
-43.   
-    
-
-44. Common IPV4 header fields:
-    
-
-45. Version
-    
-46. Header length
-    
-47. ToS - type of service
-    
-48. Total length
-    
-49. ID + flags + offset
-    
-50. TTL
-    
-51. Protol - TCP(6)
-    
-52. Checksum
-    
-53. Source + destination
-    
-
-54. IDS 
-    
-
-55. host-based intrusion detection system (HIDS) -endpoints
-    
-56. Network-based intrusion detection system (NIDS)
-    
-57. Detection: 
-    
-
-58. Signature analysis to detect events. 
-    
-
-59. Suracata is a NIDS where rules can be created for signature
-    
-60. <action> <header> <source> -> <dest> (<options>)
-    
-61. Options are in parentheses - <option>:value like (msg:”GET something”)
-    
-62. Format type is EVE.JSON - extensible event  Format JSON
-    
-63. Fast.log has the alerts
-    
-
-64. Anomaly-based analysis
-    
-
-  
-
-Security Testing with python: 
-
-1. Testing: 
-    
-
-2. Static Application Security testing(SAST): Code analyst before build
-    
-3. Dynamic AST: when code is running - in the CI/CD pipeline
-```copilotquickcommand
-```
-    
-2. Software Composition Analysis (SCA): check dependencies - rules for problem
-    
-
-3.   
-    
-
-  
-  
-  
-**
+	1. Security Testing with python: 
+	
+		1. Testing:
+		2. Static Application Security testing(SAST): Code analyst before build
+		3. Dynamic AST: when code is running - in the CI/CD pipeline
+		```copilotquickcommand
+		```
+	    
+	2. Software Composition Analysis (SCA): check dependencies - rules for problem
