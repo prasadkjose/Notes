@@ -1,49 +1,48 @@
 
-1. Past attacks
-	1. Brain virus - licenses tracking - productivity issues
-	2. Morris worm - 1988- size of the internet to just tally number of devices having internet. But repeated already infected ones. 
-	3. Love letter - steal login creds - emails - I love you - introduced social engineering and phishing
-	4. Equifax breach - 40% of americans, PII, SSI, driver licence numbers etc. multiple vulnerabilities 
-2. 8 Security Domains by Certified Information Systems Security Professional (CISSP) - 
-	1. Security and Risk Management - Defines goals, policies, objectives, compliances, business continuation etc HIPA etc
-	    
-	2. Asset Security - digital or physical like data(PII), equipment, servers etc
-	    
-	3. Security Architecture and Engineering - Tools, systems, processes etc are in place - Fire wall
-	    
-	4. Communication and network security - Physical and wireless comms, hotspots, network security and policy - crypto graphic attacks 
-	    
-	5. IAM - policies to control and manage assets, physical, network and software. Key card
-	    
-	6. Security assessment and testing - Audits, data analysis, vulnerability checks, controls etc - permission testing
-	    
-	7. SecOps - investigations and preventive measures. 
-	    
-	8. Software DevOps - coding practices for security - user data handling, password policies etc. 
-	9. 
-3. Security Frameworks: 
-	1. Security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy
-	    
-	2. Purpose - Protecting PII, Financial info, identifying security weakness, org risk, align sec with business goals
-	    
-	3.  Components - ID and Doc sec goals(like GDPR), understand guidelines, implementing processes, monitor results
-    
-4. Security Model - CIA 
-	1. helps inform how organizations consider risk when setting up systems and security policies
-	    
-	2. Confidentiality - only Authorized person has access - need to know basis
-	    
-	3. Integrity - correct, reliable, trusted
-	    
-	4. Availability - accessible data, network and reliable access
-5. Tools: 
-	1.  Security professionals use playbooks to help them manage a security incident before, during, and after it has occurred. 
-	2. SIEM Tool: monitors logs and activities data. 
-		1. Splunk:    
-		2. Chronicle: 
-		3. Network Protocol Analyzer (packet sniffer) - TCPDump and wireshark
+### Past attacks
+
+1. Brain virus - licenses tracking - productivity issues
+2. Morris worm - 1988- size of the internet to just tally number of devices having internet. But repeated already infected ones. 
+3. Love letter - steal login creds - emails - I love you - introduced social engineering and phishing
+4. Equifax breach - 40% of americans, PII, SSI, driver licence numbers etc. multiple vulnerabilities 
+### 8 Security Domains by Certified Information Systems Security Professional (CISSP) - 
+1. Security and Risk Management - Defines goals, policies, objectives, compliances, business continuation etc HIPA etc
 	
- Manage Security Risks
+2. Asset Security - digital or physical like data(PII), equipment, servers etc
+	
+3. Security Architecture and Engineering - Tools, systems, processes etc are in place - Fire wall
+	
+4. Communication and network security - Physical and wireless comms, hotspots, network security and policy - crypto graphic attacks 
+	
+5. IAM - policies to control and manage assets, physical, network and software. Key card
+	
+6. Security assessment and testing - Audits, data analysis, vulnerability checks, controls etc - permission testing
+	
+7. SecOps - investigations and preventive measures. 
+	
+8. Software DevOps - coding practices for security - user data handling, password policies etc. 
+### Security Frameworks: 
+1. Security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy
+	
+2. Purpose - Protecting PII, Financial info, identifying security weakness, org risk, align sec with business goals
+	
+3.  Components - ID and Doc sec goals(like GDPR), understand guidelines, implementing processes, monitor results
+### Security Model - CIA 
+1. helps inform how organizations consider risk when setting up systems and security policies
+	
+2. Confidentiality - only Authorized person has access - need to know basis
+	
+3. Integrity - correct, reliable, trusted
+	
+4. Availability - accessible data, network and reliable access
+### Tools
+1.  Security professionals use playbooks to help them manage a security incident before, during, and after it has occurred. 
+2. SIEM Tool: monitors logs and activities data. 
+	1. Splunk:    
+	2. Chronicle: 
+	3. Network Protocol Analyzer (packet sniffer) - TCPDump and wireshark
+	
+## Manage Security Risks
 
 1. The steps in the Risk Management Framework RMF are prepare, categorize, select, implement, assess, authorize, and monitor
     
@@ -56,61 +55,59 @@
 		    
 		3. Authorization - access control, permissions
 
-3. NIST frameworks - 
-	1. Cybersecurity Framework(CSF) - Govern, Identify, Protect, Detect, Respond, and Recover
-    
-	2. OWASP Open Worldwide Application Security Project -
-		1. Minimize surface
-		2. Principle of least privilege
-		3. Defense in Depth: vary the security controls
-		4. Separation of duties
-		5. Keep simple
-		6. Fix correctly: root cause
-    
-4. Security Audits: 
-	1. Type:
-		1. Usage 
-		2. Previlege
-		3. Account change
-	
-	2. Establish and understand the scope and goals of the audits
-    
-	3. Conducting a risk assessment 
-    
-	4. Conduct a controls assessment
-		1. Admin: policies, roles
-		2. Technical: hw and sw systems 
-		3. Physical : cameras etc
-		
-	5. Compliance checklist: HIIPA and GDPR
-    
-	6. Communication: results and recommendations
-    
-5. **Logs:** 
-    
-	1. Firewall
-	2. Network
-	3. Server
-    
+### NIST frameworks - 
+1. Cybersecurity Framework(CSF) - Govern, Identify, Protect, Detect, Respond, and Recover
 
-6. Incident Response Playbook: 
+2. OWASP Open Worldwide Application Security Project -
+	1. Minimize surface
+	2. Principle of least privilege
+	3. Defense in Depth: vary the security controls
+	4. Separation of duties
+	5. Keep simple
+	6. Fix correctly: root cause
     
-	1. Manual for operational action.
-	    
-	2. Identity, contain and correct
-	    
-	3. 6 phases: 
-		1. Preparation: education, plans, procedures - roles etc
-		    
-		2. detection and analysis
-		    
-		3. Containment: impact reduction and minimize damage
-		    
-		4. Eradication and recovery: normallize, It restoration
-		    
-		5. Post incident: comms, analysis of the incident and try to fix posture
-		    
-		6. Coordination: meet compliance and coordinate response
+### Security Audits: 
+1. Type:
+	1. Usage 
+	2. Previlege
+	3. Account change
+
+2. Establish and understand the scope and goals of the audits
+
+3. Conducting a risk assessment 
+
+4. Conduct a controls assessment
+	1. Admin: policies, roles
+	2. Technical: hw and sw systems 
+	3. Physical : cameras etc
+5. Compliance checklist: HIIPA and GDPR
+    
+6. Communication: results and recommendations
+### **Logs:** 
+
+1. Firewall
+2. Network
+3. Server
+
+
+### Incident Response Playbook: 
+
+1. Manual for operational action.
+	
+2. Identity, contain and correct
+	
+3. 6 phases: 
+	1. Preparation: education, plans, procedures - roles etc
+		
+	2. detection and analysis
+		
+	3. Containment: impact reduction and minimize damage
+		
+	4. Eradication and recovery: normallize, It restoration
+		
+	5. Post incident: comms, analysis of the incident and try to fix posture
+		
+	6. Coordination: meet compliance and coordinate response
 
 ### Networks and Network Security
 
@@ -172,36 +169,25 @@
 		4. DNS - translate domain names to IP addresses
     
 
-12. Security 
-    
+### Security 
+1. HTTP/S - secure comm
+2. SFTP
+3. Mangement: 
+	1. SNMP: Simple Network Management Protocol (SNMP) is a network protocol used for monitoring and managing devices on a network.
+	    
+	2. ICMP: Internet Control Message Protocol (ICMP) is an internet protocol used by devices to tell each other about data transmission errors across the network
 
-13. HTTP/S - secure comm
+	3. TLS/SSL 
+	    
+	4. ARP - resolve MAC address
+	    
+	5. DHCP - dynamically assign IP public addressed
+	    
+	6. Telnet - remote system connection
+	    
+	7. SSH - Secure remote connection
     
-14. SFTP
-    
-
-15. Mangement: 
-    
-
-16. SNMP: Simple Network Management Protocol (SNMP) is a network protocol used for monitoring and managing devices on a network.
-    
-17. ICMP: Internet Control Message Protocol (ICMP) is an internet protocol used by devices to tell each other about data transmission errors across the network
-    
-
-18. TLS/SSL 
-    
-19. ARP - resolve MAC address
-    
-20. DHCP - dynamically assign IP public addressed
-    
-21. Telnet - remote system connection
-    
-22. SSH - Secure remote connection
-    
-
-  
-
-Wireless protocols: 
+#### Wireless protocols: 
 
 1. WEP: Wired equivalent privacy - trial and error key detection
     
@@ -212,9 +198,7 @@ Wireless protocols: 
 4. WPA 3 - uses Simultaneous Authentication of Equals (SAE), a password-authenticated, cipher-key-sharing agreement - can't download data and crack it - 128 bit encryption AES
     
 
-  
-
-Firewalls: 
+#### Firewalls: 
 
 1. Monitor and filter - port filtering - security rules - 
     
@@ -224,10 +208,7 @@ Firewalls: 
     
 4. NGFW -  stateful inspection of incoming and outgoing traffic, but it also performs more in-depth security functions like deep packet inspection and intrusion protection. 
     
-
-  
-
-Subnet: 
+#### Subnet: 
 
 1. Subdivision of networks
     
@@ -235,13 +216,8 @@ Subnet: 
     
 3. Classless Inter-Domain Routing (CIDR) - creating subnet masks to IP address to create subnets
     
-
 4. they include a slash (“/’”) at the end of the IP address
-    
-
-  
-
-Proxy servers: 
+##### Proxy servers: 
 
 1. Forward - handles internal server requests to access the internet. 
     
@@ -250,68 +226,49 @@ Proxy servers: 
 3. Email - Spams filtering etc
     
 
-  
-
-DOS
+#### DOS
 
 1. TCP attack by sending SYN messages of handshake protocol
     
 2. ICMP attach by sending ICMP packets and flooding the network
-    
 
 3. Ping of death - sending > 64kb ICMP packets
     
-
-  
-
-IP Spoofing: 
+#### IP Spoofing: 
 
 1. On path: man in the middle - alter source data to gain access and firewall
     
 2. Replay attack - repeat or delay
     
 3. Smurf :  attacker sniffs an authorized user’s IP address and floods it with packets. 
-    
+#### Security Hardening: 
 
-  
+1.strengthening the system/ network - reduce attack surface - vulnerability check
 
-Security Hardening: 
+1.OS Hardening: 
+1. Patch Updates, backups, auth users
+		
+2. Use baseline configs to compare to current version
+	
+3. Remove unused software
+	
+4. Password policy - MFA
+    
+5. Network hardening: 
+	1. Network Log analysis using SIEM tools to find vulnerabilities - prioritized
+	    
+	2. Port filtering - encryption - tunnelling(VPN)
+	    
+	3. IDS Intrusion Detection system: monitors - alerts - signature of malicious traffic.
 
-1. strengthening the system/ network - reduce attack surface - vulnerability check
-    
-2. OS Hardening: 
-    
 
-3. Patch Updates, backups, auth users
-    
-4. Use baseline configs to compare to current version
-    
-5. Remove unused software
-    
-6. Password policy - MFA
-    
+6. Cloud Hardening: 
+	1. Cryptographic erasure: remove keys after encryption and store elsewhere. 
+	    
+	2. Key Management: in TPMs, CloudHSM
+	    
 
-7. Network hardening: 
-    
-
-8. Network Log analysis using SIEM tools to find vulnerabilities - prioritized
-    
-9. Port filtering - encryption - tunnelling(VPN)
-    
-10. IDS Intrusion Detection system: monitors - alerts - signature of malicious traffic.
-    
-
-11. Cloud Hardening: 
-    
-
-12. Cryptographic erasure: remove keys after encryption and store elsewhere. 
-    
-13. Key Management: in TPMs, CloudHSM
-    
-
-  
-
-Tools in Kali linux
+### Tools in Kali linux
 
 1. Metasuite: system security
     
@@ -319,45 +276,31 @@ Tools in Kali linux
     
 3. John the ripper: password breaking
     
-
-  
-
-Shell: 
-
+#### Shell: 
 1. Grep: filters through a file 
-    
-
-2. Grep <search term> <target>
-    
-
+2. Grep <search term> <target> 
 3. Piping (|) - sends the output of one command to the input of another
+ 
+4. File permission: 
+
+	2. R , w, x
+	    
+	3. Ls -l -> type<user perm><group perms><other perms>
+	    
+	4. Chmod: 
+		1. Three types of owners - users(u), groups(g), other(o)
+		    
+		2. Chmod <owner><arithmatic + or -> <permission> <target>
     
 
-File permission: 
+5. Add/remove users: 
 
-1. R , w, x
-    
-2. Ls -l -> type<user perm><group perms><other perms>
-    
-3. Chmod: 
+	1. Root - most privileges
+	    
+	2. Useradd and userdel
     
 
-4. Three types of owners - users(u), groups(g), other(o)
-    
-5. Chmod <owner><arithmatic + or -> <permission> <target>
-    
-
-6. Add/remove users: 
-    
-
-7. Root - most privileges
-    
-8. Useradd and userdel
-    
-
-  
-
-Vulnerabilities in systems: 
+## Vulnerabilities in systems: 
 
 1. Cycle through the management steps
     
@@ -685,11 +628,13 @@ Security Testing with python: 
 2. Static Application Security testing(SAST): Code analyst before build
     
 3. Dynamic AST: when code is running - in the CI/CD pipeline
+```copilotquickcommand
+```
     
-4. Software Composition Analysis (SCA): check dependencies - rules for problem
+2. Software Composition Analysis (SCA): check dependencies - rules for problem
     
 
-5.   
+3.   
     
 
   
