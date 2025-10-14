@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Prasad Resume - SDE.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -193,7 +193,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fe324030be7e2441",
+  "active": "2b20991a28f7a186",
   "lastOpenFiles": [
     "Learning Notes/Linux Setup.md",
     "Prasad Resume - SDE.md",
