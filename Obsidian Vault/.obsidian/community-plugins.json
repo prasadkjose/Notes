@@ -4,5 +4,6 @@
   "obsidian-outliner",
   "highlightr-plugin",
   "copilot",
-  "terminal"
+  "terminal",
+  "obsidian-pandoc"
 ]

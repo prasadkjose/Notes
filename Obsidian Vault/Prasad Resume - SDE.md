@@ -123,28 +123,26 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 - Cybersecurity – Penetration Testing, Cryptography, IoT, and Security
 
 ---
-
 ## **Projects**
 
-### **Project 1: Confidential Computing for Machine Learning using Intel SGX**
+#### **Project 1: Confidential Computing for Machine Learning using Intel SGX**
 - Final Master’s Project, University of Geneva  
 - [GitHub Repository](https://github.com/prasadkjose/Confidential_ML_SGX)
 
-### **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
+#### **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
 - Nokia Solutions and Networks, Chennai, India
 
 ---
 
 ## **Skill Set**
 
-**Programming Languages:** JavaScript, C++, Python  
-**Web Development:** PHP, NodeJS, HTML5  
-**Frameworks and APIs:** ReactJS, VueJS, WinAPI  
-**Cloud Technologies:** OCI, Azure  
-**RDBMS:** Oracle 9i, MySQL  
+- **Programming Languages:** JavaScript, C++, Python  
+- **Web Development:** PHP, NodeJS, HTML5  
+- **Frameworks and APIs:** ReactJS, VueJS, WinAPI  
+- **Cloud Technologies:** OCI, Azure  
+- **RDBMS:** Oracle 9i, MySQL  
 
 ---
-
 ## **Achievements & Certifications**
 
 - [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E597B433A2CDB78DAD322EC617742269C6519523F78C58387CD74C3C0D91F458)  
@@ -154,22 +152,19 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 - Institute of Engineering and Technology – Leadership Award 2017
 
 ---
-
 ## **Membership in Professional Bodies**
 
-- International Information System Security Certification Consortium (**ISC²**)  
+- Member of the  International Information System Security Certification Consortium (**ISC²**)  
 - Member of the **Institute of Engineering and Technology (IET)**  
 - Member of the **Engineers Without Borders** initiative  
 
 ---
-
 ## **Personal Details**
 
 **Date of Birth:** 09 January 1997  
 **Languages Known:** English, French (A2), Malayalam, Tamil  
 
 ---
-
 ## **Declaration**
 I hereby declare that the above mentioned information is true to the best of my knowledge.
 
