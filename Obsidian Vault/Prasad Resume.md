@@ -1,18 +1,24 @@
 # **Prasad Koshy Jose**
 
-📍 Vostrovská 260/40, Praha 160 00  
-📧 [prasadkjose@gmail.com](mailto:prasadkjose@gmail.com)  
-📞 +42 606161852  
-🔗 [LinkedIn](https://www.linkedin.com/in/prasadkjose)  
-💻 [GitHub](https://github.com/prasadkjose)
+<table style="width:100%; border:none">
+  <tr>
+    <td align="left" style="vertical-align:top; width:60%;">
 
+    </td>
+    <td align="right" style="vertical-align:top; width:40%;">
+      Vostrovská 260/40, Praha 160 00<br>
+      📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
+      📞 +42 606161852<br>
+      🔗 <a href="https://www.linkedin.com/in/prasadkjose">LinkedIn</a><br>
+      💻 <a href="https://github.com/prasadkjose">GitHub</a>
+    </td>
+  </tr>
+</table>
 ---
-
 ## **Objective**
 Senior Software Engineer with a proven track record of leading cross-functional teams to deliver robust, high-quality software solutions seeking opportunities at your esteemed organization.
 
 ---
-
 ## **Work Experience**
 
 ### Oracle Corporation, Prague, Czech Republic  
