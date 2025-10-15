@@ -1,8 +1,8 @@
-# **Prasad Koshy Jose**
+# Prasad Koshy Jose
 
 <table style="width:100%; border: none;">
-  <tr>
-    <td align="left" style="vertical-align:top; width:30%; border: none;">
+<tr>
+<td align="left" style="vertical-align:top; width:60%; border: none;">
 		Vostrovská 260/40, Praha 160 00<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
       📞 +42 606161852<br>
@@ -14,11 +14,9 @@
   </tr>
 </table>
 
-
 ## **Objective**
 
 Senior Software Engineer with a proven track record of leading cross-functional teams to deliver robust, high-quality software solutions seeking opportunities at your esteemed organization.
-
 
 ## **Work Experience**
 
@@ -128,7 +126,6 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 ### **Project 1: Confidential Computing for Machine Learning using Intel SGX**
 - Final Master’s Project, University of Geneva  
 - [GitHub Repository](https://github.com/prasadkjose/Confidential_ML_SGX)
-************
 ### **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
 - Nokia Solutions and Networks, Chennai, India
 
@@ -169,7 +166,7 @@ I hereby declare that the above mentioned information is true to the best of my 
 
 <table style="width:100%; border: none;">
   <tr>
-    <td align="left" style="vertical-align:top; width:10%; border: none;">
+    <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    Place: Praha   <br>
 	    Date: 14.08.2025 <br>
     </td>
@@ -179,4 +176,3 @@ I hereby declare that the above mentioned information is true to the best of my 
     </td>
   </tr>
 </table>
- 
