@@ -2,7 +2,7 @@
 
 <table style="width:100%; border: none;">
   <tr>
-    <td align="left" style="vertical-align:top; width:60%; border: none;">
+    <td align="left" style="vertical-align:top; width:30%; border: none;">
 		Vostrovská 260/40, Praha 160 00<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
       📞 +42 606161852<br>
@@ -14,12 +14,12 @@
   </tr>
 </table>
 
----
+
 ## **Objective**
 
 Senior Software Engineer with a proven track record of leading cross-functional teams to deliver robust, high-quality software solutions seeking opportunities at your esteemed organization.
 
----
+
 ## **Work Experience**
 
 <table style="width:100%; border: none;">
@@ -169,7 +169,7 @@ I hereby declare that the above mentioned information is true to the best of my 
 
 <table style="width:100%; border: none;">
   <tr>
-    <td align="left" style="vertical-align:top; width:60%; border: none;">
+    <td align="left" style="vertical-align:top; width:10%; border: none;">
 	    Place: Praha   <br>
 	    Date: 14.08.2025 <br>
     </td>

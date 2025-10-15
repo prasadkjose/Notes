@@ -50,12 +50,6 @@ git config --global user.email "prasadkjose@gmail.com"
 
 ### 4.1. Terminal Enhancements
 
-*   **Shell:** [e.g., Zsh with Oh My Zsh]
-    *   **Install Zsh:** `sudo apt install zsh -y`
-    *   **Install Oh My Zsh:** `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-    *   **Theme:** [e.g., "Using the 'agnoster' theme."]
-*   **Terminal Emulator:** [e.g., Konsole, Alacritty]
-    *   **Configuration:** [Mention any specific configurations or settings.]
 
 ### 4.2. System Monitoring
 
