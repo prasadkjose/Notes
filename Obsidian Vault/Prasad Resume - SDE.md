@@ -84,8 +84,8 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 	     <i>University of Geneva</i><br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
-      Completed July 2020<br>
-       GPA: 5.10 / 6.0  
+	      Completed July 2020<br>
+	       GPA: 5.10 / 6.0  
     </td>
   </tr>
 </table>
@@ -125,22 +125,21 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 ---
 ## **Projects**
 
-#### **Project 1: Confidential Computing for Machine Learning using Intel SGX**
+### **Project 1: Confidential Computing for Machine Learning using Intel SGX**
 - Final Master’s Project, University of Geneva  
 - [GitHub Repository](https://github.com/prasadkjose/Confidential_ML_SGX)
-
-#### **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
+************
+### **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
 - Nokia Solutions and Networks, Chennai, India
 
 ---
-
 ## **Skill Set**
 
-- **Programming Languages:** JavaScript, C++, Python  
-- **Web Development:** PHP, NodeJS, HTML5  
-- **Frameworks and APIs:** ReactJS, VueJS, WinAPI  
-- **Cloud Technologies:** OCI, Azure  
-- **RDBMS:** Oracle 9i, MySQL  
+**Programming Languages:** JavaScript, C++, Python  
+**Web Development:** PHP, NodeJS, HTML5  
+**Frameworks and APIs:** ReactJS, VueJS, WinAPI  
+**Cloud Technologies:** OCI, Azure  
+**RDBMS:** Oracle 9i, MySQL  
 
 ---
 ## **Achievements & Certifications**
@@ -154,7 +153,7 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 ---
 ## **Membership in Professional Bodies**
 
-- Member of the  International Information System Security Certification Consortium (**ISC²**)  
+- International Information System Security Certification Consortium (**ISC²**)  
 - Member of the **Institute of Engineering and Technology (IET)**  
 - Member of the **Engineers Without Borders** initiative  
 
@@ -168,8 +167,16 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 ## **Declaration**
 I hereby declare that the above mentioned information is true to the best of my knowledge.
 
-**Place:** Praha  
-**Date:** 14.08.2025  
-
-**Signature:**  
-**Prasad Koshy Jose**
+<table style="width:100%; border: none;">
+  <tr>
+    <td align="left" style="vertical-align:top; width:60%; border: none;">
+	    Place: Praha   <br>
+	    Date: 14.08.2025 <br>
+    </td>
+    <td align="right" style="vertical-align:top; width:40%; border: none;">
+	      Signature<br>
+	       Prasad Koshy Jose  
+    </td>
+  </tr>
+</table>
+ 

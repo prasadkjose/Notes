@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Prasad Resume - SDE.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -193,11 +193,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2b20991a28f7a186",
+  "active": "9554327c9e2d78ed",
   "lastOpenFiles": [
-    "Learning Notes/Linux Setup.md",
-    "Prasad Resume - SDE.md",
     "Learning Notes/Foundations of Cybersecurity.md",
+    "Prasad Resume - SDE.md",
+    "Prasad Resume - SDE.docx",
+    "sampe.md",
+    "Untitled",
+    "Prasad Resume - SDE.pdf",
+    "Learning Notes/Linux Setup.md",
     "Learning Notes",
     "scripts/setup_linux.sh",
     "scripts",
