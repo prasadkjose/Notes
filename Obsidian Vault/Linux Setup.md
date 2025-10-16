@@ -22,7 +22,7 @@ This guide outlines the steps I took to set up my current Linux environment.
 ## 2. Post-Installation Configuration
 
 ### 2.1 Essential Software Installation
-
+*Note: Check the packages int he setup script first* 
 
 ``` bash
 chmod +x setup_linux.sh
