@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/Fundamentals of Artificial Intelligence.md",
+                "file": "Linux Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentals of Artificial Intelligence"
+              "title": "Linux Setup"
             }
           }
         ],
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prasad Resume - SDE.md",
+                "file": "Linux Setup.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prasad Resume - SDE"
+              "title": "Outline of Linux Setup"
             }
           },
           {
@@ -140,39 +140,6 @@
             }
           },
           {
-            "id": "2b96f894e10c0ae8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Learning Notes/Fundamentals of Artificial Intelligence.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Fundamentals of Artificial Intelligence"
-            }
-          },
-          {
-            "id": "d54eb30a8547ebf9",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Learning Notes/Fundamentals of Artificial Intelligence.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Fundamentals of Artificial Intelligence"
-            }
-          },
-          {
             "id": "7536a230b6218b00",
             "type": "leaf",
             "state": {
@@ -184,6 +151,39 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
+            }
+          },
+          {
+            "id": "ddc8305a05395bfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Linux Setup"
+            }
+          },
+          {
+            "id": "038bf237101e9f8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Linux Setup"
             }
           }
         ],
@@ -209,10 +209,10 @@
   },
   "active": "fe324030be7e2441",
   "lastOpenFiles": [
-    "Prasad Resume - SDE.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
-    "Untitled.base",
+    "Prasad Resume - SDE.md",
     "Untitled.canvas",
+    "Untitled.base",
     "Linux Setup.md",
     "Learning Notes/Foundations of Cybersecurity.md",
     "Prasad Resume - SDE.docx",

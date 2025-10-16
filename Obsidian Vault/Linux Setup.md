@@ -51,9 +51,14 @@ git config --global user.email "prasadkjose@gmail.com"
 ### 4.1. Terminal Enhancements
 
 
-### 4.2. System Monitoring
+### 4.2. System Monitoring and Power essentials
 
-*   
+*   Sleep is disabled everywhere since in Surface devices there are ACPI issues .
+* Disable sleep
+`sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target`
+
+- Enable sleep again
+`sudo systemctl unmask sleep.target suspend.target hibernate.target hybrid-sleep.target`
 ### 4.3. Keyboard Shortcuts
 
 

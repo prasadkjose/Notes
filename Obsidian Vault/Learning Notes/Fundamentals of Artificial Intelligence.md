@@ -69,4 +69,45 @@
 	2. State representation
 	3. Action space - all possible actions
 	4. Rewards and penalties
-	5. 
+
+
+## Deep Learning
+1. Subset of ML to train ANN with multiple layers. 
+2. Features are extracted from raw and complex data
+3. Representation of this data is built using these features
+4. Parallel processing of data is possible 
+5. Algorithms :
+
+| Image/video | Sequential, timeseries and NLP | Image, video, audio generation |
+| ----------- | ------------------------------ | ------------------------------ |
+| CNNs        | Transformers                   | Transformers                   |
+|             | LSTM                           | Diffusion Models               |
+|             | Recurrent NNs (RNNs)           | GANs                           |
+### Sequence Models: 
+1. Input data is in the form of sequences 
+2. Goal is to make predictions and find patterns
+3. NLP, Speech recognition, Time series analysis, gesture recognition, music gen
+4. RNNs are popular - 
+	1. Hidden state or memory
+	2. Has a feedback loop
+	3. Problem: Long term vanishing radiance - memory for long term context memory
+5. LSTM
+	1. Input processing -> Previous memory -> Gating mechanism -> Updating memory -> Output generation
+	2. Gating mechanism 
+		1. Forget gate
+		2. Input gate
+		3. output gate
+6. CNNs
+	1. Process and analyze grid like data like pixels of an image. 
+	2. Layers: 
+		1. Input
+		2. Feature extraction layers - a 
+			1. Convolution layer - applies operations to the input image using filters known as kernels
+			2. ReLu activation function - Network to learn more complex and non-linear relationship int he data - like curves in a number
+			3. Pooling layer - reduce the complexity and dimensions by focusing on the more appropriate ones. 
+		3. Output layer
+	3. Limitations: 
+		1. Massive data and computation
+		2. Over-fitting - limited training data
+		3. Interpretability - black box
+		4. Sensitivity 

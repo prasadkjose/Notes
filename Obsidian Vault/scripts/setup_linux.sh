@@ -31,5 +31,10 @@ sudo apt install tlp tlp-rdw -y
 sudo systemctl enable tlp
 sudo systemctl start tlp
 
+# --- Install ACPI and other power tools
+sudo apt install acpid acpi powertop upower lm-sensors -y
+sudo systemctl enable acpid
+sudo systemctl start acpid
+
 echo "Setup script finished!"
 echo "Please remember to manually install Obsidian if you haven't already."
