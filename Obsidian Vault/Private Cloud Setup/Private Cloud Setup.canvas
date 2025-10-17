@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"b91bbad0c10b5c7e","x":-314,"y":-157,"width":250,"height":60,"type":"text","text":""}
+		{"id":"b91bbad0c10b5c7e","type":"text","text":"## **Motivation**: \n1. A private cloud system to replace all or most of my cloud subscriptions. \n2. Data privacy issues with cloud storage. \n3. Possibility to extend to family use to extend security. \n4. A reliable media server for flaky streaming services. \n5. ","x":-314,"y":-157,"width":574,"height":317}
 	],
 	"edges":[]
 }

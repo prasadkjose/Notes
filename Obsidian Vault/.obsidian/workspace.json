@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "30d8ee6892d2c486",
+        "id": "dab5bf1c922b0fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "df2cb3bb986be87b",
+            "id": "81b57d4c3986ba9c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "Obsidian Vault/Prasad Resume - SDE.md",
-                "bFile": "Obsidian Vault/Prasad Resume - SDE.md",
-                "aRef": ""
+                "file": "Private Cloud Setup/Private Cloud Setup.canvas",
+                "viewState": {
+                  "x": 14.99993896484375,
+                  "y": 146.3332977294922,
+                  "zoom": 0
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Prasad Resume - SDE"
+              "icon": "lucide-layout-dashboard",
+              "title": "Private Cloud Setup"
             }
           }
         ],
@@ -110,12 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Private Cloud Setup/Private Cloud Setup.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Private Cloud Setup"
             }
           },
           {
@@ -207,11 +211,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "df2cb3bb986be87b",
+  "active": "81b57d4c3986ba9c",
   "lastOpenFiles": [
+    "Private Cloud Setup/NAS Setup.md",
     "Prasad Resume - SDE.md",
     "Linux Setup.md",
-    "Private Cloud Setup/NAS Setup.md",
     "Private Cloud Setup/Private Cloud Setup.canvas",
     "Private Cloud Setup",
     "Untitled.md",
