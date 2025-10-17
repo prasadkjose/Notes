@@ -11,14 +11,17 @@
             "id": "df2cb3bb986be87b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Linux Setup.md",
-                "mode": "source",
-                "source": false
+                "file": "Home Cloud Setup.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Linux Setup"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home Cloud Setup"
             }
           }
         ],
@@ -110,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Setup.md",
+                "file": "Home Cloud Setup.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux Setup"
+              "title": "Outline of Home Cloud Setup"
             }
           },
           {
@@ -208,15 +211,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fe324030be7e2441",
+  "active": "df2cb3bb986be87b",
   "lastOpenFiles": [
-    "Prasad Resume - SDE.md",
     "Linux Setup.md",
+    "Home Cloud Setup.canvas",
+    "Untitled.md",
+    "Prasad Resume - SDE.md",
     "private/Encryption test.md",
     "Untitled",
     "private/Personal Projects.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
-    "Untitled.canvas",
     "Untitled.base",
     "Learning Notes/Foundations of Cybersecurity.md",
     "Prasad Resume - SDE.docx",
