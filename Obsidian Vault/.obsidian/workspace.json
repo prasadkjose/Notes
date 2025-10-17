@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Encryption test.md",
+                "file": "private/Linux Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encryption test"
+              "title": "Linux Setup"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Select",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Projects.md",
+                "file": "private/Linux Setup.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Personal Projects"
+              "title": "Outline of Linux Setup"
             }
           },
           {
@@ -208,11 +209,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9554327c9e2d78ed",
+  "active": "fe324030be7e2441",
   "lastOpenFiles": [
+    "private/Encryption test.md",
     "Untitled",
     "private/Linux Setup.md",
-    "private/Encryption test.md",
     "private/Personal Projects.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
     "Prasad Resume - SDE.md",
