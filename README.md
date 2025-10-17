@@ -19,6 +19,6 @@ This repository is meant to:
 
 - **Markdown** for all notes (`.md` files)
 - **Obsidian** for local note taking, linking and visualization. 
-
+- **Git-crypt** for encryption of some private information that's only for me. This is mainly to keep my repo management simple. 
 ---
 
