@@ -1,4 +1,4 @@
-# Prasad Koshy Jose
+## Prasad Koshy Jose
 
 <table style="width:100%; border: none;">
 <tr>
@@ -14,11 +14,11 @@
   </tr>
 </table>
 
-## **Objective**
+### **Objective**
 
 Senior Software Engineer with a proven track record of leading cross-functional teams to deliver robust, high-quality software solutions seeking opportunities at your esteemed organization.
 
-## **Work Experience**
+### **Work Experience**
 
 <table style="width:100%; border: none;">
   <tr>
@@ -73,7 +73,7 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 </table>
 
 ---
-## **Educational Qualifications**
+### **Educational Qualifications**
 
 <table style="width:100%; border: none;">
   <tr>
@@ -115,22 +115,22 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 </table>
 
 ---
-## **Areas of Interest**
+### **Areas Of Interest**
 
 - Web / Software Design and Development  
 - Cybersecurity – Penetration Testing, Cryptography, IoT, and Security
 
 ---
-## **Projects**
+### **Projects**
 
-### **Project 1: Confidential Computing for Machine Learning using Intel SGX**
+#### **Project 1: Confidential Computing for Machine Learning Using Intel SGX**
 - Final Master’s Project, University of Geneva  
 - [GitHub Repository](https://github.com/prasadkjose/Confidential_ML_SGX)
-### **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
+#### **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
 - Nokia Solutions and Networks, Chennai, India
 
 ---
-## **Skill Set**
+### **Skill Set**
 
 **Programming Languages:** JavaScript, C++, Python  
 **Web Development:** PHP, NodeJS, HTML5  
@@ -139,7 +139,7 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 **RDBMS:** Oracle 9i, MySQL  
 
 ---
-## **Achievements & Certifications**
+### **Achievements & Certifications**
 
 - [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E597B433A2CDB78DAD322EC617742269C6519523F78C58387CD74C3C0D91F458)  
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/d3300737-0695-4f3b-8a47-f1a02c173559/linked_in_profile)  
@@ -148,20 +148,20 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 - Institute of Engineering and Technology – Leadership Award 2017
 
 ---
-## **Membership in Professional Bodies**
+### **Membership In Professional Bodies**
 
 - International Information System Security Certification Consortium (**ISC²**)  
 - Member of the **Institute of Engineering and Technology (IET)**  
 - Member of the **Engineers Without Borders** initiative  
 
 ---
-## **Personal Details**
+### **Personal Details**
 
 **Date of Birth:** 09 January 1997  
 **Languages Known:** English, French (A2), Malayalam, Tamil  
 
 ---
-## **Declaration**
+### **Declaration**
 I hereby declare that the above mentioned information is true to the best of my knowledge.
 
 <table style="width:100%; border: none;">

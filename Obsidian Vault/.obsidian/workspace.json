@@ -11,17 +11,14 @@
             "id": "df2cb3bb986be87b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "Home Cloud Setup.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "aFile": "Obsidian Vault/Prasad Resume - SDE.md",
+                "bFile": "Obsidian Vault/Prasad Resume - SDE.md",
+                "aRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home Cloud Setup"
+              "icon": "diff",
+              "title": "Diff: Prasad Resume - SDE"
             }
           }
         ],
@@ -113,13 +110,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Cloud Setup.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home Cloud Setup"
+              "title": "Outline"
             }
           },
           {
@@ -213,12 +209,13 @@
   },
   "active": "df2cb3bb986be87b",
   "lastOpenFiles": [
-    "Linux Setup.md",
-    "Home Cloud Setup.canvas",
-    "Untitled.md",
     "Prasad Resume - SDE.md",
+    "Linux Setup.md",
+    "Private Cloud Setup/NAS Setup.md",
+    "Private Cloud Setup/Private Cloud Setup.canvas",
+    "Private Cloud Setup",
+    "Untitled.md",
     "private/Encryption test.md",
-    "Untitled",
     "private/Personal Projects.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
     "Untitled.base",
