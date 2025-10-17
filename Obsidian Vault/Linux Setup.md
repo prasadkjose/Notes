@@ -45,6 +45,8 @@ git config --global user.name "prasad koshy jose"
 git config --global user.email "prasadkjose@gmail.com"
 ```
 ---
+### 3.2. Encryption of Repository file and folders
+
 
 ## 4. Additional Tools and Tweaks
 
@@ -59,7 +61,7 @@ git config --global user.email "prasadkjose@gmail.com"
 
 - Enable sleep again
 `sudo systemctl unmask sleep.target suspend.target hibernate.target hybrid-sleep.target`
-### 4.3. Keyboard Shortcuts
+### 4.3.
 
 
 
