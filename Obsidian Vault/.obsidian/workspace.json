@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Linux Setup.md",
+                "file": "Linux Setup.md",
                 "mode": "source",
                 "source": false
               },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Select",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Linux Setup.md",
+                "file": "Linux Setup.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,12 +210,12 @@
   },
   "active": "fe324030be7e2441",
   "lastOpenFiles": [
+    "Prasad Resume - SDE.md",
+    "Linux Setup.md",
     "private/Encryption test.md",
     "Untitled",
-    "private/Linux Setup.md",
     "private/Personal Projects.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
-    "Prasad Resume - SDE.md",
     "Untitled.canvas",
     "Untitled.base",
     "Learning Notes/Foundations of Cybersecurity.md",
