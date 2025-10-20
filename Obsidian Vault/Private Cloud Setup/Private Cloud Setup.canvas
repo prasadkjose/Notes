@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b91bbad0c10b5c7e","type":"text","text":"## **Motivation**: \n1. A private cloud system to replace all or most of my cloud subscriptions. \n2. Data privacy issues with cloud storage. \n3. Possibility to extend to family use to extend security. \n4. A reliable media server for flaky streaming services.","x":-314,"y":-157,"width":574,"height":217},
+		{"id":"91aa6f6b63c94903","type":"text","text":"### NAS Setup ideas\n\n- **What:** Organize files, photos, and media.\n- **Tools:** TrueNAS SCALE, OpenMediaVault, Nextcloud\n- **Why:** Sync files across devices and manage photos privately.","x":-560,"y":220,"width":493,"height":240},
+		{"id":"0ab3b0b995d15dde","type":"text","text":"## Photo management\n- **What:** Organize photos. Google photos replacement\n- **Tools:** Photoprism\n- **Why:** Sync photos across devices and manage photos privately.","x":-1300,"y":640,"width":557,"height":170},
+		{"id":"bec0fec863fc9f59","type":"text","text":"### **Self-Hosted Password Manager**\n- **What:** Store passwords securely on your own server.\n- **Tools:** [Vaultwarden](https://github.com/dani-garcia/vaultwarden) (Bitwarden-compatible)\n- **Why:** End-to-end encryption with no reliance on cloud services.\n    \n- **Bonus:** Works with official Bitwarden mobile and browser clients.","x":-600,"y":640,"width":460,"height":170},
+		{"id":"1beeebe295100ea0","type":"text","text":"\n### **Personal Data Analytics Dashboard**\n\n- **What:** Aggregate data from devices, apps, and sensors.\n- **Tools:** Grafana + Prometheus + InfluxDB\n- **Why:** Visualize usage metrics, NAS storage, or even your coding activity.\n- **Bonus:** Integrate with APIs like WakaTime or GitHub.","x":-67,"y":640,"width":475,"height":198},
+		{"id":"76f59dc665209e9d","type":"text","text":"# World of FOSS","x":140,"y":-460,"width":268,"height":74},
+		{"id":"071cc1838baad585","type":"text","text":"## IDE: \n- **What:** Life long toolkit for me\n- **Tools:** VSCodium\n- **Why:** Free opensource with no telemetry IDE\n\t- AI data mining. \n\t- Integration of AI code assists hosted on local NAS","x":408,"y":-157,"width":412,"height":237}
+	],
+	"edges":[
+		{"id":"f46466a8a1a2a585","fromNode":"91aa6f6b63c94903","fromSide":"bottom","toNode":"0ab3b0b995d15dde","toSide":"top"},
+		{"id":"1949abf4a3eb8b66","fromNode":"91aa6f6b63c94903","fromSide":"bottom","toNode":"bec0fec863fc9f59","toSide":"top"},
+		{"id":"e1ba0ed28afa1d26","fromNode":"91aa6f6b63c94903","fromSide":"bottom","toNode":"1beeebe295100ea0","toSide":"top"},
+		{"id":"2ea6d90a4e66e29e","fromNode":"76f59dc665209e9d","fromSide":"bottom","toNode":"b91bbad0c10b5c7e","toSide":"top"},
+		{"id":"b331d56c415cb348","fromNode":"b91bbad0c10b5c7e","fromSide":"bottom","toNode":"91aa6f6b63c94903","toSide":"top"},
+		{"id":"71a50d95a489039c","fromNode":"76f59dc665209e9d","fromSide":"bottom","toNode":"071cc1838baad585","toSide":"top"}
+	]
+}

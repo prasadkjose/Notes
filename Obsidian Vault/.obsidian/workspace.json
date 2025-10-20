@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "e98322f1f9ed804b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab01ae8766cebe19",
+        "type": "split",
+        "children": [
+          {
+            "id": "dab5bf1c922b0fb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81b57d4c3986ba9c",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "private/Personal Projects.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Personal Projects"
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "312ae2159286b596",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b3f0e7fdb3712c78",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/prasad/Documents/Obsidian Vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/sh",
+                        "name": "",
+                        "platforms": {
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: sh"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b068b1d421ef5cfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "09b813acf7f76026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9554327c9e2d78ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2e618f1bdc373f32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "829f43e241f854fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "8896732167792815",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0acdf7a61b9e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b30904fd2a443e5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e48a9a83406a8b25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Private Cloud Setup/Private Cloud Setup.canvas",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Private Cloud Setup"
+            }
+          },
+          {
+            "id": "fe324030be7e2441",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "9dbcf5a740131d2a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "7536a230b6218b00",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ddc8305a05395bfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Linux Setup"
+            }
+          },
+          {
+            "id": "038bf237101e9f8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Linux Setup"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "terminal:Open terminal": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "b3f0e7fdb3712c78",
+  "lastOpenFiles": [
+    "private/Personal Projects.md",
+    "private/Encryption test.md",
+    "Private Cloud Setup/Private Cloud Setup.canvas",
+    "Private Cloud Setup/NAS Setup.md",
+    "Prasad Resume - SDE.md",
+    "Linux Setup.md",
+    "Private Cloud Setup",
+    "Untitled.md",
+    "Learning Notes/Fundamentals of Artificial Intelligence.md",
+    "Untitled.base",
+    "Learning Notes/Foundations of Cybersecurity.md",
+    "Prasad Resume - SDE.docx",
+    "sampe.md",
+    "Prasad Resume - SDE.pdf",
+    "Learning Notes",
+    "scripts/setup_linux.sh",
+    "scripts",
+    "2025-10-12.md",
+    "2025-10-11.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
