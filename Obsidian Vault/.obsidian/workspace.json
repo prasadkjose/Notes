@@ -11,19 +11,14 @@
             "id": "81b57d4c3986ba9c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/Personal Projects.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Dev Setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Personal Projects"
+              "icon": "lucide-file",
+              "title": "Dev Setup"
             }
           }
         ],
@@ -59,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#VSCodium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,14 +209,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "81b57d4c3986ba9c",
+  "active": "2e618f1bdc373f32",
   "lastOpenFiles": [
+    "Linux Setup.md",
+    "Dev Setup.md",
+    "private/Personal Projects.md",
     "Private Cloud Setup/NAS Setup.md",
     "Private Cloud Setup/Private Cloud Setup.canvas",
-    "private/Personal Projects.md",
     "private/Encryption test.md",
     "Prasad Resume - SDE.md",
-    "Linux Setup.md",
     "Private Cloud Setup",
     "Untitled.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
