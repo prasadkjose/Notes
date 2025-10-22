@@ -11,19 +11,14 @@
             "id": "81b57d4c3986ba9c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/Personal Projects.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Learning Notes/Fundamentals of Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Personal Projects"
+              "icon": "lucide-file",
+              "title": "Fundamentals of Artificial Intelligence"
             }
           }
         ],
@@ -215,12 +210,14 @@
   },
   "active": "81b57d4c3986ba9c",
   "lastOpenFiles": [
+    "private/Cybersecurity Learning Path.md",
+    "private/Encryption test.md",
+    "private/Untitled.md",
+    "private/Personal Projects.md",
     "Dev Setup.md",
     "Linux Setup.md",
-    "private/Personal Projects.md",
     "Private Cloud Setup/NAS Setup.md",
     "Private Cloud Setup/Private Cloud Setup.canvas",
-    "private/Encryption test.md",
     "Prasad Resume - SDE.md",
     "Private Cloud Setup",
     "Untitled.md",

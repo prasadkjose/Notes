@@ -111,3 +111,11 @@
 		2. Over-fitting - limited training data
 		3. Interpretability - black box
 		4. Sensitivity 
+## Generative AI
+1. Subset of DL
+2. Learn underlying patterns and create new data that share common patterns. 
+3. Learns patterns in unstructured(unlabeled) data. 
+4. Types: 
+	1. Text
+	2. Mutimodal - multiple modalities - text, video audio. 
+5. 
