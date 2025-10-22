@@ -1,11 +1,11 @@
 
-### Past attacks
+## Past Attacks
 
 1. Brain virus - licenses tracking - productivity issues
 2. Morris worm - 1988- size of the internet to just tally number of devices having internet. But repeated already infected ones. 
 3. Love letter - steal login creds - emails - I love you - introduced social engineering and phishing
 4. Equifax breach - 40% of americans, PII, SSI, driver licence numbers etc. multiple vulnerabilities 
-### 8 Security Domains by Certified Information Systems Security Professional (CISSP) - 
+## 8 Security Domains by Certified Information Systems Security Professional (CISSP) -
 1. Security and Risk Management - Defines goals, policies, objectives, compliances, business continuation etc HIPA etc
 	
 2. Asset Security - digital or physical like data(PII), equipment, servers etc
@@ -21,13 +21,13 @@
 7. SecOps - investigations and preventive measures. 
 	
 8. Software DevOps - coding practices for security - user data handling, password policies etc. 
-### Security Frameworks: 
+## Security Frameworks:
 1. Security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy
 	
 2. Purpose - Protecting PII, Financial info, identifying security weakness, org risk, align sec with business goals
 	
 3.  Components - ID and Doc sec goals(like GDPR), understand guidelines, implementing processes, monitor results
-### Security Model - CIA 
+## Security Model - CIA
 1. helps inform how organizations consider risk when setting up systems and security policies
 	
 2. Confidentiality - only Authorized person has access - need to know basis
@@ -35,7 +35,7 @@
 3. Integrity - correct, reliable, trusted
 	
 4. Availability - accessible data, network and reliable access
-### Tools
+## Tools
 1.  Security professionals use playbooks to help them manage a security incident before, during, and after it has occurred. 
 2. SIEM Tool: monitors logs and activities data. 
 	1. Splunk:    
@@ -55,7 +55,7 @@
 		    
 		3. Authorization - access control, permissions
 
-### NIST frameworks - 
+### NIST Frameworks -
 1. Cybersecurity Framework(CSF) - Govern, Identify, Protect, Detect, Respond, and Recover
 
 2. OWASP Open Worldwide Application Security Project -
@@ -66,10 +66,10 @@
 	5. Keep simple
 	6. Fix correctly: root cause
     
-### Security Audits: 
+### Security Audits:
 1. Type:
 	1. Usage 
-	2. Previlege
+	2. Privilege
 	3. Account change
 
 2. Establish and understand the scope and goals of the audits
@@ -83,14 +83,14 @@
 5. Compliance checklist: HIIPA and GDPR
     
 6. Communication: results and recommendations
-### **Logs:** 
+### **Logs:**
 
 1. Firewall
 2. Network
 3. Server
 
 
-### Incident Response Playbook: 
+### Incident Response Playbook:
 
 1. Manual for operational action.
 	
@@ -169,10 +169,10 @@
 		4. DNS - translate domain names to IP addresses
     
 
-### Security 
+### Security
 1. HTTP/S - secure comm
 2. SFTP
-3. Mangement: 
+3. Management: 
 	1. SNMP: Simple Network Management Protocol (SNMP) is a network protocol used for monitoring and managing devices on a network.
 	    
 	2. ICMP: Internet Control Message Protocol (ICMP) is an internet protocol used by devices to tell each other about data transmission errors across the network
@@ -187,7 +187,7 @@
 	    
 	7. SSH - Secure remote connection
     
-#### Wireless protocols: 
+#### Wireless Protocols:
 
 1. WEP: Wired equivalent privacy - trial and error key detection
     
@@ -198,7 +198,7 @@
 4. WPA 3 - uses Simultaneous Authentication of Equals (SAE), a password-authenticated, cipher-key-sharing agreement - can't download data and crack it - 128 bit encryption AES
     
 
-#### Firewalls: 
+#### Firewalls:
 
 1. Monitor and filter - port filtering - security rules - 
     
@@ -208,7 +208,7 @@
     
 4. NGFW -  stateful inspection of incoming and outgoing traffic, but it also performs more in-depth security functions like deep packet inspection and intrusion protection. 
     
-#### Subnet: 
+#### Subnet:
 
 1. Subdivision of networks
     
@@ -217,7 +217,7 @@
 3. Classless Inter-Domain Routing (CIDR) - creating subnet masks to IP address to create subnets
     
 4. they include a slash (“/’”) at the end of the IP address
-##### Proxy servers: 
+##### Proxy Servers:
 
 1. Forward - handles internal server requests to access the internet. 
     
@@ -234,14 +234,14 @@
 
 3. Ping of death - sending > 64kb ICMP packets
     
-#### IP Spoofing: 
+#### IP Spoofing:
 
 1. On path: man in the middle - alter source data to gain access and firewall
     
 2. Replay attack - repeat or delay
     
 3. Smurf :  attacker sniffs an authorized user’s IP address and floods it with packets. 
-#### Security Hardening: 
+#### Security Hardening:
 
 1.strengthening the system/ network - reduce attack surface - vulnerability check
 
@@ -268,14 +268,14 @@
 	2. Key Management: in TPMs, CloudHSM
 	    
 
-### Tools in Kali linux
+### Tools in Kali Linux
 
 1. Metasuite: system security
     
 2. Burp suite: app security
     
 3. John the ripper: password breaking
-#### Shell: 
+#### Shell:
 	1. Grep: filters through a file 
 	2. Grep <search term> <target> 
 	3. Piping (|) - sends the output of one command to the input of another
@@ -296,11 +296,11 @@
 			
 		2. Useradd and userdel
 
-## Vulnerabilities in systems
+## Vulnerabilities in Systems
 1. Cycle through the management step
 2.  CI/CD can make automated tests easier.
 3. Threats: dependencies, permissions, sec testing missing, exposed secrets, build environments
-### Defense in depth model: 5 layer design
+### Defense in Depth Model: 5 Layer Design
 
 1. Perimeter layer: authentication layer - passwords
 	
@@ -311,7 +311,7 @@
 4. Application layer: MFA etc
 	
 5. Data Layer: PII defense etc, asset classification
-### CVE: common vulnerability and exposures
+### CVE: Common Vulnerability and Exposures
 1. Criteria; 
 	1. Independence of other issues
 		
@@ -343,7 +343,7 @@
 		
 	10. Server-side request forgery
 		
-### Assessments: 
+### Assessments:
     
 1. Identification: state of security system
 	
@@ -354,7 +354,7 @@
 4. Remediation
     
 
-### Pentesting: 
+### Pentesting:
 
 1. Simulated attach to identify vulnerabilities.
 	
@@ -366,10 +366,10 @@
 	2. Closedbox - no access at all - external, black-box, or zero knowledge penetration testing
 		
 	3. Partial knowledge: limited knowledge and access - greybox testing
-### Threats: 
+### Threats:
 1. Cryptojacking: Illegally installing malware to mine crypto
 	
-2. Crosssite scripting (XSS): 
+2. Cross-site scripting (XSS): 
 	
 
 3. Insert code to manipulate;
@@ -387,7 +387,7 @@
 		
 	3. Inferential - analyzing the behavior of the system.
 
-### Prevention 
+### Prevention
 1. Prepared statements: a coding technique that executes SQL statements before passing them on to a database
 	
 2. Input sanitization: programming that removes user input which could be interpreted as code.
@@ -396,7 +396,7 @@
     
 
 ## Threat Modeling
-###  Process
+### Process
 1. Define the scope
 	
 2. Identify threat
@@ -416,8 +416,8 @@
 	### Trike
 	### VAST: Visual, Agile, and Simple Threat (VAST)
     
-## Incident detection and response: 
-### Lifecycle 
+## Incident Detection and Response:
+### Lifecycle
 1. Preparation
 	
 2. Detection and Analysis
@@ -425,13 +425,13 @@
 3. Containment and eradication
 	
 4. Postincident analysis
-### Computer security incident response teams(CSIRTs) Roles: 
+### Computer Security Incident Response teams(CSIRTs) Roles:
 1. security analyst 
 	
 2. Tech/op lead
 	
 3. Incident Coordinator - Communication
-### Tools 
+### Tools
 1. Intrusion Detection/Prevention system - Snort, Sarcata
 	
 2. Documentation Tools
@@ -457,7 +457,7 @@
 1. Automate
 	
 2. Manage and central access
-## Network Security: 
+## Network Security:
     
 1. Flow Analysis
 	
@@ -499,7 +499,7 @@
 					
 			3. TTL
 				
-			4. Protol - TCP(6)
+			4. Protocol - TCP(6)
 				
 			5. Checksum
 				
@@ -511,19 +511,19 @@
 			
 		2. Network-based intrusion detection system (NIDS)
 
-#### Detection: 
+### Detection:
 1.  Signature analysis to detect events. 
 
 2. Suracata is a NIDS where rules can be created for signature
 ``` <action> <header> <source> -> <dest> (<options>)  <option> ```
 
-4. Options are in parentheses -:value like (msg:”GET something”)
+3. Options are in parentheses -:value like (msg:”GET something”)
 
-5. Format type is EVE.JSON - extensible event  Format JSON
+4. Format type is EVE.JSON - extensible event  Format JSON
 
-6. Fast.log has the alerts
+5. Fast.log has the alerts
     
-#### Anomaly-based analysis
+### Anomaly-based Analysis
 1. Security Testing with python: 
 	
 	2. Testing:

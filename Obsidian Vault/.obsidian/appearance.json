@@ -1,4 +1,6 @@
 {
   "cssTheme": "GitHub Theme",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
 }
