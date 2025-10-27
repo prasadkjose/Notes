@@ -36,5 +36,20 @@ sudo apt install acpid acpi powertop upower lm-sensors -y
 sudo systemctl enable acpid
 sudo systemctl start acpid
 
+# --- Try to install codium using snap
+if command -v snap &>/dev/null; then
+    echo "Snap is available, installing codium using snap..."
+    snap install codium --classic
+    # Check if the snap command was successful
+    if [ $? -ne 0 ]; then
+        echo "Snap installation failed, falling back to apt..."
+        sudo apt update && sudo apt install -y codium
+    fi
+else
+    echo "Snap is not available, installing codium using apt..."
+    sudo apt update && sudo apt install -y codium
+fi
+
+
 echo "Setup script finished!"
 echo "Please remember to manually install Obsidian if you haven't already."
