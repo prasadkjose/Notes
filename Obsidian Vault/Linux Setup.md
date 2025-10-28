@@ -104,7 +104,7 @@ gpg --import secret.asc
 
 #### 4.1. Terminal Enhancements
 
-
+I am yet to find a better terminal than Konsole
 #### 4.2. System Monitoring and Power Essentials
 
 *   Sleep is disabled everywhere since in Surface devices there are ACPI issues .

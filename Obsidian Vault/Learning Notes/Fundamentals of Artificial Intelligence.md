@@ -88,9 +88,10 @@
 2. Goal is to make predictions and find patterns
 3. NLP, Speech recognition, Time series analysis, gesture recognition, music gen
 4. RNNs are popular - 
-	1. Hidden state or memory
-	2. Has a feedback loop
-	3. Problem: Long term vanishing radiance - memory for long term context memory
+	1. Handles Sequential Data
+	2. Hidden state or memory
+	3. Has a feedback loop
+	4. Problem: Long term vanishing radiance - memory for long term context memory- Doesn't see words that are far away in a sentence
 5. LSTM
 	1. Input processing -> Previous memory -> Gating mechanism -> Updating memory -> Output generation
 	2. Gating mechanism 
@@ -118,4 +119,23 @@
 4. Types: 
 	1. Text
 	2. Mutimodal - multiple modalities - text, video audio. 
-5. 
+5. Transformers - 
+	1. LLMs are based on Transformers
+	2. Parameters are adjustable weights in the NN
+	3. In a sentence, transformers can see all the words at the same time.
+	4. Transformers have encoders and decoders modules - To and from a vector representation(Embeddings) of the data. 
+	5. Uses tokens as the smallest level of unit. 
+	6. Embeddings are useful as there is a vector database to query based on the user input test - Retrieval Augmented Generation(RAG)
+		1. RAG doesn't need fine tuning
+	7. Decoders can take a sequence of tokens and outputs a token one at a time. It has a many to one. It can also have a loop back to the decoder to get more tokens and form a sentence. 
+6. Prompt Engineering
+	1. Reinforcement Learning from Human Feedback(RLHF) - Give prompts to the LLM and monitor it's outputs and tweak it. 
+	2. Types and methodologies: 
+		1. In-context Learning - conditioning a LLM with instructions. 
+		2. k-shot prompting - giving it examples of the intended task.
+		3. Chain of thought Prompting -  give ti reasoning steps and describing the calculation logic with examples.
+	3. Hallucination: False or incorrect data provided by the LLM - subtle - no errors in the language 
+7. Customize LLM: 
+	1. Prompt engineering, RAG and Fine-tuning
+	2. Take a pretrained model and provide custom data for specific tasks. 
+	3. Model efficiency is better by using fewer tokens .

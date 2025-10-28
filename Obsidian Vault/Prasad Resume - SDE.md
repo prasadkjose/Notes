@@ -171,6 +171,7 @@ I hereby declare that the above mentioned information is true to the best of my 
 	    Date: 14.08.2025 <br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
+	    <img src="pic_trulli.jpg" alt="Italian Trulli">
 	      Signature<br>
 	       Prasad Koshy Jose  
     </td>
