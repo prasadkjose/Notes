@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev Setup.md",
+                "file": "private/Cybersecurity Learning Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dev Setup"
+              "title": "Cybersecurity Learning Path"
             }
           }
         ],
@@ -210,13 +210,14 @@
   "active": "6d776619c461ada2",
   "lastOpenFiles": [
     "private/Personal Projects.md",
+    "private/Cybersecurity Learning Path.md",
+    "Untitled Kanban.md",
+    "Dev Setup.md",
     "private/Encryption test.md",
     "Learning Notes/Foundations of Cybersecurity.md",
-    "private/Cybersecurity Learning Path.md",
     "Private Cloud Setup/Private Cloud Setup.canvas",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
     "private/Untitled.md",
-    "Dev Setup.md",
     "Linux Setup.md",
     "Private Cloud Setup/NAS Setup.md",
     "Prasad Resume - SDE.md",
