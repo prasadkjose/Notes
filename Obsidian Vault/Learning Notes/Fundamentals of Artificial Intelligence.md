@@ -22,7 +22,7 @@
 3. Vision Related AI Tasks
 	1. Gen AI Models:
 		1. CNNs - pattern in images - hierarchical representations
-		2. YOLO - object detection in images
+		2. YOLO - object detection in images - deep learning
 		3. Generative Adversarial Networks (GAN) - image generation
 4. Anomaly detection
 5. Recommendation
@@ -33,7 +33,7 @@
 2. ML - Algorithms to learn from past data and predict on new data
 	1. Identify trends 
 	2. Types -
-		1. Supervised - Learning from labelled data
+		1. Supervised - Learning from labelled data-
 		2. Unsupervised -  
 			1. No label & extracts trends from data
 			2. Grouping into clusters
@@ -91,7 +91,7 @@
 	1. Handles Sequential Data
 	2. Hidden state or memory
 	3. Has a feedback loop
-	4. Problem: Long term vanishing radiance - memory for long term context memory- Doesn't see words that are far away in a sentence
+	4. Problem: Long term vanishing gradiance - memory for long term context memory- Doesn't see words that are far away in a sentence
 5. LSTM
 	1. Input processing -> Previous memory -> Gating mechanism -> Updating memory -> Output generation
 	2. Gating mechanism 
@@ -164,4 +164,18 @@
 	1. Bypass CPU for GPU to GPU direct communication
 	2. Low latency
 	3. Buffers to make long distance communication low latency
-4. 
+4. OCI AI Services
+	1. fully managed service
+	2. Choice of Models
+	3. Flexible fine tuning - T-Few(Cohere) using dedicated clusters
+	4. Chat - Cohere and Llama 3
+	5. Embeddings - Cohere English and multilingual
+5. Vector Search in Oracle 23ai
+	1. Perform vector searching for images etc
+	2. Supports distance functions like cosine,
+	3. Can use SQL and vector search together
+	4. Can create vector Index like normal index for caching using DISTANCE clause
+	5. Uses APPROXIMATE or EXACT clause for matching results. 
+	6. Select AI
+		1. Data Layer for LLMs
+		2. Use natural language to query data
