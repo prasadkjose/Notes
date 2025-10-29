@@ -27,6 +27,9 @@ echo "Installing earlyoom..."
 sudo apt install earlyoom -y
 
 # --- Install tlp ---
+# --- If You encounter any poer related issues, batter management, sleep or boot problems,
+# --- remove the below packages. 
+
 echo "Installing tlp..."
 sudo apt install tlp tlp-rdw -y
 sudo systemctl enable tlp
@@ -36,6 +39,7 @@ sudo systemctl start tlp
 sudo apt install acpid acpi powertop upower lm-sensors -y
 sudo systemctl enable acpid
 sudo systemctl start acpid
+
 
 # --- Dev Setup ---
 # --- Try to install codium using snap ---

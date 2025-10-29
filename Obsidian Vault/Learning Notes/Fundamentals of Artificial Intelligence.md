@@ -139,3 +139,29 @@
 	1. Prompt engineering, RAG and Fine-tuning
 	2. Take a pretrained model and provide custom data for specific tasks. 
 	3. Model efficiency is better by using fewer tokens .
+
+## OCI AI Portfolio
+1. AI Services: 
+	1. Application layer of services
+	2. Language: pretrained models, sentiment analysis - custom models - translation
+	3. Vision: 
+	4. Speech
+	5. Document Understanding: OCR - text extraction - key value extraction - table extraction -document classification
+	6. Digital Assistants
+2. ML services: 
+	1. Data layer of services
+	2. Data Science OCI
+		1. Full ML life-cycle
+		2. Principles: 
+			1. Accelerated - automation, libraries
+			2. Collaborative
+			3. Enterprise grade - fully managed - enterprise grade
+			4.  Model Deployments in OCI Data Science enable you to deploy your machine learning models as HTTP endpoints
+			5. Jobs - define and run repeatable machine learning tasks and workflows.
+	3. ML in database
+	4. Data labeling
+3. RDMA Super Cluster - Remote Direct Memory access
+	1. Bypass CPU for GPU to GPU direct communication
+	2. Low latency
+	3. Buffers to make long distance communication low latency
+4. 
