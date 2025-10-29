@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "private/Cyber Security Learning Path.md",
+                "file": "private/Personal Projects.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -24,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Cyber Security Learning Path"
+              "title": "Personal Projects"
             }
           }
         ],
@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +215,11 @@
   },
   "active": "6d776619c461ada2",
   "lastOpenFiles": [
+    "Linux Setup.md",
+    "private/Cyber Security Learning Path.md",
     "private/Personal Projects.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
-    "private/Cyber Security Learning Path.md",
     "Prasad Resume - SDE.md",
-    "Linux Setup.md",
     "Learning Notes/Foundations of Cybersecurity.md",
     "private/Encryption test.md",
     "private/Cybersecurity Learning Path.md",

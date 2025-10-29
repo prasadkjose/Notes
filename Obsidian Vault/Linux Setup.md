@@ -102,10 +102,7 @@ gpg --import secret.asc
 ---
 ### 4. Additional Tools and Tweaks
 
-#### 4.1. Terminal Enhancements
-
-I am yet to find a better terminal than Konsole
-#### 4.2. System Monitoring and Power Essentials
+#### 4.1. System Monitoring and Power Essentials
 
 *   Sleep is disabled everywhere since in Surface devices there are ACPI issues .
 * Disable sleep
@@ -113,7 +110,7 @@ I am yet to find a better terminal than Konsole
 
 * Enable sleep again
 `sudo systemctl unmask sleep.target suspend.target hibernate.target hybrid-sleep.target`
-#### 4.3.
+#### 4.2.
 
 
 
