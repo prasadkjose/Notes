@@ -21,7 +21,7 @@
 		6. Siamese Networks
 3. Vision Related AI Tasks
 	1. Gen AI Models:
-		1. CNNs - pattern in images - hierarchical representations
+		1. CNN - pattern in images - hierarchical representations
 		2. YOLO - object detection in images - deep learning
 		3. Generative Adversarial Networks (GAN) - image generation
 4. Anomaly detection
@@ -104,7 +104,7 @@
 		1. Input
 		2. Feature extraction layers - a 
 			1. Convolution layer - applies operations to the input image using filters known as kernels
-			2. ReLu activation function - Network to learn more complex and non-linear relationship int he data - like curves in a number
+			2. ReLu activation function - Network to learn more complex and non-linear relationship in the data - like curves in a number
 			3. Pooling layer - reduce the complexity and dimensions by focusing on the more appropriate ones. 
 		3. Output layer
 	3. Limitations: 
@@ -120,20 +120,21 @@
 	1. Text
 	2. Mutimodal - multiple modalities - text, video audio. 
 5. Transformers - 
-	1. LLMs are based on Transformers
-	2. Parameters are adjustable weights in the NN
-	3. In a sentence, transformers can see all the words at the same time.
-	4. Transformers have encoders and decoders modules - To and from a vector representation(Embeddings) of the data. 
-	5. Uses tokens as the smallest level of unit. 
-	6. Embeddings are useful as there is a vector database to query based on the user input test - Retrieval Augmented Generation(RAG)
+	1. GPT - Generative Pre-trained Transformer
+	2. LLMs are based on Transformers
+	3. Parameters are adjustable weights in the NN
+	4. In a sentence, transformers can see all the words at the same time.
+	5. Transformers have **encoders** and **decoders** modules - To and from a vector representation(Embeddings) of the data. 
+	6. Uses tokens as the smallest level of unit. 
+	7. Embeddings are useful as there is a vector database to query based on the user input test - Retrieval Augmented Generation(RAG)
 		1. RAG doesn't need fine tuning
-	7. Decoders can take a sequence of tokens and outputs a token one at a time. It has a many to one. It can also have a loop back to the decoder to get more tokens and form a sentence. 
+	8. Decoders can take a sequence of tokens and outputs a token one at a time. It has a many to one. It can also have a loop back to the decoder to get more tokens and form a sentence. 
 6. Prompt Engineering
 	1. Reinforcement Learning from Human Feedback(RLHF) - Give prompts to the LLM and monitor it's outputs and tweak it. 
 	2. Types and methodologies: 
 		1. In-context Learning - conditioning a LLM with instructions. 
 		2. k-shot prompting - giving it examples of the intended task.
-		3. Chain of thought Prompting -  give ti reasoning steps and describing the calculation logic with examples.
+		3. Chain of thought Prompting -  give it reasoning steps and describing the calculation logic with examples.
 	3. Hallucination: False or incorrect data provided by the LLM - subtle - no errors in the language 
 7. Customize LLM: 
 	1. Prompt engineering, RAG and Fine-tuning

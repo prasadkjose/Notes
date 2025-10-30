@@ -11,20 +11,14 @@
             "id": "6d776619c461ada2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/Personal Projects.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Learning Notes/Fundamentals of Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Personal Projects"
+              "icon": "lucide-file",
+              "title": "Fundamentals of Artificial Intelligence"
             }
           }
         ],
@@ -215,9 +209,9 @@
   },
   "active": "6d776619c461ada2",
   "lastOpenFiles": [
+    "private/Personal Projects.md",
     "Linux Setup.md",
     "private/Cyber Security Learning Path.md",
-    "private/Personal Projects.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
     "Prasad Resume - SDE.md",
     "Learning Notes/Foundations of Cybersecurity.md",
