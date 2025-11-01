@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
+                "file": "Blog/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM"
+              "title": "Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM"
             }
           }
         ],
@@ -210,8 +210,9 @@
   },
   "active": "6b62c318d60bb608",
   "lastOpenFiles": [
+    "Blog/Blog Cover Image.png",
     "private/Blog Drafts/BLOG Framework.md",
-    "Blog/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
+    "Blog/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "private/TODO.md",
     "README.md",
     "private/Personal Projects.md",

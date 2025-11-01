@@ -24,7 +24,7 @@ I became curious about this and set out to find why Linux’s default OOM killer
 **The big why:**  
 It turns out that the OOM killer is called by the kernel as the absolute _last resort._  
 It provides no guarantees about the unpredictable state of the system.  
-In reality, the system isn’t truly locked up — it will eventually process the pending tasks,  
+In reality, the system isn’t truly locked up. It will eventually process the pending tasks,  
 or the OOM killer will finally get enough time to kill a few processes.
 
 So here’s the question I always have when my machine just freezes:  
