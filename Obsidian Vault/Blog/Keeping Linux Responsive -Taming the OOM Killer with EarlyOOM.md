@@ -5,6 +5,8 @@
 Here is another, more accurate analogy. Linux kernel's OOM killer is like a firefighter who shows up after the house is already ashes. I am pretty sure it kills something, but your screen is already grey, system is frozen, and those Ctrl+ALT+Del panic smashing is fruitless. 
 
 ---
+### Findings
+ 
  How does the linux kernel choose it's target to kill? 
  Let me quote the original kernel method doc for `out_of_memory()`
  
