@@ -9,8 +9,7 @@ Here is another, more accurate analogy. Linux kernel's OOM killer is like a fire
  Let me quote the original kernel method doc for `out_of_memory()`
  
  > [!cite] [Kernal Doc](https://github.com/torvalds/linux/blob/ec0b62ccc986c06552c57f54116171cfd186ef92/mm/oom_kill.c#L1118)
- > 
-  If we run out of memory, we have the choice between either killing a random task (bad), letting the system crash (worse) OR try to be smart about which process to kill. Note that we don't have to be perfect here, we just have to be good.
+ >> If we run out of memory, we have the choice between either killing a random task (bad), letting the system crash (worse) OR try to be smart about which process to kill. Note that we don't have to be perfect here, we just have to be good.
 
 It chooses a method based on it's badness, a kind of naughty list. A process is naughty if it uses a lot of memory but haven't been running long. It's important to note that it's not quite easy to determine which process to kill. It's partial towards root process are they are assumed to be well behaved. If processes have direct access to any hardware, they are pushed further down the naughty list. 
 
