@@ -11,19 +11,14 @@
             "id": "6b62c318d60bb608",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "private/Blog Drafts/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM"
             }
           }
         ],
@@ -214,10 +209,11 @@
   },
   "active": "6b62c318d60bb608",
   "lastOpenFiles": [
+    "private/Blog Drafts/BLOG Framework.md",
+    "private/Blog Drafts/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
     "private/TODO.md",
     "README.md",
     "private/Personal Projects.md",
-    "private/Blog Drafts/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
     "private/Blog Drafts",
     "Blog",
     "Prasad Resume - SDE.md",
