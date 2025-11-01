@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Blog Drafts/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
+                "file": "Blog/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
                 "mode": "source",
                 "source": false
               },
@@ -207,10 +207,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6b62c318d60bb608",
+  "active": "9554327c9e2d78ed",
   "lastOpenFiles": [
     "private/Blog Drafts/BLOG Framework.md",
-    "private/Blog Drafts/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
+    "Blog/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
     "private/TODO.md",
     "README.md",
     "private/Personal Projects.md",
