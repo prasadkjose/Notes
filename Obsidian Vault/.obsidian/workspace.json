@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prasad Resume - SDE.md",
+                "file": "private/Blog Drafts/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prasad Resume - SDE"
+              "title": "Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM"
             }
           }
         ],
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "8896732167792815",
@@ -178,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prasad Resume - SDE.md",
+                "file": "private/Blog Drafts/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prasad Resume - SDE"
+              "title": "Outgoing links from Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM"
             }
           }
         ],
@@ -209,13 +210,16 @@
   },
   "active": "fe324030be7e2441",
   "lastOpenFiles": [
+    "private/Blog Drafts",
+    "private/Personal Projects.md",
+    "private/Blog Drafts/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
+    "Blog",
+    "Prasad Resume - SDE.md",
     "README.md",
     "private/README.md",
     "private/Learning Path.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
-    "private/Personal Projects.md",
     "Linux Setup.md",
-    "Prasad Resume - SDE.md",
     "Learning Notes/Foundations of Cybersecurity.md",
     "private/Encryption test.md",
     "private/Cybersecurity Learning Path.md",
