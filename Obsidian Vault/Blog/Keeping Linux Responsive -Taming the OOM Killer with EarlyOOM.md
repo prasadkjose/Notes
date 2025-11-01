@@ -11,35 +11,51 @@ Here is another, more accurate analogy. Linux kernel's OOM killer is like a fire
  > [!cite] [Kernal Doc](https://github.com/torvalds/linux/blob/ec0b62ccc986c06552c57f54116171cfd186ef92/mm/oom_kill.c#L1118)
  >> If we run out of memory, we have the choice between either killing a random task (bad), letting the system crash (worse) OR try to be smart about which process to kill. Note that we don't have to be perfect here, we just have to be good.
 
-It chooses a method based on it's badness, a kind of naughty list. A process is naughty if it uses a lot of memory but haven't been running long. It's important to note that it's not quite easy to determine which process to kill. It's partial towards root process are they are assumed to be well behaved. If processes have direct access to any hardware, they are pushed further down the naughty list. 
+It chooses a method based on its _badness_ — a kind of naughty list.  
+A process is “naughty” if it uses a lot of memory but hasn’t been running long.  It’s important to note that it’s not easy to determine which process to kill.  
+The OOM killer is partial toward root processes, as they’re assumed to be well-behaved.  If processes have direct access to any hardware, they’re pushed further down the naughty list.
 
-So why does Linux hang indefinitely when my system runs out of memory? 
-While in theory, the OOM killer should free up space and fix this. But why doesn't this happen? I became interested in this and set out to find why Linux's default OOM killer doesn't work as expected. 
+*So why does Linux hang indefinitely when the system runs out of memory?*  
+In theory, the OOM killer should free up space and fix this — but why doesn’t it?  
+I became curious about this and set out to find why Linux’s default OOM killer doesn’t work as expected.
 
-The big why? It turns out that the OOM killer is called by the kernel as the absolute last resort. It provides no guarantee as to the unpredictable state of the system. In reality, the system is not really locked up, it will eventually process the running tasks or the OOM killer gets sufficient time to kill enough processes. 
+**The big why:**  
+It turns out that the OOM killer is called by the kernel as the absolute _last resort._  
+It provides no guarantees about the unpredictable state of the system.  
+In reality, the system isn’t truly locked up — it will eventually process the pending tasks,  
+or the OOM killer will finally get enough time to kill a few processes.
 
-So here's a question I always have when my machine just freezes. Why didn't the mighty hit-man take out a process and unfreeze my machine? It turns out the native OOM killer tries it's best to stay away from any processes in the userspace. Do I have 20 chrome tabs open, devouring my RAM? Yes. Will the OOM killer do anything about it? NO. 
+So here’s the question I always have when my machine just freezes:  
+Why didn’t the mighty hitman take out a process and unfreeze my system?  
+It turns out the native OOM killer tries its best to stay away from any processes in _userspace._  
+Do I have 20 Chrome tabs open, devouring my RAM? Yes.  Will the OOM killer do anything about it? No.
 
 ---
 
-So here is where the question gets more complicated. On my machine, I expect the OOM killer to terminate a couple of older chrome tabs. What about a server? Do you really want to kill your DB and hope that those beautiful schemas are unaffected? What about the combustion control system on the International Space Station? What process do we kill there? The last one might have been an hyperbole but the complexity of the issue remain. 
+So here is where the question gets more complicated. On my machine, I expect the OOM killer to terminate a couple of older Chrome tabs. But what about a server? Do you really want to kill your DB and hope that those beautiful schemas remain unaffected? 
+What about the combustion control system on the International Space Station? What process do we kill there? The last one might have been an hyperbole, but the complexity of the issue remain. 
 
-I know some of you are thinking, what about memory swaps? It doesn't really help by allocating half of your SSD as swap memory and wait for the processes to slowly execute.
-What I needed for specifically for my use case was an OOM killer that targets user processes, like those memory hungry chrome tabs.  If you have gotten this far, I would assume you have also been in this situation. So without further ado, let me introduce you to [Earlyoom](https://github.com/rfjakob/earlyoom), a simple and solid tool that's written in pure C with absolutely n dependencies. You can read about it in detail on their [Github](https://github.com/rfjakob/earlyoom). 
+I know some of you are thinking: *what about memory swaps*? It doesn't really help to allocate half of your SSD as swap memory and wait for the processes to crawl along painfully.
 
-This is how it works. Earlyoom monitors available memory(both primary and swap) and when user defined thresholds(default is 10%) are met, it kills the process consuming the most memory. 
-Earlyoom came out as a winner to me among alternatives like Meta's [OOMD](https://github.com/facebookincubator/oomd) for it's simplicity, easy usage and very clear documentation. Did I forget to mention that it checks the memory 10 times per second? It leaves no chances for a frozen system. Guess how much memory it uses for all this? 2MiB total and almost 90% of it is native c libraries that's shared with other processes. 
+What I needed specifically for my use case was an OOM killer that targets user processes, like those memory hungry Chrome tabs.  If you have gotten this far, I'll assume you have also been in this situation. So, without further ado, let me introduce you to [Earlyoom](https://github.com/rfjakob/earlyoom), a simple and solid tool that's written in pure C with absolutely no dependencies. You can read about it in detail on their [Github](https://github.com/rfjakob/earlyoom). 
+
+This is how it works. Earlyoom monitors available memory(both primary and swap) and when user defined thresholds(default is 10%) are reached, it kills the process consuming the most memory. 
+
+Earlyoom came out as a winner to me among alternatives like Meta's [OOMD](https://github.com/facebookincubator/oomd) for it's simplicity, easy usage and excellent documentation. 
+
+Did I forget to mention that it checks the memory 10 times per second? It leaves no chances for a frozen system. Guess how much memory it uses for all this? 2MiB total and almost 90% of it is native c libraries that's shared with other processes. 
 
 ---
+### Summary 
 
 1. Linux's kernel is very robust and plans to act when there is a serious issue. sometimes this might take some time or won't yield the results you expect. 
 2. The native OOM killer is built to save your machine or server from many general issues like memory leaks and total collapse.  
 3. This is where Earlyoom is effective and gets to work before the kernel has to. It's fast, small and efficient and get the job done. 
-4. You can run it as a `systemd` service on machine startup and access all it's logs with `journalctl`
+4. You can run it as a `systemd` service on machine startup and access all it's logs with `journalctl`.
 5. You can set up desktop notifications in GUI to know which process was terminated.
 
 ---
-## TL;DR:
+## TL;DR
 
 1. Don't worry if your personal computer has only 4 or 8 GB ram. Use Earlyoom to prevent your system being slow or frozen. 
 2. The best solution is the one that acts before you even notice the issue. 

@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "8896732167792815",
@@ -207,7 +208,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9554327c9e2d78ed",
+  "active": "6b62c318d60bb608",
   "lastOpenFiles": [
     "private/Blog Drafts/BLOG Framework.md",
     "Blog/Keeping Linux Responsive -Taming the OOM Killer with EarlyOOM.md",
