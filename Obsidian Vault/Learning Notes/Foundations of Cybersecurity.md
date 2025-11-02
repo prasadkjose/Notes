@@ -6,6 +6,7 @@
 3. Love letter - steal login creds - emails - I love you - introduced social engineering and phishing
 4. Equifax breach - 40% of americans, PII, SSI, driver licence numbers etc. multiple vulnerabilities 
 ## 8 Security Domains by Certified Information Systems Security Professional (CISSP) -
+
 1. Security and Risk Management - Defines goals, policies, objectives, compliances, business continuation etc HIPA etc
 	
 2. Asset Security - digital or physical like data(PII), equipment, servers etc
@@ -58,10 +59,15 @@
 ### NIST Frameworks -
 1. Cybersecurity Framework(CSF) - Govern, Identify, Protect, Detect, Respond, and Recover
 
-2. OWASP Open Worldwide Application Security Project -
+2. MAC + LAC + RBAC
+	1. Mandatory Access Control - Default barriers and constrains depending on it's value. Like policies and rules. 
+	2. Logical access control - Tangible methods that limit control. like passords, biometrics, badges
+	3. Role based access control - privileges based on user roles - privilege creep or permissions creep.
+3. OWASP Open Worldwide Application Security Project -
 	1. Minimize surface
 	2. Principle of least privilege
 	3. Defense in Depth: vary the security controls
+		1. Security barriers across multiple layers of the org. MFA is a technical example
 	4. Separation of duties
 	5. Keep simple
 	6. Fix correctly: root cause
@@ -88,24 +94,33 @@
 1. Firewall
 2. Network
 3. Server
-
-
 ### Incident Response Playbook:
 
+1. Definitions: 
+
+| Breach                                                                                  | Event                                                 | Exploit                             | Incident                       |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------- | ------------------------------ |
+| loss of control, compromise,  <br>unauthorized disclosure or   <br>acquisition of data. | Any observable occurrence in a network  <br>or system | An attack. Exploits vulnerabilities | Event that jeopardizes the CIA |
+
+| Intrusion                                                                      | Threat                   | Vulerability                                     | Zeroday               |
+| ------------------------------------------------------------------------------ | ------------------------ | ------------------------------------------------ | --------------------- |
+| Security event or combination of events that constitutes a deliberate incident | Potential security event | Weakness in the system, procedures, controls etc | Unknown vulnerability |
 1. Manual for operational action.
-	
+	1.  The **red book** serves as a hard copy backup accessible outside the facility, containing outlined procedures in case electronic access is unavailable
+		
 2. Identity, contain and correct
 	
-3. 6 phases: 
-	1. Preparation: education, plans, procedures - roles etc
+3. 6 phases (ISC2 has only 4 phases): 
+	1. **Preparation**: education, plans, procedures - roles etc
+		1. Procedures are explicit repeatable tasks and are well defined
+			
+	2. **detection** and analysis
 		
-	2. detection and analysis
-		
-	3. Containment: impact reduction and minimize damage
+	3. **Containment**: impact reduction and minimize damage
 		
 	4. Eradication and recovery: normallize, It restoration
 		
-	5. Post incident: comms, analysis of the incident and try to fix posture
+	5. **Post incident**: comms, analysis of the incident and try to fix posture
 		
 	6. Coordination: meet compliance and coordinate response
 
@@ -119,20 +134,24 @@
 	    
 	3. Router - connect multiple networks and devices
 	    
-	4. Model - internet access
-    
+	4. Modem - internet access
+2. Microsegmentation:
+	1. A away to protect again polymorphic attacks
+	2. Allows granular restrictions - uses logic rules not physical ones- 
+	3. Ultimate defense in depth philosophy 
+	4. VPNs and software defined netowrking and virtualization make this easier
+3. **Demilitarized Zones** (DMZ) are a portion of the network which interfaces directly with the outside world and has more security controls and restrictions than its wider IT environment.
+4. TCP/IP: 
 
-2. TCP/IP: 
-
-3. TCP- 2 endpoints connection
+5. TCP- 2 endpoints connection
     
-	1. IP - between devices on a networl
+	1. IP - between devices on a network
 		1. IPv4: 4 char . 0 to 255
 		    
 		2. IPv6: 8 hex chars -  better routing
 		    
 
-4. 4 layers: 
+6. 4 layers: 
 	1. Network access: Creation of packets and transmission
 	    
 	2. Internet: IP addresses are attached - LAN or WAN
@@ -142,7 +161,7 @@
 	4. Application: HTTP, TLS, DNS
     
 
-5. OSI Model: 
+7. OSI Model: 
 	1. Physical
 	    
 	2. Data LInk
@@ -157,7 +176,7 @@
 	    
 	7. Application
     
-6. Network Protocols: 
+8. Network Protocols: 
 
 	1. Communication 
 		1. TCP - handshake - request - response
@@ -530,3 +549,9 @@
 	3. Static Application Security testing(SAST): Code analyst before build
 	4. Dynamic AST: when code is running - in the CI/CD pipeline
 	5. Software Composition Analysis (SCA): check dependencies - rules for problem
+
+### ISC2 Code of Ethics Canon
+1. Protect society, the common good, necessary public trust and confidence, and the infrastructure.
+2. Act honorably, honestly, justly,responsibly, and legally.
+3. Provide diligent and competent service to principles.
+4. Advance and protect the profession.

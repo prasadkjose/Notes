@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
+                "file": "Learning Notes/Foundations of Cybersecurity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM"
+              "title": "Foundations of Cybersecurity"
             }
           }
         ],
@@ -208,22 +208,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6b62c318d60bb608",
+  "active": "fe324030be7e2441",
   "lastOpenFiles": [
+    "Learning Notes/Fundamentals of Artificial Intelligence.md",
+    "Learning Notes/Foundations of Cybersecurity.md",
+    "Learning Notes/Untitled.md",
+    "private/Learning Path.md",
+    "private/Personal Projects.md",
+    "private/TODO.md",
+    "Blog/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "Blog/Blog Cover Image.png",
     "private/Blog Drafts/BLOG Framework.md",
-    "Blog/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
-    "private/TODO.md",
     "README.md",
-    "private/Personal Projects.md",
     "private/Blog Drafts",
     "Blog",
     "Prasad Resume - SDE.md",
     "private/README.md",
-    "private/Learning Path.md",
-    "Learning Notes/Fundamentals of Artificial Intelligence.md",
     "Linux Setup.md",
-    "Learning Notes/Foundations of Cybersecurity.md",
     "private/Encryption test.md",
     "private/Cybersecurity Learning Path.md",
     "Dev Setup.md",
