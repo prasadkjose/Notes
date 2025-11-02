@@ -46,8 +46,11 @@
 ## Manage Security Risks
 
 1. The steps in the Risk Management Framework RMF are prepare, categorize, select, implement, assess, authorize, and monitor
-    
-2. Frameworks and controls: 
+2. Risk Mitigation vs avoidance: 
+	1. Mitigation is about reducing the impact of the risk
+	2. Avoidance is about taking steps to stop or remove the risky activity
+	    
+3. Frameworks and controls: 
 	1. Guidelines to prevent vulnerability and breaches, social engineering etc
 	2. Controls are safeguards to reduce specific risks. 
 		1. Encryption - ciphertext - confidentiality of data
