@@ -3,7 +3,7 @@
 <table style="width:100%; border: none;">
 <tr>
 <td align="left" style="vertical-align:top; width:60%; border: none;">
-	  🌎 Vostrovská 260/40, Praha 160 00<br>
+	  🌎 Seattle, WA<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
       📞 +42 606161852<br>
        🔗 <a href="https://www.linkedin.com/in/prasadkjose">LinkedIn</a><br>
@@ -12,7 +12,6 @@
   </tr>
 </table>
 ___
-### **Objective**
 
 Senior Software Engineer with a experience leading cross-functional and international teams to deliver efficient and secure code, seeking opportunities at your esteemed organization.
 
@@ -129,9 +128,6 @@ Senior Software Engineer with a experience leading cross-functional and internat
 - Nokia Solutions and Networks, Chennai, India
 
 ---
-
-<div style="page-break-after: always;"></div>
-
 ### **Skill Set**
 
 **Programming Languages:** JavaScript, C++, Python  
@@ -161,10 +157,15 @@ Senior Software Engineer with a experience leading cross-functional and internat
 ### **Personal Details**
 
 **Date of Birth:** 09 January 1997  
-**Languages Known:** English, French (A2), Malayalam, Tamil  
+**Visa Status**: Permanent Resident (Green Card)
+**Languages :**
+-  English — Native
+-  Malayalam — Native
+-  Tamil — Native
+-  French — Conversational (A2)
 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Declaration
 I hereby declare that the above mentioned information is true to the best of my knowledge.
@@ -172,8 +173,8 @@ I hereby declare that the above mentioned information is true to the best of my 
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
-	    Place: Praha   <br>
-	    Date: 14.08.2025 <br>
+	    Place: Seattle, WA   <br>
+	    Date: 14.01.2026 <br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
 	    <img src="pic_trulli.jpg" alt="Italian Trulli">
