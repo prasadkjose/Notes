@@ -1,14 +1,12 @@
-## Prasad Koshy Jose
+<div style="text-align: center"> <b style="font-size: 50px;">Prasad Koshy Jose </b></div>
 
 <table style="width:100%; border: none;">
 <tr>
 <td align="left" style="vertical-align:top; width:60%; border: none;">
-		Vostrovská 260/40, Praha 160 00<br>
+	  🌎 Vostrovská 260/40, Praha 160 00<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
       📞 +42 606161852<br>
-    </td>
-    <td align="right" style="vertical-align:top; width:40%; border: none;">
-      🔗 <a href="https://www.linkedin.com/in/prasadkjose">LinkedIn</a><br>
+       🔗 <a href="https://www.linkedin.com/in/prasadkjose">LinkedIn</a><br>
       💻 <a href="https://github.com/prasadkjose">GitHub</a>
     </td>
   </tr>

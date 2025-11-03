@@ -11,20 +11,14 @@
             "id": "6b62c318d60bb608",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Prasad Resume - SDE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "Prasad Resume - SDE"
             }
           }
         ],
@@ -116,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/TODO.md",
+                "file": "Prasad Resume - SDE.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of Prasad Resume - SDE"
             }
           },
           {
@@ -213,15 +207,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fe324030be7e2441",
+  "active": "6b62c318d60bb608",
   "lastOpenFiles": [
+    "private/TODO.md",
     "Prasad Resume - SDE.md",
     "private/Personal Projects.md",
     "private/Learning Path.md",
     "Learning Notes/Foundations of Cybersecurity.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
     "Learning Notes/Untitled.md",
-    "private/TODO.md",
     "Blog/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "Blog/Blog Cover Image.png",
     "private/Blog Drafts/BLOG Framework.md",
