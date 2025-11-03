@@ -11,20 +11,14 @@
             "id": "6b62c318d60bb608",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/Personal Projects.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Prasad Resume - SDE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Personal Projects"
+              "icon": "lucide-file",
+              "title": "Prasad Resume - SDE"
             }
           }
         ],
@@ -215,8 +209,8 @@
   },
   "active": "6b62c318d60bb608",
   "lastOpenFiles": [
-    "private/Learning Path.md",
     "private/Personal Projects.md",
+    "private/Learning Path.md",
     "Learning Notes/Foundations of Cybersecurity.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
     "Learning Notes/Untitled.md",

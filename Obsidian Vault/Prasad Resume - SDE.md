@@ -141,6 +141,7 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 ---
 ### **Achievements & Certifications**
 
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2C4B3A52B1C440D997D80DE679163A0A4AD0B01F1FC65C2E0F61C72EA876B853)
 - [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E597B433A2CDB78DAD322EC617742269C6519523F78C58387CD74C3C0D91F458)  
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/d3300737-0695-4f3b-8a47-f1a02c173559/linked_in_profile)  
 - [Prix Arditi 2020 In Informatics – University of Geneva (Best Master Thesis)](https://drive.google.com/file/d/1CDvjoT_IpawMzHnfty_6x0omPk9OMefe/view?usp=sharing)  
