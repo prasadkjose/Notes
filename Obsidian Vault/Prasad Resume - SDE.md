@@ -113,28 +113,28 @@ Senior Software Engineer with a experience leading cross-functional and internat
 </table>
 
 ---
-### **Areas Of Interest**
+### **Technical Areas Of Expertise**
 
-- Web / Software Design and Development  
-- Cybersecurity – Penetration Testing, Cryptography, IoT, and Security
+- Web / Software Design and Engineering  
+- Cybersecurity – SIEM tools, Penetration Testing, Cryptography, IoT, and Security
 
 ---
 ### **Projects**
 
-#### **Project 1: Confidential Computing for Machine Learning Using Intel SGX**
+ **Project 1: Confidential Computing for Machine Learning Using Intel SGX**
 - Final Master’s Project, University of Geneva  
 - [GitHub Repository](https://github.com/prasadkjose/Confidential_ML_SGX)
-#### **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
+
+**Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
 - Nokia Solutions and Networks, Chennai, India
 
 ---
 ### **Skill Set**
 
-**Programming Languages:** JavaScript, C++, Python  
-**Web Development:** PHP, NodeJS, HTML5  
-**Frameworks and APIs:** ReactJS, VueJS, WinAPI  
-**Cloud Technologies:** OCI, Azure  
-**RDBMS:** Oracle 9i, MySQL  
+- **Programming Languages:** JavaScript, C++, Python  
+- **Frameworks and APIs:** ReactJS, VueJS, WinAPI
+- **Cloud Technologies:** OCI, Azure  
+- **RDBMS:** Oracle 9i, MySQL  
 
 ---
 ### **Achievements & Certifications**
@@ -164,8 +164,8 @@ Senior Software Engineer with a experience leading cross-functional and internat
 -  Tamil — Native
 -  French — Conversational (A2)
 
----
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Declaration
 I hereby declare that the above mentioned information is true to the best of my knowledge.

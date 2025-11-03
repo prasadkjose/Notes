@@ -6,5 +6,7 @@
   "copilot",
   "terminal",
   "obsidian-linter",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-reminder-plugin",
+  "obsidian-tasks-plugin"
 ]
