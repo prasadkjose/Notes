@@ -130,6 +130,9 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 - Nokia Solutions and Networks, Chennai, India
 
 ---
+
+<div style="page-break-after: always;"></div>
+
 ### **Skill Set**
 
 **Programming Languages:** JavaScript, C++, Python  
@@ -162,7 +165,9 @@ Senior Software Engineer with a proven track record of leading cross-functional 
 **Languages Known:** English, French (A2), Malayalam, Tamil  
 
 ---
-### **Declaration**
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+### Declaration
 I hereby declare that the above mentioned information is true to the best of my knowledge.
 
 <table style="width:100%; border: none;">
