@@ -23,7 +23,7 @@ Senior Software Engineer with a experience leading cross-functional and internat
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    <b> Oracle Corporation, Prague, Czech Republic</b> <br>
-	     <i>Engineering core features of Oracle Visual Builder’s Business Objects tab, enabling enterprise data modeling and integrations.</i><br>
+	     <i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations.</i><br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
       July 2022 - current<br>
