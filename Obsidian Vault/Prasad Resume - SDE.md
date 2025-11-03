@@ -14,8 +14,9 @@
 
 ### **Objective**
 
-Senior Software Engineer with a proven track record of leading cross-functional teams to deliver robust, high-quality software solutions seeking opportunities at your esteemed organization.
+Senior Software Engineer with a experience leading cross-functional and international teams to deliver efficient and secure code, seeking opportunities at your esteemed organization.
 
+--- 
 ### **Work Experience**
 
 <table style="width:100%; border: none;">
