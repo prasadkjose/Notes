@@ -11,7 +11,7 @@
     </td>
   </tr>
 </table>
-
+___
 ### **Objective**
 
 Senior Software Engineer with a experience leading cross-functional and international teams to deliver efficient and secure code, seeking opportunities at your esteemed organization.
