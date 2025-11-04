@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f16a8910dfc8d912",
+        "id": "ef2dd76e34fb7f65",
         "type": "tabs",
         "children": [
           {
-            "id": "6b62c318d60bb608",
+            "id": "c68211ddad6b4538",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Obsidian Vault/.obsidian/community-plugins.json",
-                "bFile": "Obsidian Vault/.obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "Learning Notes/Foundations of Cybersecurity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json"
+              "icon": "lucide-file",
+              "title": "Foundations of Cybersecurity"
             }
           }
         ],
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "8896732167792815",
@@ -215,7 +216,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6b62c318d60bb608",
+  "active": "c68211ddad6b4538",
   "lastOpenFiles": [
     "Prasad Resume - SDE.md",
     "private/TODO list.md",

@@ -56,7 +56,9 @@
 		1. Encryption - ciphertext - confidentiality of data
 		    
 		2. Authentication - Make sure the person is real MFA, biometrics
-		    
+			1. PAP - Password Auth Protocol - enter password
+			2. CHAP - Challenge Auth Protocol - Send in a nonce too for 
+			3. EAP - Extensible Auth Protocol - Certificates like TLS, multi vendor, tunnells
 		3. Authorization - access control, permissions
 
 ### NIST Frameworks -
@@ -558,3 +560,11 @@
 2. Act honorably, honestly, justly,responsibly, and legally.
 3. Provide diligent and competent service to principles.
 4. Advance and protect the profession.
+
+### Business Continuation Policy (BCP)
+1. Contingency Planning Policy
+2. BIA - Business impact Analysis
+3. Identify preventive controls
+4. Create Contingency Strategies
+5.  Testing and training
+6. Maintenance
