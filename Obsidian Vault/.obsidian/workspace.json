@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/Foundations of Cybersecurity.md",
+                "file": "private/Blog Drafts/Swap Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foundations of Cybersecurity"
+              "title": "Swap Memory"
             }
           }
         ],
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "8896732167792815",
@@ -218,17 +217,19 @@
   },
   "active": "c68211ddad6b4538",
   "lastOpenFiles": [
-    "Prasad Resume - SDE.md",
-    "private/TODO list.md",
-    "private/TODO.md",
+    "private/Blog Drafts/BLOG Framework.md",
+    "private/Blog Drafts/Swap Memory.md",
     "private/Personal Projects.md",
-    "private/Learning Path.md",
+    "private/TODO list.md",
+    "Blog/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "Learning Notes/Foundations of Cybersecurity.md",
+    "Untitled Kanban.md",
+    "Prasad Resume - SDE.md",
+    "private/TODO.md",
+    "private/Learning Path.md",
     "Learning Notes/Fundamentals of Artificial Intelligence.md",
     "Learning Notes/Untitled.md",
-    "Blog/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "Blog/Blog Cover Image.png",
-    "private/Blog Drafts/BLOG Framework.md",
     "README.md",
     "private/Blog Drafts",
     "Blog",
