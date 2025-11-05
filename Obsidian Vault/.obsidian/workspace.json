@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Learning Notes/Artificial Intelligence Canvas.canvas",
+                "file": "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
                 "viewState": {
-                  "x": 271.834716796875,
-                  "y": -270,
-                  "zoom": -1.2000000000000002
+                  "x": 394.1744083204969,
+                  "y": -234.4722669284755,
+                  "zoom": -0.7141085904280632
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -220,13 +220,14 @@
   },
   "active": "c68211ddad6b4538",
   "lastOpenFiles": [
-    "Learning Notes/OCI Generative AI Professional.md",
-    "Learning Notes/Artificial Intelligence Canvas.canvas",
-    "Learning Notes/Fundamentals of Artificial Intelligence.md",
+    "Learning Notes/Artificial Intelligence/Fundamentals of Artificial Intelligence.md",
+    "Learning Notes/Foundations of Cybersecurity.md",
+    "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
+    "Learning Notes/Artificial Intelligence",
+    "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
     "Untitled Kanban.md",
     "private/Learning Path.md",
     "private/Personal Projects.md",
-    "Learning Notes/Foundations of Cybersecurity.md",
     "private/Blog Drafts/Swap Memory.md",
     "Blog/Swap Memory",
     "private/Blog Drafts/BLOG Framework.md",
@@ -253,7 +254,6 @@
     "sampe.md",
     "Prasad Resume - SDE.pdf",
     "Learning Notes",
-    "scripts/setup_linux.sh",
     "2025-10-12.md",
     "2025-10-11.md",
     "create a link.md",
