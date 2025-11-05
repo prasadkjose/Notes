@@ -11,14 +11,17 @@
             "id": "c68211ddad6b4538",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "private/Blog Drafts/Swap Memory.md",
-                "mode": "source",
-                "source": false
+                "file": "Learning Notes/Artificial Intelligence Canvas.canvas",
+                "viewState": {
+                  "x": 271.834716796875,
+                  "y": -270,
+                  "zoom": -1.2000000000000002
+                }
               },
-              "icon": "lucide-file",
-              "title": "Swap Memory"
+              "icon": "lucide-layout-dashboard",
+              "title": "Artificial Intelligence Canvas"
             }
           }
         ],
@@ -215,23 +218,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9554327c9e2d78ed",
+  "active": "c68211ddad6b4538",
   "lastOpenFiles": [
+    "Learning Notes/OCI Generative AI Professional.md",
+    "Learning Notes/Artificial Intelligence Canvas.canvas",
+    "Learning Notes/Fundamentals of Artificial Intelligence.md",
+    "Untitled Kanban.md",
+    "private/Learning Path.md",
+    "private/Personal Projects.md",
+    "Learning Notes/Foundations of Cybersecurity.md",
+    "private/Blog Drafts/Swap Memory.md",
     "Blog/Swap Memory",
     "private/Blog Drafts/BLOG Framework.md",
-    "private/Blog Drafts/Swap Memory.md",
     "Blog/OOM/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "Blog/OOM/Blog Cover Image.png",
     "Blog/OOM",
-    "private/Personal Projects.md",
     "private/TODO list.md",
-    "Learning Notes/Foundations of Cybersecurity.md",
-    "Untitled Kanban.md",
     "Prasad Resume - SDE.md",
     "private/TODO.md",
-    "private/Learning Path.md",
-    "Learning Notes/Fundamentals of Artificial Intelligence.md",
-    "Learning Notes/Untitled.md",
     "README.md",
     "private/Blog Drafts",
     "Blog",
@@ -250,7 +254,6 @@
     "Prasad Resume - SDE.pdf",
     "Learning Notes",
     "scripts/setup_linux.sh",
-    "scripts",
     "2025-10-12.md",
     "2025-10-11.md",
     "create a link.md",
