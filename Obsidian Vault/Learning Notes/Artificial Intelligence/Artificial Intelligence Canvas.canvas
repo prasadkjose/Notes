@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"af763e401742c677","type":"text","text":"## Orcale Artificial Intelligence Certifications","x":-220,"y":-620,"width":580,"height":71},
-		{"id":"08e0943201ce9796","type":"file","file":"Learning Notes/Artificial Intelligence/Fundamentals of Artificial Intelligence.md","x":-620,"y":-320,"width":640,"height":940},
-		{"id":"4cff041b6ffa2580","type":"file","file":"Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md","x":160,"y":-320,"width":760,"height":940}
+		{"id":"4cff041b6ffa2580","type":"file","file":"Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md","x":160,"y":-320,"width":760,"height":940},
+		{"id":"08e0943201ce9796","type":"file","file":"Learning Notes/Artificial Intelligence/Fundamentals of Artificial Intelligence.md","x":-720,"y":-320,"width":640,"height":940}
 	],
 	"edges":[
 		{"id":"8a92f24d2ec7ea41","fromNode":"af763e401742c677","fromSide":"bottom","toNode":"08e0943201ce9796","toSide":"top"},
