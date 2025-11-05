@@ -11,17 +11,14 @@
             "id": "c68211ddad6b4538",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
-                "viewState": {
-                  "x": 394.1744083204969,
-                  "y": -234.4722669284755,
-                  "zoom": -0.7141085904280632
-                }
+                "file": "Prasad Resume - SDE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Artificial Intelligence Canvas"
+              "icon": "lucide-file",
+              "title": "Prasad Resume - SDE"
             }
           }
         ],
@@ -220,9 +217,9 @@
   },
   "active": "c68211ddad6b4538",
   "lastOpenFiles": [
+    "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
     "Learning Notes/Artificial Intelligence/Fundamentals of Artificial Intelligence.md",
     "Learning Notes/Foundations of Cybersecurity.md",
-    "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
     "Learning Notes/Artificial Intelligence",
     "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
     "Untitled Kanban.md",
