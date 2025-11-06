@@ -22,15 +22,62 @@
 	1. It's hard to predict which is the 100% correct prompt. 
 	2. Lot of time to spend and it's model specific. 
 	3. Types: 
-		1. In context Learning - Conditioning a LLM with **instructions** and **demonstrations**
-		2. K-shot - k **examples**. 0 examples is zero shot, Few shot is better
-		3. Chain of thought Prompting - Prompt LLM to show intermediate steps of thought. - Helps with harder, complex tasks - breaks down the problem in smaller chunks - imitates reasoning
-		4. Least to Most prompting - Use simple problems first and use those logic to solve harder problems. 
-		5. Step-Back prompting. Identify the science or math concept of principles first before getting in to the actual prompt. 
+		1. **In context Learning** - Conditioning a LLM with **instructions** and **demonstrations**
+		2. **K-shot** - k **examples**. 0 examples is zero shot, Few shot is better
+		3. **Chain of thought Prompting** - Prompt LLM to show intermediate steps of thought. - Helps with harder, complex tasks - breaks down the problem in smaller chunks - imitates reasoning
+		4. **Least to Most prompting** - Use simple problems first and use those logic to solve harder problems. 
+		5. **Step-Back prompting**. Identify the science or math concept of principles first before getting in to the actual prompt. 
 5. Issues: 
-	1. Prompt Injection or Jailbreaking: Provide the LLM with input that makes it ignore instructions or rules set during deployment
-	2. 
+	1. **Prompt Injection or Jailbreaking**: Provide the LLM with input that makes it ignore instructions or rules set during deployment
+	2. **Memorization**: After answering. Leak or reveal the original prompt by the deploying entity
 
 ## Training
 
+1. We can use this mainly for domain adaptation - outside of the pre-trained domain or subject. 
+2. Types: 
+	1. **Fine Tuning FT**: Take pretrained and modify **all** it's parameters
+	2. **Param Efficient FT**: Modify few parameters
+	3. **Soft prompting**: Add specific parameters or words to the prompt that is pre fine tuned into the model. 
+	4. **Continual Pre-training**: For **unlabeled** data and modify all parameters to the target domain. 
+
 ## Decoding
+1. Process of text generation from the vector representation.
+2. 1 word at at time.
+3. Types: 
+	1. **Greedy Decoding**: At each step the distribution is used on all words in the vocabulary and feed it back to the model to update the probabilities of the other words. The highest probability word is chosen.
+	2. **Non Deterministic Decoding**: Pick words randomly at each step.
+		1. Temperature: A parameter that modulates the distribution.  
+			1. When **low** the probability of the each probable word are more further or peaked
+			2. When **high**, all the probabilities become similar or flatten
+			3. The order of the probabilities stays the same. Highest word or lowest stays the same. 
+			4. In real life, 
+				1. Lowering the temp, causes less deviation from facts or commonly used words from the trained model, like when stating a scientific fact, creativity is not important. 
+				2. Increasing the temp causes more rare words to be included, like when writing a story. 
+4. **Hallucination**: 
+	1. Generated text is not factual or ungrounded.
+	2. Text might be fluent and no grammatical errors. 
+	3. It's subtle and no knows method to identify hallucinations. 
+	4. RAG hallucinate less then 0 shot ones. 
+	5. Grounded and attributedness- The process of linking a model's output to a specific, verifiable source of information, such as a user's data or a particular database
+# LLM Applications
+1. RAG (Retrieval Augmented Generation)
+	1. Model as access to (retrieved) support documents for a query. 
+	2. The support document will be proved to the model as an input too along with the query. 
+	3. Best way so far to reduce hallucinations
+	4. Used for fact checking, entity- linking. 
+	5. **Non parametric** as we don't have to update the model. Not hard-coded for any one domain. 
+2. Code Models: 
+	1. Trained on code and comments. 
+	2. Copilot, code Llama
+	3. Easier than Natural Language. 
+3. Multi-modal
+	1. Text, Language, Image etc
+	2. Diffusion Models: 
+		1. Produce complex output simultaneously rather token by token. like in decoders.
+4. Language Models
+	1. Create plans and reasons. 
+	2. Take actions as response to plans. 
+	3. can use tools. 
+		1. ReAct: a framework for LLM to emit thought, acts and observe the results. 
+		2. ToolFormers: Pre training method where strings are replaces with calls to tools
+	4. 
