@@ -36,7 +36,7 @@
 1. We can use this mainly for domain adaptation - outside of the pre-trained domain or subject. 
 2. Types: 
 	1. **Fine Tuning FT**: Take pretrained and modify **all** it's parameters
-	2. **Param Efficient FT**: Modify few parameters
+	2. **Param Efficient FT** or T-few FT: Modify few parameters
 	3. **Soft prompting**: Add specific parameters or words to the prompt that is pre fine tuned into the model. 
 	4. **Continual Pre-training**: For **unlabeled** data and modify all parameters to the target domain. 
 
@@ -80,4 +80,17 @@
 	3. can use tools. 
 		1. ReAct: a framework for LLM to emit thought, acts and observe the results. 
 		2. ToolFormers: Pre training method where strings are replaces with calls to tools
-	4. 
+# OCI Gen AI service
+1. One API Gen AI Service - Any model with one API
+2. Regional - Chicago, Frankfurt and London
+3. Pre-trained Foundational Models
+	1. Chat - r-plus(128k) or r-16k or Llama instruct. 
+		1. Fundamental unit is a **token** - Multiple tokens per word
+		2. Parameters to be changed - 
+			1. output tokens, 
+			2. Preamble prompt, 
+			3. temperature, 
+			4. Top-k - pick top k highest probability token), 
+			5. Top-p - pick only token whose probability adds to p. Ignore the rest
+			6. Frequency and presence Penalty - Penalize based on frequency or presence. 
+	2. Embedding Models - English and multilingual( cross lingual )

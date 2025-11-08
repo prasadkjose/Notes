@@ -11,20 +11,14 @@
             "id": "f4e69316107a17f0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/Personal Projects.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Personal Projects"
+              "icon": "lucide-file",
+              "title": "OCI Generative AI Professional"
             }
           }
         ],
@@ -95,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "8896732167792815",
@@ -223,10 +218,10 @@
   },
   "active": "f4e69316107a17f0",
   "lastOpenFiles": [
+    "private/Personal Projects.md",
     "private/TODO list.md",
     "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
     "private/Learning Path.md",
-    "private/Personal Projects.md",
     "Pasted image 20251105211503.png",
     "Pasted image 20251105210556.png",
     "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
