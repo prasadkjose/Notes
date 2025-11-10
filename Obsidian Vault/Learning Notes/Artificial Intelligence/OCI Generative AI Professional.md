@@ -6,7 +6,7 @@
 1. Encoders and decoders or embedding and text generation
 	1. Embedding is a numeric representation that tries to capture the meaning of the text. 
 	2. Encoding is TEXT -> Embeddings or Vector Representation
-	3. Decoding is Embeddings -> TEXT
+	3. Decoding is Embeddings -> TEXT in a self referential loop
 	4. They are primary components in a Transformer. 
 	5. ![[Pasted image 20251105210556.png]]
 	6. Number of parameters increases exponentially. 
@@ -14,6 +14,8 @@
 	8. Encoder-decoder models are primarily used for translations with self-referential loops(similar to a decoder model). 
 	9. ![[Pasted image 20251105211503.png]]
 	10. LLMs are most referring to Decoder models
+
+# LLM Customization
 ## Prompting 
 1. How can we update the probabilities? Prompting and Training.
 2. Changing the input prompt will change the distributions will change. 
@@ -21,9 +23,10 @@
 4. Prompt Engineering: Iteratively refining the prompt to elicit a particular response by continuously trying to get different distributions. 
 	1. It's hard to predict which is the 100% correct prompt. 
 	2. Lot of time to spend and it's model specific. 
-	3. Types: 
+	3. Prompt formats: some model will want to have different prompts in different Tags. Like INS or SYS
+	4. Types: 
 		1. **In context Learning** - Conditioning a LLM with **instructions** and **demonstrations**
-		2. **K-shot** - k **examples**. 0 examples is zero shot, Few shot is better
+		2. **K-shot** - k **examples**. Zero examples is zero shot, Few shot is better
 		3. **Chain of thought Prompting** - Prompt LLM to show intermediate steps of thought. - Helps with harder, complex tasks - breaks down the problem in smaller chunks - imitates reasoning
 		4. **Least to Most prompting** - Use simple problems first and use those logic to solve harder problems. 
 		5. **Step-Back prompting**. Identify the science or math concept of principles first before getting in to the actual prompt. 
@@ -33,14 +36,35 @@
 
 ## Training
 
-1. We can use this mainly for domain adaptation - outside of the pre-trained domain or subject. 
+1. We can use this mainly for domain adaptation - outside of the pre-trained domain or subject. - better performance and deficiency
 2. Types: 
 	1. **Fine Tuning FT**: Take pretrained and modify **all** it's parameters
 	2. **Param Efficient FT** or T-few FT: Modify few parameters
+		1. Better for cost performance
+		2. Parameter Sharing - Can make multiple custom model with one base model with it's own endpoints.
 	3. **Soft prompting**: Add specific parameters or words to the prompt that is pre fine tuned into the model. 
 	4. **Continual Pre-training**: For **unlabeled** data and modify all parameters to the target domain. 
+3. Best way to create **custom** model. 
+4. **Cluster Types in OCI:** 
+	1. Fine-tuning: Used for training a pre-trained model to create a custom Model
+	2. Hosting: Used to host a custom model for *inference*
+5. 
 
-## Decoding
+## RAG (Retrieval Augmented Generation)
+1. Model as access to (retrieved) support documents for a query. 
+2. The support document will be proved to the model as an input too along with the query. 
+3. Best way so far to reduce hallucinations
+4. Used for fact checking, entity- linking. 
+5. **Non parametric** as we don't have to update the model. Not hard-coded for any one domain. 
+6. Need compatible data source. 
+
+## How to choose the best method for LLM Customization? 
+1. Start with Prompting - Simple
+2. Add few shot prompting
+3. Use Simple RAG
+4. Fine tune model
+5. Optimize mode based on retrieval 
+# Decoding
 1. Process of text generation from the vector representation.
 2. 1 word at at time.
 3. Types: 
@@ -60,21 +84,15 @@
 	4. RAG hallucinate less then 0 shot ones. 
 	5. Grounded and attributedness- The process of linking a model's output to a specific, verifiable source of information, such as a user's data or a particular database
 # LLM Applications
-1. RAG (Retrieval Augmented Generation)
-	1. Model as access to (retrieved) support documents for a query. 
-	2. The support document will be proved to the model as an input too along with the query. 
-	3. Best way so far to reduce hallucinations
-	4. Used for fact checking, entity- linking. 
-	5. **Non parametric** as we don't have to update the model. Not hard-coded for any one domain. 
-2. Code Models: 
+1. Code Models: 
 	1. Trained on code and comments. 
 	2. Copilot, code Llama
 	3. Easier than Natural Language. 
-3. Multi-modal
+2. Multi-modal
 	1. Text, Language, Image etc
 	2. Diffusion Models: 
 		1. Produce complex output simultaneously rather token by token. like in decoders.
-4. Language Models
+3. Language Models
 	1. Create plans and reasons. 
 	2. Take actions as response to plans. 
 	3. can use tools. 
@@ -87,7 +105,7 @@
 	1. Use JuPyter notebooks to access it outside OCI console
 	2. Config File: 
 4. Pre-trained Foundational Models
-	1. Chat - r-plus(128k) or r-16k or Llama instruct. 
+	1. **Chat** - ***r-plus(128k) or r-16k or Llama instruct***. 
 		1. Fundamental unit is a **token** - Multiple tokens per word
 		2. Parameters to be changed - 
 			1. output tokens, 
@@ -96,5 +114,13 @@
 			4. Top-k - pick top k highest probability token, 
 			5. Top-p - pick only token whose probability adds to p. Ignore the rest
 			6. Frequency and presence Penalty - Penalize based on frequency or presence. 
-	2. Embedding Models - English and multilingual( cross lingual )
-
+	2. **Embedding Models** - ***Cohere.embed***-  English and multilingual( cross lingual )
+		1. Vector representations can be for words, sentences and also whole documents. 
+		2. **Semantic Similarity** - Cosine and Dot product similarity are used to compare vector representation. 
+		3. Major use-cases are translations and semantic or vector searching
+		4. 1024 dimensional vector - 512 max token 
+5. Sizing: 
+	1. Cohere R+ and Embedding models can't be fine tuned and only is hosted
+	2. Fine tuning and hosting will take it's own cluster units that has to be configured per request. 
+	3. Hosting is minimum per month
+	4. Fine tuning is minimum per hour

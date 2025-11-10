@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2db4d643596249",
+        "id": "8fe68d563bef3f35",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e69316107a17f0",
+            "id": "41e6eb31b7e7fc52",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -217,16 +217,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fe324030be7e2441",
+  "active": "41e6eb31b7e7fc52",
   "lastOpenFiles": [
-    "private/TODO list.md",
+    "Learning Notes/images/Pasted image 20251105210556.png",
     "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
+    "Learning Notes/Artificial Intelligence/Fundamentals of Artificial Intelligence.md",
+    "Learning Notes/images/Pasted image 20251105211503.png",
+    "Learning Notes/images",
+    "private/TODO list.md",
     "private/Personal Projects.md",
     "private/Learning Path.md",
-    "Pasted image 20251105211503.png",
-    "Pasted image 20251105210556.png",
     "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
-    "Learning Notes/Artificial Intelligence/Fundamentals of Artificial Intelligence.md",
     "Prasad Resume - SDE.md",
     "Learning Notes/Foundations of Cybersecurity.md",
     "Learning Notes/Artificial Intelligence",
@@ -254,7 +255,6 @@
     "Prasad Resume - SDE.docx",
     "sampe.md",
     "Prasad Resume - SDE.pdf",
-    "Learning Notes",
     "2025-10-12.md",
     "2025-10-11.md",
     "create a link.md",
