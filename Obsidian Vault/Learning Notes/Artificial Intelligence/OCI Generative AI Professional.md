@@ -83,14 +83,18 @@
 # OCI Gen AI service
 1. One API Gen AI Service - Any model with one API
 2. Regional - Chicago, Frankfurt and London
-3. Pre-trained Foundational Models
+3. 4. API Service: 
+	1. Use JuPyter notebooks to access it outside OCI console
+	2. Config File: 
+4. Pre-trained Foundational Models
 	1. Chat - r-plus(128k) or r-16k or Llama instruct. 
 		1. Fundamental unit is a **token** - Multiple tokens per word
 		2. Parameters to be changed - 
 			1. output tokens, 
 			2. Preamble prompt, 
 			3. temperature, 
-			4. Top-k - pick top k highest probability token), 
+			4. Top-k - pick top k highest probability token, 
 			5. Top-p - pick only token whose probability adds to p. Ignore the rest
 			6. Frequency and presence Penalty - Penalize based on frequency or presence. 
 	2. Embedding Models - English and multilingual( cross lingual )
+

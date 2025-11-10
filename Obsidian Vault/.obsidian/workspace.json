@@ -121,12 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OCI Generative AI Professional"
             }
           },
           {
@@ -200,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +217,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f4e69316107a17f0",
+  "active": "fe324030be7e2441",
   "lastOpenFiles": [
-    "private/Personal Projects.md",
     "private/TODO list.md",
     "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
+    "private/Personal Projects.md",
     "private/Learning Path.md",
     "Pasted image 20251105211503.png",
     "Pasted image 20251105210556.png",
