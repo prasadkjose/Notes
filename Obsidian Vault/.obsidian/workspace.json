@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
+                "file": "Prasad Resume - SDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OCI Generative AI Professional"
+              "title": "Prasad Resume - SDE"
             }
           }
         ],
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "8896732167792815",
@@ -201,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,17 +218,19 @@
   },
   "active": "41e6eb31b7e7fc52",
   "lastOpenFiles": [
-    "Learning Notes/images/Pasted image 20251105210556.png",
+    "private/Learning Path.md",
+    "private/Encryption test.md",
+    "Prasad Resume - SDE.md",
+    "private/TODO list.md",
     "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
+    "Learning Notes/Cybersecurity",
+    "Learning Notes/images/Pasted image 20251105210556.png",
     "Learning Notes/Artificial Intelligence/Fundamentals of Artificial Intelligence.md",
     "Learning Notes/images/Pasted image 20251105211503.png",
     "Learning Notes/images",
-    "private/TODO list.md",
     "private/Personal Projects.md",
-    "private/Learning Path.md",
     "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
-    "Prasad Resume - SDE.md",
-    "Learning Notes/Foundations of Cybersecurity.md",
+    "Learning Notes/Cybersecurity/Foundations of Cybersecurity.md",
     "Learning Notes/Artificial Intelligence",
     "Untitled Kanban.md",
     "private/Blog Drafts/Swap Memory.md",
@@ -244,7 +245,6 @@
     "Blog",
     "private/README.md",
     "Linux Setup.md",
-    "private/Encryption test.md",
     "private/Cybersecurity Learning Path.md",
     "Dev Setup.md",
     "Private Cloud Setup/Private Cloud Setup.canvas",
@@ -254,7 +254,6 @@
     "Untitled.base",
     "Prasad Resume - SDE.docx",
     "sampe.md",
-    "Prasad Resume - SDE.pdf",
     "2025-10-12.md",
     "2025-10-11.md",
     "create a link.md",

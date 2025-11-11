@@ -9,5 +9,5 @@
   },
   "showLineNumber": true,
   "tabSize": 6,
-  "readableLineLength": false
+  "readableLineLength": true
 }

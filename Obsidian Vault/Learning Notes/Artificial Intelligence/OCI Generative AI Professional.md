@@ -23,7 +23,7 @@
 4. Prompt Engineering: Iteratively refining the prompt to elicit a particular response by continuously trying to get different distributions. 
 	1. It's hard to predict which is the 100% correct prompt. 
 	2. Lot of time to spend and it's model specific. 
-	3. Prompt formats: some model will want to have different prompts in different Tags. Like INS or SYS
+	3. Prompt formats: some model will want to have different prompts in different Tags. Like INS or SYS. Uses files like JSONL.
 	4. Types: 
 		1. **In context Learning** - Conditioning a LLM with **instructions** and **demonstrations**
 		2. **K-shot** - k **examples**. Zero examples is zero shot, Few shot is better
@@ -48,7 +48,22 @@
 4. **Cluster Types in OCI:** 
 	1. Fine-tuning: Used for training a pre-trained model to create a custom Model
 	2. Hosting: Used to host a custom model for *inference*
-5. 
+5. **Configurations available in OCI:** 
+	1. T-few and LoRA - types
+	2. Parameters: 
+		1. Total training epochs
+		2. Batch Size - number of samples generated before update
+		3. Learning Rate
+		4. Early stopping threshold
+		5. Early stopping patience
+		6. Log metrics
+	3. Result Metrics: 
+		1. Accuracy - how right the model is compared to the ground truth
+			1. Even of the context is right, it **compares token.** So not the best way to determine model performance
+			2. Minor mistakes are not tolerated
+		2. Loss - how wrong the output of the model is. 
+			1. Calculated through **probability difference** between the prediction and the actual output.
+	4. 
 
 ## RAG (Retrieval Augmented Generation)
 1. Model as access to (retrieved) support documents for a query. 
@@ -122,5 +137,8 @@
 5. Sizing: 
 	1. Cohere R+ and Embedding models can't be fine tuned and only is hosted
 	2. Fine tuning and hosting will take it's own cluster units that has to be configured per request. 
-	3. Hosting is minimum per month
+	3. Hosting is minimum per month - 744 hours
 	4. Fine tuning is minimum per hour
+	5. **RDMA - Remote direct Memory Access** and dedicated GPUs are assigned in OCI
+	6. Custom Models are tenancy based. 
+	7. Key management and GEN AI Object storage service( for weights) are provided. 
