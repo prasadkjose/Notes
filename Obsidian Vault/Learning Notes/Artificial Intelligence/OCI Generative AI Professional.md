@@ -23,7 +23,7 @@
 4. Prompt Engineering: Iteratively refining the prompt to elicit a particular response by continuously trying to get different distributions. 
 	1. It's hard to predict which is the 100% correct prompt. 
 	2. Lot of time to spend and it's model specific. 
-	3. Prompt formats: some model will want to have different prompts in different Tags. Like INS or SYS. Uses files like JSONL.
+	3. Prompt formats: some model will want to have different prompts in different Tags. Like INST or SYS. Uses files like JSONL.
 	4. Types: 
 		1. **In context Learning** - Conditioning a LLM with **instructions** and **demonstrations**
 		2. **K-shot** - k **examples**. Zero examples is zero shot, Few shot is better
@@ -68,7 +68,7 @@
 ## RAG (Retrieval Augmented Generation)
 1. Model as access to (retrieved) support documents for a query. 
 2. The support document will be proved to the model as an input too along with the query. 
-3. Best way so far to reduce hallucinations
+3. Best way so far to reduce hallucinations and mitigate LLM training bias
 4. Used for fact checking, entity- linking. 
 5. **Non parametric** as we don't have to update the model. Not hard-coded for any one domain. 
 6. Need compatible data source. 
@@ -142,3 +142,14 @@
 	5. **RDMA - Remote direct Memory Access** and dedicated GPUs are assigned in OCI
 	6. Custom Models are tenancy based. 
 	7. Key management and GEN AI Object storage service( for weights) are provided. 
+
+## RAG and vector searching OCI
+1. Pipeline - 
+	1. Ingestion: 
+		1. **Loading Docs -> Chunking -> Embedding -> indexing**
+		2. Max size of chunks is limited by max window size
+		3. Chunks should preserve contexts using overlapping or shared parts
+		4. Oracle 23ai supports embedding within it. 
+		5. Use Vector store to store and query
+		6. 
+2. 
