@@ -85,8 +85,7 @@
               "title": "Reminders"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +216,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "473fcd53feacf720",
+  "active": "9554327c9e2d78ed",
   "lastOpenFiles": [
     "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
     "private/TODO list.md",
