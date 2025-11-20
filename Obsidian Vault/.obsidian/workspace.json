@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
+                "file": "Prasad Resume - SDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OCI Generative AI Professional"
+              "title": "Prasad Resume - SDE"
             }
           }
         ],
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "8896732167792815",
@@ -138,16 +137,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "9dbcf5a740131d2a",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
             }
           },
           {
@@ -219,12 +208,17 @@
   },
   "active": "41e6eb31b7e7fc52",
   "lastOpenFiles": [
-    "private/TODO list.md",
+    "Unconfirmed 371728.crdownload",
+    "signature.png",
+    "README.md",
+    "Prasad Resume - SDE.md",
+    "signature 1.png",
     "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
+    "Learning Notes/images/Unconfirmed 344185.crdownload",
+    "private/TODO list.md",
     "private/Vacations/Norway Northern Lights Trip.canvas",
     "private/Vacations/Untitled",
     "private/Vacations",
-    "Prasad Resume - SDE.md",
     "private/Learning Path.md",
     "private/Encryption test.md",
     "Learning Notes/Cybersecurity",
@@ -244,7 +238,6 @@
     "Blog/OOM/Blog Cover Image.png",
     "Blog/OOM",
     "private/TODO.md",
-    "README.md",
     "private/Blog Drafts",
     "Blog",
     "private/README.md",
@@ -253,7 +246,6 @@
     "Dev Setup.md",
     "Private Cloud Setup/Private Cloud Setup.canvas",
     "Private Cloud Setup/NAS Setup.md",
-    "Private Cloud Setup",
     "Untitled.md",
     "sampe.md",
     "2025-10-12.md",

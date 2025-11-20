@@ -5,7 +5,7 @@
 <td align="left" style="vertical-align:top; width:60%; border: none;">
 	  🌎 Seattle, WA<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
-      📞 +42 606161852<br>
+      📞 (503) 984-4413<br>
        🔗 <a href="https://www.linkedin.com/in/prasadkjose">LinkedIn</a><br>
       💻 <a href="https://github.com/prasadkjose">GitHub</a>
     </td>
@@ -81,7 +81,6 @@ Senior Software Engineer with a experience leading cross-functional and internat
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
 	      Completed July 2020<br>
-	       GPA: 5.10 / 6.0  
     </td>
   </tr>
 </table>
@@ -158,7 +157,7 @@ Senior Software Engineer with a experience leading cross-functional and internat
 ### **Personal Details**
 
 **Date of Birth:** 09 January 1997  
-**Visa Status**: Permanent Resident (Green Card)
+**Visa Status**: Green Card - Permanent Resident
 **Languages :**
 -  English — Native
 -  Malayalam — Native
@@ -166,10 +165,13 @@ Senior Software Engineer with a experience leading cross-functional and internat
 -  French — Conversational (A2)
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 ### Declaration
 I hereby declare that the above mentioned information is true to the best of my knowledge.
+<img style="width: 150px; float: right;" src="signature.png">
+<br>
+<br>
+
 
 <table style="width:100%; border: none;">
   <tr>
@@ -178,8 +180,6 @@ I hereby declare that the above mentioned information is true to the best of my 
 	    Date: 14.01.2026 <br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
-	    <img src="pic_trulli.jpg" alt="Italian Trulli">
-	      Signature<br>
 	       Prasad Koshy Jose  
     </td>
   </tr>
