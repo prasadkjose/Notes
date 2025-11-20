@@ -131,7 +131,7 @@
 			6. Frequency and presence Penalty - Penalize based on frequency or presence. 
 	2. **Embedding Models** - ***Cohere.embed***-  English and multilingual( cross lingual )
 		1. Vector representations can be for words, sentences and also whole documents. 
-		2. **Semantic Similarity** - Cosine and Dot product similarity are used to compare vector representation. 
+		2. **Semantic Similarity** - **Cosine and Dot** product similarity are used to compare vector representation. 
 		3. Major use-cases are translations and semantic or vector searching
 		4. 1024 dimensional vector - 512 max token 
 5. Sizing: 
@@ -151,5 +151,39 @@
 		3. Chunks should preserve contexts using overlapping or shared parts
 		4. Oracle 23ai supports embedding within it. 
 		5. Use Vector store to store and query
-		6. 
-2. 
+	2. Retrieval: 
+		1. Get the query. Use it to search the DB. 
+		2. How does vector search find similar chunks to the query? 
+			1. Using Dot and Cosine measures
+			2. Dot product considers the magnitude and angle to the query
+			3. Cosine only considers angle and not magnitude. 
+		3. Indexing - Special data structured used to reduce the search space
+		4.  Once the document is retrieved it's sent to the LLM
+		5. 
+2. Conversational RAG: 
+	1. Use question prompt and documents to add context to the chat. 
+
+# OCI Generative AI Agents
+1. Features: 
+	1. LSTM, tools and prompt integrations
+	2. LLM - Reasoning, Acting, Persona, Planning
+	3. Input Document knowledge (RAG agents)
+2. Concepts: 
+	1. Session - series of exchanges
+	2. Agent Endpoint - point of access in network for agent to system/service interaction
+	3. Trace - conversation history track and trace
+	4. Citation
+	5. Content moderation- both prompt and LLM output
+3. Need to create DB oracle 23ai
+	1. Mandatory fields - Vector, Body and DOCID
+4. Input params - p_query(query string), top_k(number of top results)
+5. Process - 
+	1. knowledge Base
+		1. Default search in new knowledge base is lexical search not semantic search
+		2. Only failed and updated files are reinjested on restart a knowledge base
+		3. One data source per knowledge base
+	2. Assign endpoints: 
+		1. Sessions can be enabled with timeouts(default 3600 seconds / max 7 days)
+		2. enable trace and citations and moderation
+	3. Create Agent: 
+		1. 

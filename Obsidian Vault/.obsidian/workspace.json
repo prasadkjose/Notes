@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/TODO list.md",
+                "file": "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO list"
+              "title": "OCI Generative AI Professional"
             }
           }
         ],
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "8896732167792815",
@@ -218,11 +219,11 @@
   },
   "active": "41e6eb31b7e7fc52",
   "lastOpenFiles": [
-    "private/Vacations/Norway Northern Lights Trip.canvas",
     "private/TODO list.md",
+    "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
+    "private/Vacations/Norway Northern Lights Trip.canvas",
     "private/Vacations/Untitled",
     "private/Vacations",
-    "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
     "Prasad Resume - SDE.md",
     "private/Learning Path.md",
     "private/Encryption test.md",
