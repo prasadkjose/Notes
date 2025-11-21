@@ -59,14 +59,14 @@
 		6. Log metrics
 	3. Result Metrics: 
 		1. Accuracy - how right the model is compared to the ground truth
-			1. Even of the context is right, it **compares token.** So not the best way to determine model performance
+			1. Even if the context is right, it **compares token.** So not the best way to determine model performance
 			2. Minor mistakes are not tolerated
 		2. Loss - how wrong the output of the model is. 
 			1. Calculated through **probability difference** between the prediction and the actual output.
 	4. 
 
 ## RAG (Retrieval Augmented Generation)
-1. Model as access to (retrieved) support documents for a query. 
+1. Model has access to (retrieved) support documents for a query. 
 2. The support document will be proved to the model as an input too along with the query. 
 3. Best way so far to reduce hallucinations and mitigate LLM training bias
 4. Used for fact checking, entity- linking. 
@@ -86,7 +86,7 @@
 	1. **Greedy Decoding**: At each step the distribution is used on all words in the vocabulary and feed it back to the model to update the probabilities of the other words. The highest probability word is chosen.
 	2. **Non Deterministic Decoding**: Pick words randomly at each step.
 		1. Temperature: A parameter that modulates the distribution.  
-			1. When **low** the probability of the each probable word are more further or peaked
+			1. When **low**, the probability of the each probable word are more further or peaked
 			2. When **high**, all the probabilities become similar or flatten
 			3. The order of the probabilities stays the same. Highest word or lowest stays the same. 
 			4. In real life, 
@@ -96,7 +96,7 @@
 	1. Generated text is not factual or ungrounded.
 	2. Text might be fluent and no grammatical errors. 
 	3. It's subtle and no knows method to identify hallucinations. 
-	4. RAG hallucinate less then 0 shot ones. 
+	4. RAG hallucinate less than 0 shot ones. 
 	5. Grounded and attributedness- The process of linking a model's output to a specific, verifiable source of information, such as a user's data or a particular database
 # LLM Applications
 1. Code Models: 
@@ -116,7 +116,7 @@
 # OCI Gen AI service
 1. One API Gen AI Service - Any model with one API
 2. Regional - Chicago, Frankfurt and London
-3. 4. API Service: 
+3. API Service: 
 	1. Use JuPyter notebooks to access it outside OCI console
 	2. Config File: 
 4. Pre-trained Foundational Models
@@ -185,5 +185,4 @@
 	2. Assign endpoints: 
 		1. Sessions can be enabled with timeouts(default 3600 seconds / max 7 days)
 		2. enable trace and citations and moderation
-	3. Create Agent: 
-		1. 
+	3. Create Agent
