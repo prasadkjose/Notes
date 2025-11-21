@@ -1,6 +1,6 @@
 # Introduction
 1. Probabilistic model of a text. 
-2. LLM refers to the number of parameters. So it;s also called a Language Model.
+2. LLM refers to the number of parameters. So it's also called a Language Model.
 3. We need to move from these probabilistic distributions to generating text.
 ## Architecture
 1. Encoders and decoders or embedding and text generation

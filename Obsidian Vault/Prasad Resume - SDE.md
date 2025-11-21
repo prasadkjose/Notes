@@ -13,7 +13,7 @@
 </table>
 ___
 
-Senior Software Engineer with a experience leading cross-functional and international teams to deliver efficient and secure code, seeking opportunities at your esteemed organization.
+Senior Software Engineer with experience leading cross-functional and international teams to deliver efficient and secure code, seeking opportunities at your esteemed organization.
 
 --- 
 ### **Work Experience**
