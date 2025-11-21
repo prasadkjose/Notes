@@ -12,8 +12,8 @@
   </tr>
 </table>
 ___
-
-Senior Software Engineer with experience leading cross-functional and international teams to deliver efficient and secure code, seeking opportunities at your esteemed organization.
+ 
+Senior Software Engineer with 4+ years of experience designing, implementing, and optimizing secure software. I have experience working with globally distributed teams, across startups and Fortune 500 companies, delivering software solutions on schedule.
 
 --- 
 ### **Work Experience**
