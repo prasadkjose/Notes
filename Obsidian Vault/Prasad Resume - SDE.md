@@ -137,13 +137,13 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 
 ---
 ### **Achievements & Certifications**
-- Cyber Security: 
+- Cyber Security and Networks: 
 	- [ISC2 Certified in Cybersecurity (CC) ](https://www.credly.com/badges/59e7baf1-9bd9-4828-94d3-b5be723ca045) 
 	- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/d3300737-0695-4f3b-8a47-f1a02c173559/linked_in_profile)  
 	- [Cisco Certified Network Associate (CCNA)](https://drive.google.com/file/d/1Jpq5zFr9GYK_5Bu23VJRvvH828nOL5Vf/view?usp=sharing)  
 - AI & Engineering: 
-	- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E597B433A2CDB78DAD322EC617742269C6519523F78C58387CD74C3C0D91F458)  
-	-  [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2C4B3A52B1C440D997D80DE679163A0A4AD0B01F1FC65C2E0F61C72EA876B853)
+	-  [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F7205E65616E645F16A6220755EA13B7195912847F8B983177DEB197B23DE1A2)
+	-  [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E597B433A2CDB78DAD322EC617742269C6519523F78C58387CD74C3C0D91F458)  
 	-  [Prix Arditi 2020 In Informatics – University of Geneva (Best Master Thesis)](https://drive.google.com/file/d/1CDvjoT_IpawMzHnfty_6x0omPk9OMefe/view?usp=sharing)  
 
 ---

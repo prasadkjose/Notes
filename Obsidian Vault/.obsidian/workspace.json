@@ -11,20 +11,14 @@
             "id": "41e6eb31b7e7fc52",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/Learning Path.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Prasad Resume - SDE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Learning Path"
+              "icon": "lucide-file",
+              "title": "Prasad Resume - SDE"
             }
           }
         ],
@@ -214,21 +208,21 @@
   },
   "active": "41e6eb31b7e7fc52",
   "lastOpenFiles": [
-    "private/Personal Projects.md",
-    "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
-    "Pasted image 20251121111153.png",
-    "Prasad Resume - SDE.md",
     "private/TODO list.md",
-    "Unconfirmed 371728.crdownload",
+    "Prasad Resume - SDE.md",
     "signature.png",
     "README.md",
+    "Learning Notes/images/Pasted image 20251121111153.png",
+    "private/Encryption test.md",
+    "private/Vacations/Norway Northern Lights Trip.canvas",
+    "private/Personal Projects.md",
+    "private/Learning Path.md",
+    "Learning Notes/Artificial Intelligence/OCI Generative AI Professional.md",
+    "Unconfirmed 371728.crdownload",
     "signature 1.png",
     "Learning Notes/images/Unconfirmed 344185.crdownload",
-    "private/Vacations/Norway Northern Lights Trip.canvas",
     "private/Vacations/Untitled",
     "private/Vacations",
-    "private/Learning Path.md",
-    "private/Encryption test.md",
     "Learning Notes/Cybersecurity",
     "Learning Notes/images/Pasted image 20251105210556.png",
     "Learning Notes/Artificial Intelligence/Fundamentals of Artificial Intelligence.md",
