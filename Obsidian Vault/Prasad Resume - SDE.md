@@ -165,7 +165,7 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 -  French — Conversational (A2)
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ### Declaration
 I hereby declare that the above mentioned information is true to the best of my knowledge.
 <img style="width: 150px; float: right;" src="signature.png">
