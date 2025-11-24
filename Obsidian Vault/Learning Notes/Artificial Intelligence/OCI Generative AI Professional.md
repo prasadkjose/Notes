@@ -63,7 +63,8 @@
 			2. Minor mistakes are not tolerated
 		2. Loss - how wrong the output of the model is. 
 			1. Calculated through **probability difference** between the prediction and the actual output.
-	4. 
+6.  **How is the totalTrainingSteps parameter calculated during fine-tuning in OCI Generative AI?**
+	totalTrainingSteps = (totalTrainingEpochs * size(trainingDataset)) / trainingBatchSize
 
 ## RAG (Retrieval Augmented Generation)
 1. Model has access to (retrieved) support documents for a query. 
@@ -107,6 +108,7 @@
 	1. Text, Language, Image etc
 	2. Diffusion Models: 
 		1. Produce complex output simultaneously rather token by token. like in decoders.
+		2.  not used in text generation because text representation is categorical, unlike images.
 3. Language Models
 	1. Create plans and reasons. 
 	2. Take actions as response to plans. 
@@ -142,6 +144,7 @@
 	5. **RDMA - Remote direct Memory Access** and dedicated GPUs are assigned in OCI
 	6. Custom Models are tenancy based. 
 	7. Key management and GEN AI Object storage service( for weights) are provided. 
+	8. ![[Pasted image 20251121111153.png]]
 
 ## RAG and vector searching OCI
 1. Pipeline - 
@@ -159,9 +162,16 @@
 			3. Cosine only considers angle and not magnitude. 
 		3. Indexing - Special data structured used to reduce the search space
 		4.  Once the document is retrieved it's sent to the LLM
-		5. 
-2. Conversational RAG: 
-	1. Use question prompt and documents to add context to the chat. 
+		5. - Ways to do this:
+		    - **Dense Retrieval**: Uses text embeddings
+		        - - Relies on embeddings of both queries and documents to identify and rank relevant documents for a given query
+				- Enables the retrieval system to understand and match based on the contextual similarities between queries and documents
+		    - **Reranking**: Assigns a relevance score
+			    - - Assigns a relevance score to (query, response) pairs from initial search results
+				- High relevance score pairs are more likely to be correct
+				- Implemented through a trained LLM
+	3. Generation: 
+		1. Use question prompt and documents to add context to the chat in generation Phase
 
 # OCI Generative AI Agents
 1. Features: 
