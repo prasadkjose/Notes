@@ -138,8 +138,8 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 ---
 ### **Achievements & Certifications**
 - Cyber Security and Networks: 
-	- [ISC2 Certified in Cybersecurity (CC) ](https://www.credly.com/badges/59e7baf1-9bd9-4828-94d3-b5be723ca045) 
-	- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/d3300737-0695-4f3b-8a47-f1a02c173559/linked_in_profile)  
+	- [ISC2 Certified in Cybersecurity (CC) 2025](https://www.credly.com/badges/59e7baf1-9bd9-4828-94d3-b5be723ca045) 
+	- [Google Cybersecurity Professional Certificate 2025](https://www.credly.com/badges/d3300737-0695-4f3b-8a47-f1a02c173559/linked_in_profile)  
 	- [Cisco Certified Network Associate (CCNA)](https://drive.google.com/file/d/1Jpq5zFr9GYK_5Bu23VJRvvH828nOL5Vf/view?usp=sharing)  
 - AI & Engineering: 
 	-  [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F7205E65616E645F16A6220755EA13B7195912847F8B983177DEB197B23DE1A2)

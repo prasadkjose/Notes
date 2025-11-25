@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prasad Resume - SDE.md",
+                "file": "private/TODO list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prasad Resume - SDE"
+              "title": "TODO list"
             }
           }
         ],
@@ -208,8 +208,17 @@
   },
   "active": "41e6eb31b7e7fc52",
   "lastOpenFiles": [
-    "private/TODO list.md",
+    "Learning Notes/Cloud Security/1. Identity and Access Management IAM.md",
+    "Learning Notes/Cloud Security/5. Detection and Remediation.md",
+    "Learning Notes/Cloud Security/2. Infrastructure Protection.md",
+    "Learning Notes/Cloud Security/4. Data Protection.md",
+    "Learning Notes/Cloud Security/3. OS and workload protection.md",
+    "Learning Notes/Cloud Security/Detecting and Monitoring.md",
+    "Learning Notes/Cloud Security/Risk and Data Security.md",
+    "Learning Notes/Cloud Security/Monitoring.md",
     "Prasad Resume - SDE.md",
+    "Learning Notes/Cloud Security",
+    "private/TODO list.md",
     "signature.png",
     "README.md",
     "Learning Notes/images/Pasted image 20251121111153.png",
@@ -239,18 +248,10 @@
     "Blog/OOM/Blog Cover Image.png",
     "Blog/OOM",
     "private/TODO.md",
-    "private/Blog Drafts",
     "private/README.md",
     "Linux Setup.md",
     "private/Cybersecurity Learning Path.md",
     "Dev Setup.md",
-    "Private Cloud Setup/Private Cloud Setup.canvas",
-    "Private Cloud Setup/NAS Setup.md",
-    "Untitled.md",
-    "sampe.md",
-    "2025-10-12.md",
-    "2025-10-11.md",
-    "create a link.md",
-    "Welcome.md"
+    "Private Cloud Setup/Private Cloud Setup.canvas"
   ]
 }
