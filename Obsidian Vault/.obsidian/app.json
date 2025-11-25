@@ -5,7 +5,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 63
+    "downscalePercent": 65
   },
   "showLineNumber": true,
   "tabSize": 6,

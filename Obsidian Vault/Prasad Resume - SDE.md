@@ -84,9 +84,11 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
     <td align="left" style="vertical-align:top; width:80%; border: none;">
 	    <b> Master of Science in Computer Science</b> <br>
 	     <i>University of Geneva</i><br>
+	     
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
 	      Completed July 2020<br>
+	      Computer Science
     </td>
   </tr>
 </table>
@@ -99,18 +101,18 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
       Completed May 2018<br>
-       
+       Computer Science
     </td>
   </tr>
 </table>
 
 <table style="width:100%; border: none;">
   <tr>
-    <td align="left" style="vertical-align:top; width:60%; border: none;">
+    <td align="left" style="vertical-align:top; width:80%; border: none;">
 	    <b> High School Diploma</b> <br>
 	     <i>ST Britto’s Academy, Chennai</i><br>
     </td>
-    <td align="right" style="vertical-align:top; width:40%; border: none;">
+    <td align="right" style="vertical-align:top; width:20%; border: none;">
       Completed April 2014<br>
         Computer Science, Math, Physics, Chemistry  
     </td>
@@ -118,12 +120,11 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 </table>
 
 ---
-### **Technical Areas Of Expertise**
+### **Technical Areas Of Interest and Expertise**
 
 - Web / Software Design and Engineering  
 - Cybersecurity – SIEM tools, Penetration Testing, Cryptography, IoT, and Security
 
----
 <div style="page-break-after: always;"></div>
 
 
@@ -174,8 +175,7 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 -  Tamil — Native
 -  French — Conversational (A2)
 
-
-<br><br><br>
+<br><br>
 ### Declaration
 I hereby declare that the above mentioned information is true to the best of my knowledge.
 <img style="width: 150px; float: right;" src="signature.png">
