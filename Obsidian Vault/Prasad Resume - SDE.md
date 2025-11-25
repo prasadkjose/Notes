@@ -20,50 +20,56 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 
 <table style="width:100%; border: none;">
   <tr>
-    <td align="left" style="vertical-align:top; width:60%; border: none;">
+    <td align="left" style="vertical-align:top; width:80%; border: none;">
 	    <b> Oracle Corporation, Prague, Czech Republic</b> <br>
-	     <i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations.</i><br>
+	    <ul>
+		     <li><i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations.</i><br>
+		     <li><i>Worked on internal frameworks to build UI using metadata provided by various Oracle data services making the product more extensible and simplifying developer effort. </i>
+		</ul>
     </td>
-    <td align="right" style="vertical-align:top; width:40%; border: none;">
+    <td align="right" style="vertical-align:top; width:20%; border: none;">
       July 2022 - current<br>
        Software Developer  
     </td>
   </tr>
 </table>
-
 <table style="width:100%; border: none;">
   <tr>
-    <td align="left" style="vertical-align:top; width:60%; border: none;">
+    <td align="left" style="vertical-align:top; width:80%; border: none;">
 	    <b> Emplifi s.r.o, Prague, Czech Republic</b> <br>
-	     <i>Contributed to the development of Emplifi Community Inbox, implementing key features such as IGTV and TikTok integrations and enhanced multimedia support.</i><br>
+	    <ul>
+		     <li><i>Contributed to the development of Emplifi Community Inbox, implementing key features such as IGTV and TikTok integrations and enhanced multimedia support.</i>
+	     </ul>
     </td>
-    <td align="right" style="vertical-align:top; width:40%; border: none;">
+    <td align="right" style="vertical-align:top; width:20%; border: none;">
       March 2021 – June 2022<br>
        JavaScript Developer  
     </td>
   </tr>
 </table>
-
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    <b> Olympe S.A, Lausanne, Switzerland</b> <br>
-	     <i>Developed hybrid applications using JavaScript and the Olympe JS framework.</i><br>
+	    <ul>
+		     <li><i>Developed hybrid applications utilizing blockchain for logistics using JavaScript and the Olympe JS framework.</i>
+		</ul>
     </td>
-    <td align="right" style="vertical-align:top; width:40%; border: none;">
+    <td align="right" style="vertical-align:top; width:20%; border: none;">
       July – September 2019<br>
        Software Developer  
     </td>
   </tr>
 </table>
-
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    <b> Nokia Solutions and Networks, Chennai, India</b> <br>
-	     <i>Worked on development and debugging tasks within the software engineering team.</i><br>
+	    <ul>
+		     <li><i>Worked on development of fault tolerant systems and other systems for telecommunications factory line.</i>
+	     </ul>
     </td>
-    <td align="right" style="vertical-align:top; width:40%; border: none;">
+    <td align="right" style="vertical-align:top; width:20%; border: none;">
       December 2017 – June 2018<br>
        Software Development Intern  
     </td>
@@ -75,7 +81,7 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 
 <table style="width:100%; border: none;">
   <tr>
-    <td align="left" style="vertical-align:top; width:60%; border: none;">
+    <td align="left" style="vertical-align:top; width:80%; border: none;">
 	    <b> Master of Science in Computer Science</b> <br>
 	     <i>University of Geneva</i><br>
     </td>
@@ -118,6 +124,10 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 - Cybersecurity – SIEM tools, Penetration Testing, Cryptography, IoT, and Security
 
 ---
+<div style="page-break-after: always;"></div>
+
+
+
 ### **Projects**
 
  **Project 1: Confidential Computing for Machine Learning Using Intel SGX**
@@ -165,7 +175,7 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 -  French — Conversational (A2)
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 ### Declaration
 I hereby declare that the above mentioned information is true to the best of my knowledge.
 <img style="width: 150px; float: right;" src="signature.png">
