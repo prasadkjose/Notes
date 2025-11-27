@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "8896732167792815",
@@ -206,11 +207,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "41e6eb31b7e7fc52",
+  "active": "fe324030be7e2441",
   "lastOpenFiles": [
-    "private/TODO list.md",
     "Prasad Resume - SDE.md",
     "Learning Notes/Cloud Security/1. Identity and Access Management IAM.md",
+    "private/TODO list.md",
     "Learning Notes/Cloud Security/5. Detection and Remediation.md",
     "Learning Notes/Cloud Security/2. Infrastructure Protection.md",
     "Learning Notes/Cloud Security/4. Data Protection.md",
