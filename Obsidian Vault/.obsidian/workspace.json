@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 256.5
   },
   "right": {
     "id": "8896732167792815",
@@ -207,11 +206,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fe324030be7e2441",
+  "active": "41e6eb31b7e7fc52",
   "lastOpenFiles": [
-    "Prasad Resume - SDE.md",
+    "Learning Notes/Cloud Security/0. Introduction.md",
     "Learning Notes/Cloud Security/1. Identity and Access Management IAM.md",
     "private/TODO list.md",
+    "Prasad Resume - SDE.md",
     "Learning Notes/Cloud Security/5. Detection and Remediation.md",
     "Learning Notes/Cloud Security/2. Infrastructure Protection.md",
     "Learning Notes/Cloud Security/4. Data Protection.md",
@@ -252,7 +252,6 @@
     "private/README.md",
     "Linux Setup.md",
     "private/Cybersecurity Learning Path.md",
-    "Dev Setup.md",
     "Private Cloud Setup/Private Cloud Setup.canvas"
   ]
 }
