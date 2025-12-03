@@ -29,7 +29,7 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
     </td>
     <td align="right" style="vertical-align:top; width:20%; border: none;">
       July 2022 - current<br>
-       Software Developer  
+       Senior Software Engineer - IC3  
     </td>
   </tr>
 </table>
@@ -43,7 +43,7 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
     </td>
     <td align="right" style="vertical-align:top; width:20%; border: none;">
       March 2021 – June 2022<br>
-       JavaScript Developer  
+       JavaScript Developer  - L2 
     </td>
   </tr>
 </table>
