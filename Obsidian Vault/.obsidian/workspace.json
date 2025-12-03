@@ -208,6 +208,8 @@
   },
   "active": "41e6eb31b7e7fc52",
   "lastOpenFiles": [
+    "Dev Setup.md",
+    "Linux Setup.md",
     "Prasad Resume - SDE.md",
     "Learning Notes/Cloud Security/1. Identity and Access Management IAM.md",
     "Learning Notes/Cloud Security/0. Introduction.md",
@@ -250,7 +252,6 @@
     "Blog/OOM",
     "private/TODO.md",
     "private/README.md",
-    "Linux Setup.md",
     "Private Cloud Setup/Private Cloud Setup.canvas"
   ]
 }

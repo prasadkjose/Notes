@@ -55,10 +55,10 @@ ssh-add ~/.ssh/id_ed25519
 cat ~/.ssh/id_ed25519.pub
 ```
 
-Paste it in github settings -> keys
+Paste it in GitHub settings -> keys
 
 ---
-#### 3.2. Encryption of Repository File and Folders
+#### 3.3. Encryption of Repository File and Folders
 ##### Git-Crypt Quick Setup (Linux)
 
 ##### Install
@@ -99,7 +99,7 @@ git-crypt unlock
 
 ---
 
-#### New Computer?
+#### 3.3.1 New Computer?
 ##### 1. Download the Private and Public Keys from Proton
 ##### 1.1 Import the Keys
 
@@ -113,6 +113,8 @@ gpg --import secret.asc
 ##### 1.3 Unlock the Repo from above
 
 ---
+
+
 ### 4. Additional Tools and Tweaks
 
 #### 4.1. System Monitoring and Power Essentials
