@@ -44,6 +44,19 @@ sudo ./setup_linux.sh
 git config --global user.name "prasad koshy jose"
 git config --global user.email "prasadkjose@gmail.com"
 ```
+
+#### 3.2. Create and Add SSH Keys to github
+
+```shell
+ssh-keygen -t ed25519 -C "prasadkjose@gmail.com"
+
+ssh-add ~/.ssh/id_ed25519
+
+cat ~/.ssh/id_ed25519.pub
+```
+
+Paste it in github settings -> keys
+
 ---
 #### 3.2. Encryption of Repository File and Folders
 ##### Git-Crypt Quick Setup (Linux)

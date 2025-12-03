@@ -20,14 +20,14 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 
 <table style="width:100%; border: none;">
   <tr>
-    <td align="left" style="vertical-align:top; width:80%; border: none;">
+    <td align="left" style="vertical-align:top; width:75%; border: none;">
 	    <b> Oracle Corporation, Prague, Czech Republic</b> <br>
 	    <ul>
 		     <li><i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations.</i><br>
 		     <li><i>Worked on internal frameworks to build UI using metadata provided by various Oracle data services making the product more extensible and simplifying developer effort. </i>
 		</ul>
     </td>
-    <td align="right" style="vertical-align:top; width:20%; border: none;">
+    <td align="right" style="vertical-align:top; width:25%; border: none;">
       July 2022 - current<br>
        Sr. Software Engineer - IC3  
     </td>
