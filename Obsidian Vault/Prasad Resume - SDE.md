@@ -29,7 +29,7 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
     </td>
     <td align="right" style="vertical-align:top; width:20%; border: none;">
       July 2022 - current<br>
-       Senior Software Engineer - IC3  
+       Sr. Software Engineer - IC3  
     </td>
   </tr>
 </table>
