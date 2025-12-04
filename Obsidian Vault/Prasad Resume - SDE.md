@@ -56,7 +56,7 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 		</ul>
     </td>
     <td align="right" style="vertical-align:top; width:20%; border: none;">
-      July – September 2019<br>
+      July 2019 – January 2020<br>
        Software Developer  
     </td>
   </tr>
