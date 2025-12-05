@@ -83,7 +83,7 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
   <tr>
     <td align="left" style="vertical-align:top; width:80%; border: none;">
 	    <b> Master of Science in Computer Science</b> <br>
-	     <i>University of Geneva</i><br>
+	     <i>University of Geneva, Switzerland</i><br>
 	     
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
