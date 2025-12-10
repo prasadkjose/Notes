@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prasad Resume - SDE.md",
+                "file": "Prasad Resume - Info Sec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prasad Resume - SDE"
+              "title": "Prasad Resume - Info Sec"
             }
           }
         ],
@@ -208,8 +208,9 @@
   },
   "active": "41e6eb31b7e7fc52",
   "lastOpenFiles": [
-    "private/TODO list.md",
     "Prasad Resume - SDE.md",
+    "Prasad Resume - Info Sec.md",
+    "private/TODO list.md",
     "signature.png",
     "Linux Setup.md",
     "Dev Setup.md",

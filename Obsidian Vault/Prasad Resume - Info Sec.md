@@ -13,7 +13,7 @@
 </table>
 ___
 
-Senior Software Engineer with 4+ years of experience designing, implementing, and optimizing secure software and web applications looking for a position in your esteemed organization. I have experience working with globally distributed teams, across startups and Fortune 500 companies, delivering software solutions on schedule.
+Senior Software Professional with 4+ years of experience in secure software engineering and a Master’s degree specializing in Cybersecurity. Seeking an infosec role to apply my knowledge in security engineering, threat prevention, and secure application design.
 
 --- 
 ### **Work Experience**
@@ -24,7 +24,7 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 	    <b> Oracle Corporation, Prague, Czech Republic</b> <br>
 	    <ul>
 		     <li><i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations.</i><br>
-		     <li><i>Worked on internal frameworks to build UI using metadata provided by various Oracle data services making the product more extensible and simplifying developer effort. </i>
+		     <li><i>Worked on implementing secure frameworks driven by metadata provided by various Oracle data services to connect with third party data services including Google, AWS etc. </i>
 		</ul>
     </td>
     <td align="right" style="vertical-align:top; width:25%; border: none;">
@@ -122,13 +122,11 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 ---
 ### **Technical Areas Of Interest and Expertise**
 
-- Web / Software Design and Engineering  
-- Cybersecurity – SIEM tools, Penetration Testing, Cryptography, IoT, and Security
-
+- Cybersecurity
+- SIEM tools,
+- Cryptography, 
+- IoT, and Security
 <div style="page-break-after: always;"></div>
-
-
-
 ### **Projects**
 
  **Project 1: Confidential Computing for Machine Learning Using Intel SGX**
@@ -141,10 +139,10 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 ---
 ### **Skill Set**
 
-- **Programming Languages:** JavaScript, C++, Python  
-- **Frameworks and APIs:** ReactJS, VueJS, WinAPI
-- **Cloud Technologies:** Oracle Cloud - OCI  
-- **RDBMS:** Oracle 9i, MySQL  
+- **Programming Languages:** Python, C++,  JavaScript
+- **SIEM Tools**: Splunk, Google SecOps
+- **Cloud Technologies:** Oracle Cloud - OCI, AWS
+- **RDBMS:** Oracle 9i, MySQL
 
 ---
 ### **Achievements & Certifications**
@@ -154,7 +152,6 @@ Senior Software Engineer with 4+ years of experience designing, implementing, an
 	- [Cisco Certified Network Associate (CCNA)](https://drive.google.com/file/d/1Jpq5zFr9GYK_5Bu23VJRvvH828nOL5Vf/view?usp=sharing)  
 - AI & Engineering: 
 	-  [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F7205E65616E645F16A6220755EA13B7195912847F8B983177DEB197B23DE1A2)
-	-  [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E597B433A2CDB78DAD322EC617742269C6519523F78C58387CD74C3C0D91F458)  
 	-  [Prix Arditi 2020 In Informatics – University of Geneva (Best Master Thesis)](https://drive.google.com/file/d/1CDvjoT_IpawMzHnfty_6x0omPk9OMefe/view?usp=sharing)  
 
 ---
