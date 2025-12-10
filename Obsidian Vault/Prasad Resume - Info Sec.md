@@ -81,14 +81,14 @@ Senior Software Professional with 4+ years of experience in secure software engi
 
 <table style="width:100%; border: none;">
   <tr>
-    <td align="left" style="vertical-align:top; width:80%; border: none;">
+    <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    <b> Master of Science in Computer Science</b> <br>
 	     <i>University of Geneva, Switzerland</i><br>
 	     
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
 	      Completed July 2020<br>
-	      Computer Science
+	      Specialization in Cybersecurity
     </td>
   </tr>
 </table>
