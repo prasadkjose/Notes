@@ -28,7 +28,7 @@ Senior Software Professional with 4+ years of experience in secure software engi
 		</ul>
     </td>
     <td align="right" style="vertical-align:top; width:25%; border: none;">
-      July 2022 - current<br>
+      July 2022 - January 2026<br>
        Sr. Software Engineer - IC3  
     </td>
   </tr>
@@ -184,7 +184,7 @@ I hereby declare that the above mentioned information is true to the best of my 
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    Place: Colorado Springs, CO   <br>
-	    Date: 14.01.2026 <br>
+	    Date: 01.06.2026 <br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
 	       Prasad Koshy Jose  
