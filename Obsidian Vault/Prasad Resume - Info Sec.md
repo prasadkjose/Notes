@@ -184,7 +184,7 @@ I hereby declare that the above mentioned information is true to the best of my 
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    Place: Colorado Springs, CO   <br>
-	    Date: 01.06.2026 <br>
+	    Date: 01.13.2026 <br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
 	       Prasad Koshy Jose  
