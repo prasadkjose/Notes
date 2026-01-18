@@ -3,7 +3,7 @@
 <table style="width:100%; border: none;">
 <tr>
 <td align="left" style="vertical-align:top; width:60%; border: none;">
-	  🌎 Colorado Springs, CO<br>
+	  🌎 Seattle, WA<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
       📞 (503) 984-4413<br>
        🔗 <a href="https://www.linkedin.com/in/prasadkjose">LinkedIn</a><br>
@@ -13,7 +13,7 @@
 </table>
 ___
 
-Senior Software Engineer with 4+ years of experience designing, implementing, and optimizing secure software and web applications looking for a position in your esteemed organization. I have experience working with globally distributed teams, across startups and Fortune 500 companies, delivering software solutions on schedule.
+Senior Software Engineer with five years of experience designing, implementing, and optimizing secure software and web applications looking for a position in your esteemed organization. I have experience working with globally distributed teams, across startups and Fortune 500 companies, delivering software solutions on schedule.
 
 --- 
 ### **Work Experience**
@@ -186,8 +186,8 @@ I hereby declare that the above mentioned information is true to the best of my 
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
-	    Place: Colorado Springs, CO   <br>
-	    Date: 01.13.2026 <br>
+	    Place: Seattle, WA   <br>
+	    Date: 01.18.2026 <br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
 	       Prasad Koshy Jose  

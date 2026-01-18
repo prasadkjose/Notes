@@ -3,7 +3,7 @@
 <table style="width:100%; border: none;">
 <tr>
 <td align="left" style="vertical-align:top; width:60%; border: none;">
-	  🌎 Colorado Springs, CO<br>
+	  🌎 Seattle, WA<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
       📞 (503) 984-4413<br>
        🔗 <a href="https://www.linkedin.com/in/prasadkjose">LinkedIn</a><br>
@@ -13,7 +13,7 @@
 </table>
 ___
 
-Senior Software Professional with 4+ years of experience in secure software engineering and a Master’s degree specializing in Cybersecurity. Seeking an infosec role to apply my knowledge in security engineering, threat prevention, and secure application design.
+Senior Software Professional with five years of experience in secure software engineering and a Master’s degree specializing in Cybersecurity. Seeking an infosec role to apply my knowledge in security engineering, threat prevention, and secure application design.
 
 --- 
 ### **Work Experience**
@@ -183,8 +183,8 @@ I hereby declare that the above mentioned information is true to the best of my 
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
-	    Place: Colorado Springs, CO   <br>
-	    Date: 01.13.2026 <br>
+	    Place: Seattle, WA   <br>
+	    Date: 01.18.2026 <br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
 	       Prasad Koshy Jose  
