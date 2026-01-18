@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter - SDE.md",
+                "file": "private/TODO list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter - SDE"
+              "title": "TODO list"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "67b0424f3183b843",
   "lastOpenFiles": [
-    "Cover Letter.md",
     "Cover Letter - SDE.md",
+    "Cover Letter.md",
     "private/Vacations/Norway Northern Lights Trip.canvas",
     "Prasad Resume - SDE.md",
     "README.md",
