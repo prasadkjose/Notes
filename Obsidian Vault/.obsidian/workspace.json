@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter.md",
+                "file": "Cover Letter - SDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter"
+              "title": "Cover Letter - SDE"
+            }
+          },
+          {
+            "id": "3276a41a2eff525e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -206,14 +219,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "67b0424f3183b843",
+  "active": "3276a41a2eff525e",
   "lastOpenFiles": [
-    "Cover Letter - SDE.md",
     "Prasad Resume - Info Sec.md",
-    "Dev Setup.md",
-    "Linux Setup.md",
     "Prasad Resume - SDE.md",
     "Cover Letter.md",
+    "Cover Letter - SDE.md",
+    "Dev Setup.md",
+    "Linux Setup.md",
     "private/TODO list.md",
     "private/Vacations/Norway Northern Lights Trip.canvas",
     "README.md",
