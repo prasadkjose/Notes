@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "TODO list"
             }
-          },
-          {
-            "id": "789b084977a84112",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
         ],
         "stacked": true
@@ -220,15 +208,16 @@
   },
   "active": "67b0424f3183b843",
   "lastOpenFiles": [
-    "Cover Letter - SDE.md",
-    "private/TODO list.md",
-    "Prasad Resume - Info Sec.md",
     "Prasad Resume - SDE.md",
-    "Cover Letter.md",
-    "Dev Setup.md",
-    "Linux Setup.md",
-    "private/Vacations/Norway Northern Lights Trip.canvas",
+    "Cover Letter - SDE.md",
+    "Prasad Resume - Info Sec.md",
     "README.md",
+    "Dev Setup.md",
+    "Job Answers.md",
+    "Cover Letter.md",
+    "Linux Setup.md",
+    "private/TODO list.md",
+    "private/Vacations/Norway Northern Lights Trip.canvas",
     "signature.png",
     "Learning Notes/Cloud Security/0. Introduction.md",
     "Learning Notes/Cloud Security/1. Identity and Access Management IAM.md",
