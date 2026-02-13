@@ -3,9 +3,9 @@
 <table style="width:100%; border: none;">
 <tr>
 <td align="left" style="vertical-align:top; width:60%; border: none;">
-	  🌎 Seattle, WA<br>
+	  🌎 Colorado Springs, CO<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
-      📞 (503) 984-4413<br>
+      📞 (719) 243-4755<br>
        🔗 <a href="https://www.linkedin.com/in/prasadkjose">LinkedIn</a><br>
       💻 <a href="https://github.com/prasadkjose">GitHub</a>
     </td>
@@ -183,7 +183,7 @@ I hereby declare that the above mentioned information is true to the best of my 
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
-	    Place: Seattle, WA   <br>
+	    Place: Colorado Springs, CO <br>
 	    Date: 02.09.2026 <br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">

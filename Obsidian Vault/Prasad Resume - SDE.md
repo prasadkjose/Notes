@@ -5,7 +5,7 @@
 <td align="left" style="vertical-align:top; width:60%; border: none;">
 	  🌎 Colorado Springs, CO<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
-      📞 (503) 984-4413<br>
+      📞 (719) 243-4755<br>
        🔗 <a href="https://www.linkedin.com/in/prasadkjose">LinkedIn</a><br>
       💻 <a href="https://github.com/prasadkjose">GitHub</a>
     </td>
@@ -23,6 +23,7 @@ Senior Software Engineer with five years of experience designing, implementing, 
     <td align="left" style="vertical-align:top; width:75%; border: none;">
 	    <b> Oracle Corporation, Prague, Czech Republic</b> <br>
 	    <ul>
+	    <li><i>Tech Stack: JS, JET, (P)React, HTML, (S)CSS, Java 21, OCI</i><br>
 		     <li><i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations.</i><br>
 		     <li><i>Worked on internal frameworks to build UI using metadata provided by various Oracle data services making the product more extensible and simplifying developer effort. </i>
 		</ul>
@@ -38,6 +39,7 @@ Senior Software Engineer with five years of experience designing, implementing, 
     <td align="left" style="vertical-align:top; width:80%; border: none;">
 	    <b> Emplifi s.r.o, Prague, Czech Republic</b> <br>
 	    <ul>
+		    <li><i>Tech Stack: JS, React, HTML, CSS, Elastic Search, MongoDB, AWS</i><br>
 		     <li><i>Contributed to the development of Emplifi Community Inbox, implementing key features such as IGTV and TikTok integrations and enhanced multimedia support.</i>
 	     </ul>
     </td>
@@ -52,6 +54,7 @@ Senior Software Engineer with five years of experience designing, implementing, 
     <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    <b> Olympe S.A, Lausanne, Switzerland</b> <br>
 	    <ul>
+			<li><i>Tech Stack: JS, OlympeJS, HTML, CSS, GraphDB, AWS</i><br>
 		     <li><i>Developed hybrid applications utilizing blockchain for logistics using JavaScript and the Olympe JS framework.</i>
 		</ul>
     </td>
@@ -120,10 +123,6 @@ Senior Software Engineer with five years of experience designing, implementing, 
 </table>
 
 ---
-### **Technical Areas Of Interest and Expertise**
-
-- Web / Software Design and Engineering  
-- Cybersecurity – SIEM tools, Penetration Testing, Cryptography, IoT, and Security
 
 <div style="page-break-after: always;"></div>
 

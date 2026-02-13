@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/TODO list.md",
+                "file": "Cover Letter - SDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO list"
+              "title": "Cover Letter - SDE"
             }
           }
         ],
@@ -208,15 +208,15 @@
   },
   "active": "67b0424f3183b843",
   "lastOpenFiles": [
+    "Cover Letter.md",
+    "Prasad Resume - Info Sec.md",
     "Prasad Resume - SDE.md",
     "Cover Letter - SDE.md",
-    "Prasad Resume - Info Sec.md",
+    "private/TODO list.md",
     "README.md",
     "Dev Setup.md",
     "Job Answers.md",
-    "Cover Letter.md",
     "Linux Setup.md",
-    "private/TODO list.md",
     "private/Vacations/Norway Northern Lights Trip.canvas",
     "signature.png",
     "Learning Notes/Cloud Security/0. Introduction.md",
