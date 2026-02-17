@@ -24,7 +24,7 @@ Senior Software Engineer with five years of experience designing, implementing, 
 	    <b> Oracle Corporation, Prague, Czech Republic</b> <br>
 	    <ul>
 	    <li><i>Tech Stack: JS, JET, (P)React, HTML, (S)CSS, Java 21, OCI</i><br>
-		     <li><i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations.</i><br>
+		     <li><i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations leveraging AI coding tools.</i><br>
 		     <li><i>Worked on internal frameworks to build UI using metadata provided by various Oracle data services making the product more extensible and simplifying developer effort. </i>
 		</ul>
     </td>
@@ -186,7 +186,7 @@ I hereby declare that the above mentioned information is true to the best of my 
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    Place: Colorado Springs, CO   <br>
-	    Date: 02.09.2026 <br>
+	    Date: 02.17.2026 <br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
 	       Prasad Koshy Jose  
