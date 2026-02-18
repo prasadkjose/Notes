@@ -13,7 +13,7 @@
 </table>
 ___
 
-Senior Software Professional with five years of experience in secure software engineering and a Master’s degree specializing in Cybersecurity. Seeking an infosec role to apply my knowledge in security engineering, threat prevention, and secure application design.
+Software Professional with five years of experience in secure software engineering and a Master’s degree specializing in Cybersecurity. Seeking an infosec role to apply my knowledge in security engineering, threat prevention, and secure application design.
 
 --- 
 ### **Work Experience**
@@ -184,7 +184,7 @@ I hereby declare that the above mentioned information is true to the best of my 
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    Place: Colorado Springs, CO <br>
-	    Date: 02.09.2026 <br>
+	    Date: 02.18.2026 <br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
 	       Prasad Koshy Jose  

@@ -23,7 +23,7 @@ Senior Software Engineer with five years of experience designing, implementing, 
     <td align="left" style="vertical-align:top; width:75%; border: none;">
 	    <b> Oracle Corporation, Prague, Czech Republic</b> <br>
 	    <ul>
-	    <li><i>Tech Stack: JS, JET, (P)React, HTML, (S)CSS, Java 21, OCI</i><br>
+	    <li><i>Tech Stack: JS/TS, JET, (P)React, HTML, (S)CSS, Java 21, OCI</i><br>
 		     <li><i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations leveraging AI coding tools.</i><br>
 		     <li><i>Worked on internal frameworks to build UI using metadata provided by various Oracle data services making the product more extensible and simplifying developer effort. </i>
 		</ul>
@@ -39,7 +39,7 @@ Senior Software Engineer with five years of experience designing, implementing, 
     <td align="left" style="vertical-align:top; width:80%; border: none;">
 	    <b> Emplifi s.r.o, Prague, Czech Republic</b> <br>
 	    <ul>
-		    <li><i>Tech Stack: JS, React, HTML, CSS, Elastic Search, MongoDB, AWS</i><br>
+		    <li><i>Tech Stack: JS/TS, React, HTML, CSS, Elastic Search, MongoDB, AWS</i><br>
 		     <li><i>Contributed to the development of Emplifi Community Inbox, implementing key features such as IGTV and TikTok integrations and enhanced multimedia support.</i>
 	     </ul>
     </td>
