@@ -13,7 +13,7 @@
 </table>
 ___
 
-Senior Software Engineer with five years of experience designing, implementing, and optimizing secure software and web applications looking for a position in your esteemed organization. I have experience working with globally distributed teams, across startups and Fortune 500 companies, delivering software solutions on schedule.
+Software Professional with five years of experience designing, implementing, and optimizing secure software and web applications looking for a position in your esteemed organization. I have experience collaborating with product managers and customers, across startups and Fortune 500 companies.
 
 --- 
 ### **Work Experience**
@@ -23,9 +23,8 @@ Senior Software Engineer with five years of experience designing, implementing, 
     <td align="left" style="vertical-align:top; width:75%; border: none;">
 	    <b> Oracle Corporation, Prague, Czech Republic</b> <br>
 	    <ul>
-	    <li><i>Tech Stack: JS/TS, JET, (P)React, HTML, (S)CSS, Java 21, OCI</i><br>
-		     <li><i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations leveraging AI coding tools.</i><br>
-		     <li><i>Worked on internal frameworks to build UI using metadata provided by various Oracle data services making the product more extensible and simplifying developer effort. </i>
+		     <li><i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations, leveraging AI coding tools.</i><br>
+		     <li><i> Experience reviewing real customer interactions and communicating with clients to implement business object based GenAI feature design and implementation. </i>
 		</ul>
     </td>
     <td align="right" style="vertical-align:top; width:25%; border: none;">
@@ -39,7 +38,6 @@ Senior Software Engineer with five years of experience designing, implementing, 
     <td align="left" style="vertical-align:top; width:80%; border: none;">
 	    <b> Emplifi s.r.o, Prague, Czech Republic</b> <br>
 	    <ul>
-		    <li><i>Tech Stack: JS/TS, React, HTML, CSS, Elastic Search, MongoDB, AWS</i><br>
 		     <li><i>Contributed to the development of Emplifi Community Inbox, implementing key features such as IGTV and TikTok integrations and enhanced multimedia support.</i>
 	     </ul>
     </td>
@@ -54,7 +52,6 @@ Senior Software Engineer with five years of experience designing, implementing, 
     <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    <b> Olympe S.A, Lausanne, Switzerland</b> <br>
 	    <ul>
-			<li><i>Tech Stack: JS, OlympeJS, HTML, CSS, GraphDB, AWS</i><br>
 		     <li><i>Developed hybrid applications utilizing blockchain for logistics using JavaScript and the Olympe JS framework.</i>
 		</ul>
     </td>
