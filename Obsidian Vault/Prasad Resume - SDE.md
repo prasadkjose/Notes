@@ -30,7 +30,7 @@ Senior Software Engineer offering five years of experience designing, implementi
 		     <li>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and 3rd party integrations by leveraging AI coding tools.<br>
 		     <li>Worked on internal frameworks to build UI using metadata provided by various Oracle data services making the product more extensible and simplifying developer effort. 
 		     <li>Proposed and helped design an AI-driven diagram generator for Business Objects based on customer usage analysis, improving usability for existing clients and increasing feature adoption.
-		     <li>Helped create, design and maintain a JSON5 based configuration system that auto generates resource model classes and type based UI property component generation. This cut down the complexity of a feature launch time to a fraction of the original and cut down developer and QA time to write custom tests for any model property.  
+		     <li>Helped create, design and maintain a JSON5 based configuration system that auto generates resource model classes and type based UI property components. This cut down the complexity of a feature launch time to a fraction of the original and cut down developer and QA time to write custom tests for any model property.  
 		</ul>
     </td>
   </tr>
@@ -43,7 +43,7 @@ Senior Software Engineer offering five years of experience designing, implementi
 	    <ul>
 		    <li><i>Tech Stack: JS/TS, React, HTML, CSS, Elastic Search, MongoDB, AWS</i><br>
 		     <li>Contributed to the development of Emplifi Community Inbox, implementing key features such as IGTV and TikTok integrations and enhanced multimedia support.
-		      <li>Improved integration reliability by adding API level testing and handling edge cases, reducing support escalations.
+		      <li>Improved integration reliability by adding API level testing and handling edge cases, reducing support escalations. Thechanges were fully functional during the 2022 Superbowl, when 100 million+ social media interactions were parsed and compiled in the product and for the first time the Emplifi Community product had zero downtime.
 	     </ul>
     </td>
   </tr>
@@ -56,7 +56,7 @@ Senior Software Engineer offering five years of experience designing, implementi
 	    <ul>
 			<li><i>Tech Stack: JS, OlympeJS, HTML, CSS, GraphDB, AWS</i><br>
 		     <li> Built hybrid applications leveraging blockchain and OlympeJS framework and built a PoC for logistics use cases. Main features were improving traceability and data transparency by live tracking and updates.
-		     <li>Designed modular and reusable JavaScript components, which were the first components launched with Olympe Marketplace. These components were downloaded and used by hundreds of customers in their platform. This was part of my Master's internship which was awarded full grade and employment to extend this feature.
+		     <li>Designed modular and reusable JavaScript components, which were the first components launched with Olympe Marketplace. These components were downloaded and used by hundreds of customers in their platform. This was part of Master's internship which was awarded full grade and offer of employment to extend this feature.
 		</ul>
     </td>
   </tr>
@@ -76,7 +76,10 @@ Senior Software Engineer offering five years of experience designing, implementi
 ---
 
 
-<div stlye="page-break-after:always"></div>
+
+
+
+<div style="page-break-after:always"></div>
 
 ### **Education**
 <table style="width:100%; border: none;">
@@ -107,8 +110,8 @@ Senior Software Engineer offering five years of experience designing, implementi
 
 ### **Projects**
  **Project 1: Confidential Computing for Machine Learning Using Intel SGX**
-- Final Master’s Thesis, University of Geneva, Winner of Arditi Prize 2020 for best Project
-- Built a confidential machine learning workflow using Intel SGX enclaves to protect data and model computation inside trusted execution environments. Designed and implemented secure enclave integration with ML use case and pipelines, ensuring sensitive data remained encrypted and isolated throughout training and inference. Evaluated performance and security trade-offs and demonstrated practical feasibility of security focused ML with measurable results.
+- Final Master’s Thesis, University of Geneva, Winner of Arditi Prize 2020 for best project.
+- Built a confidential machine learning workflow using Intel SGX enclaves to protect data and model computation inside Trusted Platform Module (TPM). Designed and implemented secure enclave integration with C++and WinAPI, with hospital cancer detection use case and ML pipelines, ensuring the sensitive data remained encrypted and isolated throughout training and inference. Evaluated performance and security trade-offs and demonstrated practical feasibility of security focused ML with measurable results.
 - https://github.com/prasadkjose/Confidential_ML_SGX
 
 **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
