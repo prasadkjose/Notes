@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe68d563bef3f35",
+        "id": "084a823382d76926",
         "type": "tabs",
         "children": [
           {
-            "id": "67b0424f3183b843",
+            "id": "5f2cb4f37ee7f170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/TODO list.md",
+                "file": "Prasad Resume - SDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO list"
+              "title": "Prasad Resume - SDE"
             }
           }
         ],
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 200
   },
   "right": {
     "id": "8896732167792815",
@@ -206,17 +206,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "67b0424f3183b843",
+  "active": "5f2cb4f37ee7f170",
   "lastOpenFiles": [
-    "Cover Letter - Consultant.md",
-    "Prasad Resume - Consultant.md",
     "Prasad Resume - SDE.md",
     "Cover Letter - SDE.md",
+    "Prasad Resume - Solutions.md",
     "Prasad Resume - Info Sec.md",
+    "private/TODO list.md",
+    "Cover Letter - Solutions.md",
     "Cover Letter.md",
     "private/Learning Path.md",
     "private/Personal Projects.md",
-    "private/TODO list.md",
     "README.md",
     "Job Answers.md",
     "Dev Setup.md",
