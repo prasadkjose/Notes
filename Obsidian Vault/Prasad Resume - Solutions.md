@@ -2,18 +2,20 @@
 
 <table style="width:100%; border: none;">
 <tr>
-<td align="left" style="vertical-align:top; width:60%; border: none;">
+	<td align="left" style="vertical-align:top; width:50%; border: none;">
 	  🌎 Colorado Springs, CO<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
       📞 (719) 243-4755<br>
-       🔗 <a href="https://www.linkedin.com/in/prasadkjose">LinkedIn</a><br>
-      💻 <a href="https://github.com/prasadkjose">GitHub</a>
+    </td>
+    <td align="right" style="vertical-align:top; width:50%; border: none;">
+	             🔗 <a href="https://www.linkedin.com/in/prasadkjose">https://www.linkedin.com/in/prasadkjose</a><br>
+      💻 <a href="https://github.com/prasadkjose">https://github.com/prasadkjose</a>
     </td>
   </tr>
 </table>
 ___
 
-Software Professional with five years of experience designing, implementing, and optimizing secure software and web applications looking for a position in your esteemed organization. I have experience collaborating with product managers and customers, across startups and Fortune 500 companies.
+Senior Software Engineer offering five years of experience designing, implementing, and optimizing secure software and web applications in languages like JavaScript, Python, and C++. This is supported by a Master’s degree in Computer Science from the University of Geneva, Switzerland and a Bachelor's of Engineering degree in Computer Science. Experience collaborating with product managers and customers, working with globally distributed teams, across startups and Fortune 500 companies, programming with latest technological stack and cloud services. 
 
 --- 
 ### **Work Experience**
@@ -21,63 +23,59 @@ Software Professional with five years of experience designing, implementing, and
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:75%; border: none;">
-	    <b> Oracle Corporation, Prague, Czech Republic</b> <br>
+	    <b> Sr. Software Engineer  at Oracle Corporation, Prague, Czech Republic</b> <br>
+	     July 2022 - January 2026<br>
 	    <ul>
-		     <li><i>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and integrations, leveraging AI coding tools.</i><br>
-		     <li><i> Experience reviewing real customer interactions and communicating with clients to implement business object based GenAI feature design and implementation. </i>
+		     <li>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and 3rd party integrations by leveraging AI coding tools.<br>
+		     <li>Experience reviewing real customer interactions and communicating with clients to implement business object based GenAI feature design and implementation.
+		     <li>Proposed and helped design an AI-driven diagram generator for Business Objects based on customer usage analysis, improving usability for existing clients and increasing feature adoption
 		</ul>
-    </td>
-    <td align="right" style="vertical-align:top; width:25%; border: none;">
-      July 2022 - January 2026<br>
-       Sr. Software Engineer - IC3  
     </td>
   </tr>
 </table>
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:80%; border: none;">
-	    <b> Emplifi s.r.o, Prague, Czech Republic</b> <br>
+	    <b> JavaScript Developer  at Emplifi s.r.o, Prague, Czech Republic</b> <br>
+	    March 2021 – June 2022<br>
 	    <ul>
-		     <li><i>Contributed to the development of Emplifi Community Inbox, implementing key features such as IGTV and TikTok integrations and enhanced multimedia support.</i>
+		     <li>Contributed to the development of Emplifi Community Inbox, implementing key features such as IGTV and TikTok integrations and enhanced multimedia support.
+		     <li>Improved integration reliability by adding API level testing and handling edge cases, reducing support escalations. The changes were fully functional during the 2022 Superbowl, when 100 million+ social media interactions were parsed and compiled in the product and for the first time the Emplifi Community product had zero downtime.
 	     </ul>
-    </td>
-    <td align="right" style="vertical-align:top; width:20%; border: none;">
-      March 2021 – June 2022<br>
-       JavaScript Developer  - L2 
     </td>
   </tr>
 </table>
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
-	    <b> Olympe S.A, Lausanne, Switzerland</b> <br>
+	    <b>   Software Developer  at Olympe S.A, Lausanne, Switzerland</b> <br>
+	    July 2019 – January 2020<br>
 	    <ul>
-		     <li><i>Developed hybrid applications utilizing blockchain for logistics using JavaScript and the Olympe JS framework.</i>
+			<li><i>Tech Stack: JS, OlympeJS, HTML, CSS, GraphDB, AWS</i><br>
+		     <li> Built hybrid applications leveraging blockchain and OlympeJS framework and built a PoC for logistics use cases. Main features were improving traceability and data transparency by live tracking and updates.
+		     <li>Designed modular and reusable JavaScript components, which were the first components launched with Olympe Marketplace. These components were downloaded and used by hundreds of customers in their platform. This was part of Master's internship which was awarded full grade and offer of employment to extend this feature.
 		</ul>
     </td>
-    <td align="right" style="vertical-align:top; width:20%; border: none;">
-      July 2019 – January 2020<br>
-       Software Developer  
-    </td>
   </tr>
 </table>
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
-	    <b> Nokia Solutions and Networks, Chennai, India</b> <br>
+	    <b> Software Development Intern  at Nokia Solutions and Networks, Chennai, India</b> <br>
+	     December 2017 – June 2018<br>
 	    <ul>
-		     <li><i>Worked on development of fault tolerant systems and other systems for telecommunications factory line.</i>
+		     <li>Contributed to fault-tolerant systems supporting telecommunications factory lines, improving system reliability in high-availability production environments.
+		      <li>Assisted in monitoring and resolution workflows for manufacturing processes, helping reduce downtime and improve operational efficiency.
 	     </ul>
-    </td>
-    <td align="right" style="vertical-align:top; width:20%; border: none;">
-      December 2017 – June 2018<br>
-       Software Development Intern  
     </td>
   </tr>
 </table>
 
 ---
-### **Educational Qualifications**
+
+<div style="page-break-after: always;"></div>
+
+### **Education**
 
 <table style="width:100%; border: none;">
   <tr>
@@ -106,33 +104,18 @@ Software Professional with five years of experience designing, implementing, and
   </tr>
 </table>
 
-<table style="width:100%; border: none;">
-  <tr>
-    <td align="left" style="vertical-align:top; width:80%; border: none;">
-	    <b> High School Diploma</b> <br>
-	     <i>ST Britto’s Academy, Chennai</i><br>
-    </td>
-    <td align="right" style="vertical-align:top; width:20%; border: none;">
-      Completed April 2014<br>
-        Computer Science, Math, Physics, Chemistry  
-    </td>
-  </tr>
-</table>
 
 ---
 
-<div style="page-break-after: always;"></div>
-
-
-
 ### **Projects**
-
  **Project 1: Confidential Computing for Machine Learning Using Intel SGX**
-- Final Master’s Project, University of Geneva  
-- [GitHub Repository](https://github.com/prasadkjose/Confidential_ML_SGX)
+- Final Master’s Thesis, University of Geneva, Winner of Arditi Prize 2020 for best project.
+- Built a confidential machine learning workflow using Intel SGX enclaves to protect data and model computation inside Trusted Platform Module (TPM). Designed and implemented secure enclave integration with C++and WinAPI, with hospital cancer detection use case and ML pipelines, ensuring the sensitive data remained encrypted and isolated throughout training and inference. Evaluated performance and security trade-offs and demonstrated practical feasibility of security focused ML with measurable results.
+- https://github.com/prasadkjose/Confidential_ML_SGX
 
 **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
 - Nokia Solutions and Networks, Chennai, India
+- Developed a failure monitoring and resolution system for an SMT production line to improve real-time detection and handling of manufacturing points of failure like automated drills, screw drivers, soldering machine and assembling robots. Integrated sensor data from both internal and external points, and automated logic to track equipment health and escalate issues, helping reduce downtime and improve line reliability.
 
 ---
 ### **Skill Set**
@@ -143,7 +126,7 @@ Software Professional with five years of experience designing, implementing, and
 - **RDBMS:** Oracle 9i, MySQL  
 
 ---
-### **Achievements & Certifications**
+### **Certifications**
 - Cyber Security and Networks: 
 	- [ISC2 Certified in Cybersecurity (CC) 2025](https://www.credly.com/badges/59e7baf1-9bd9-4828-94d3-b5be723ca045) 
 	- [Google Cybersecurity Professional Certificate 2025](https://www.credly.com/badges/d3300737-0695-4f3b-8a47-f1a02c173559/linked_in_profile)  
@@ -161,32 +144,3 @@ Software Professional with five years of experience designing, implementing, and
 - Member of the **Engineers Without Borders** initiative  
 
 ---
-### **Personal Details**
-
-**Date of Birth:** 09 January 1997  
-**Visa Status**: Green Card - Permanent Resident
-**Languages :**
--  English — Native
--  Malayalam — Native
--  Tamil — Native
--  French — Conversational (A2)
-
-<br><br>
-### Declaration
-I hereby declare that the above mentioned information is true to the best of my knowledge.
-<img style="width: 150px; float: right;" src="signature.png">
-<br>
-<br>
-
-
-<table style="width:100%; border: none;">
-  <tr>
-    <td align="left" style="vertical-align:top; width:60%; border: none;">
-	    Place: Colorado Springs, CO   <br>
-	    Date: 02.25.2026 <br>
-    </td>
-    <td align="right" style="vertical-align:top; width:40%; border: none;">
-	       Prasad Koshy Jose  
-    </td>
-  </tr>
-</table>

@@ -16,7 +16,7 @@
 ___
 
 ### **Summary**
-Senior Software Engineer offering five years of experience designing, implementing, and optimizing secure software and web applications in languages like JavaScript, Python, and C++. This is supported by a Master’s degree in Computer Science from the University of Geneva, Switzerland and a Bachelor's of Engineering degree in Computer Science. Experience in working with globally distributed teams, across startups and Fortune 500 companies, programming with latest technological stack and cloud services, delivering with agile methodology on schedule.
+Senior Software Engineer offering five years of experience designing, implementing secure software and web applications in languages like JavaScript, Python, and C++, combined with experience mentoring peers and presenting technical concepts to diverse audiences. This is supported by a Master’s degree in Computer Science from the University of Geneva, Switzerland and a Bachelor's of Engineering degree in Computer Science. I enjoy breaking down complex ideas into clear, practical lessons and helping students build confidence in technology. My goal is to make computing accessible, engaging, and relevant to real-world problem solving.
 
 --- 
 ### **Work Experience**
@@ -148,5 +148,3 @@ Senior Software Engineer offering five years of experience designing, implementi
 - International Information System Security Certification Consortium (**ISC²**)  
 - Member of the **Institute of Engineering and Technology (IET)**  
 - Member of the **Engineers Without Borders** initiative  
-
----

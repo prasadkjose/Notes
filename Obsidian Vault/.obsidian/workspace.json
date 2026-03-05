@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prasad Resume - SDE.md",
+                "file": "Cover Letter - Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prasad Resume - SDE"
+              "title": "Cover Letter - Solutions"
             }
           }
         ],
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.5
   },
   "right": {
     "id": "8896732167792815",
@@ -208,13 +208,15 @@
   },
   "active": "5f2cb4f37ee7f170",
   "lastOpenFiles": [
+    "Cover Letter - Teaching.md",
+    "Cover Letter.md",
+    "Prasad Resume.md",
     "Prasad Resume - SDE.md",
+    "private/TODO list.md",
     "Cover Letter - SDE.md",
     "Prasad Resume - Solutions.md",
-    "Prasad Resume - Info Sec.md",
-    "private/TODO list.md",
     "Cover Letter - Solutions.md",
-    "Cover Letter.md",
+    "Prasad Resume - Info Sec.md",
     "private/Learning Path.md",
     "private/Personal Projects.md",
     "README.md",
@@ -243,11 +245,9 @@
     "private/Vacations",
     "Learning Notes/Cybersecurity",
     "Learning Notes/images/Pasted image 20251105210556.png",
-    "Learning Notes/Artificial Intelligence/Fundamentals of Artificial Intelligence.md",
     "Learning Notes/images/Pasted image 20251105211503.png",
     "Learning Notes/images",
     "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
-    "Learning Notes/Cybersecurity/Foundations of Cybersecurity.md",
     "Learning Notes/Artificial Intelligence",
     "Blog/Swap Memory",
     "Blog/OOM/Blog Cover Image.png",
