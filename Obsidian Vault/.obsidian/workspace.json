@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter - SDE.md",
+                "file": "private/TODO list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter - SDE"
+              "title": "TODO list"
             }
           }
         ],
@@ -208,13 +208,13 @@
   },
   "active": "5f2cb4f37ee7f170",
   "lastOpenFiles": [
+    "Cover Letter - SDE.md",
     "Cover Letter - Solutions.md",
     "Cover Letter - Teaching.md",
     "Cover Letter.md",
     "Prasad Resume.md",
     "Prasad Resume - SDE.md",
     "private/TODO list.md",
-    "Cover Letter - SDE.md",
     "Prasad Resume - Solutions.md",
     "Prasad Resume - Info Sec.md",
     "private/Learning Path.md",
