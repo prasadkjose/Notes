@@ -51,7 +51,8 @@ Software Professional with five years of experience in secure software engineeri
 	    <b>   Software Developer  at Olympe S.A, Lausanne, Switzerland</b> <br>
 	    July 2019 – January 2020<br>
 	    <ul>
-		     <li>Built hybrid applications leveraging blockchain and OlympeJS framework and built a PoC for logistics use cases. Main features were improving traceability and data transparency by live tracking and updates.
+		     <li>Built hybrid applications leveraging blockchain and OlympeJS framework and built a PoC for logistics use cases. The implementation utilized distributed ledgers to create immutable, verifiable transaction records. The PoC was successful by enabling real-time asset tracking with transparent state updates, thus improving trust, auditability, and data consistency across participants.
+		 <li> Designed modular and reusable JavaScript components, which were the first components launched with Olympe Marketplace. These components were downloaded and used by hundreds of customers in their platform. This was part of Master's internship which was awarded full grade and offer of employment to extend this feature.
 		</ul>
     </td>
   </tr>
@@ -70,6 +71,15 @@ Software Professional with five years of experience in secure software engineeri
 </table>
 
 ---
+### **Technical Areas Of Interest and Expertise**
+
+- Cybersecurity and Cryptography
+- IoT, Cloud and Security
+<div style="page-break-after:always"></div>
+
+
+
+
 ### **Educational Qualifications**
 
 <table style="width:100%; border: none;">
@@ -100,19 +110,11 @@ Software Professional with five years of experience in secure software engineeri
 </table>
 
 ---
-### **Technical Areas Of Interest and Expertise**
-
-- Cybersecurity
-- SIEM tools
-- Cryptography
-- IoT, and Security
-
----
 ### **Projects**
 
 **Project 1: Confidential Computing for Machine Learning Using Intel SGX**
 - Final Master’s Thesis, University of Geneva, Winner of Arditi Prize 2020 for best project.
-- Built a confidential machine learning workflow using Intel SGX enclaves to protect data and model computation inside Trusted Platform Module (TPM). Designed and implemented secure enclave integration with C++and WinAPI, with hospital cancer detection use case and ML pipelines, ensuring the sensitive data remained encrypted and isolated throughout training and inference. Evaluated performance and security trade-offs and demonstrated practical feasibility of security focused ML with measurable results.
+- Built a confidential machine learning workflow using Intel SGX enclaves to protect data and model computation inside Trusted Platform Module (TPM). Designed and implemented secure enclave integration with C++ and WinAPI, with hospital cancer detection use case and ML pipelines, ensuring the sensitive data remained encrypted and isolated throughout training and inference. Evaluated performance and security trade-offs and demonstrated practical feasibility of security focused ML with measurable results.
 - https://github.com/prasadkjose/Confidential_ML_SGX
 
 **Project 2: Fault Monitoring and Resolution System at Factory SMT Line**

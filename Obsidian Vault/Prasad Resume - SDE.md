@@ -75,10 +75,6 @@ Software Engineer offering five years of experience designing, implementing, and
 </table>
 ---
 
-
-
-
-
 <div style="page-break-after:always"></div>
 
 ### **Education**
@@ -113,22 +109,22 @@ Software Engineer offering five years of experience designing, implementing, and
 - Built a confidential machine learning workflow using Intel SGX enclaves to protect data and model computation inside Trusted Platform Module (TPM). Designed and implemented secure enclave integration with C++and WinAPI, with hospital cancer detection use case and ML pipelines, ensuring the sensitive data remained encrypted and isolated throughout training and inference. Evaluated performance and security trade-offs and demonstrated practical feasibility of security focused ML with measurable results.
 - https://github.com/prasadkjose/Confidential_ML_SGX
 
-**Project 2: Fault Monitoring and Resolution System at Factory SMT Line**
+**Project 2: Web based Linux Simulator for Portfolio**
+- A Linux-inspired portfolio web application simulating a terminal-based user interface built using TypeScript, ReactJS and styled components. It's built with modular component design and event-driven architecture for handling command parsing and window state. Implemented features such as simulated virtual file system structure, command execution logic, and dynamic rendering to mimic real Linux shell and GUI behavior. Built with primary focus on security, performance, and clean code organization, demonstrating practical understanding of full-stack development, CI/CD workflows, and security engineering. 
+- https://github.com/prasadkjose/Linux-Portfolio
+
+**Project 3: Fault Monitoring and Resolution System at Factory SMT Line**
 - Nokia Solutions and Networks, Chennai, India
 - Developed a failure monitoring and resolution system for an SMT production line to improve real-time detection and handling of manufacturing points of failure like automated drills, screw drivers, soldering machine and assembling robots. Integrated sensor data from both internal and external points, and automated logic to track equipment health and escalate issues, helping reduce downtime and improve line reliability.
 
 ---
 ### **Skill Set**
-
 - **Programming Languages:** JavaScript/TypeScript, C++, Python  
 - **Frameworks and APIs:** ReactJS, VueJS, WinAPI
-- **Cloud Technologies:** Oracle Cloud - OCI  
+- **Cloud Technologies:** Oracle Cloud - OCI , AWS
 - **RDBMS:** Oracle 9i, MySQL 
-- **Soft skills**: Communication, Teamwork 
 - **Languages :**
 	-  English — Native
-	-  Malayalam — Native
-	-  Tamil — Native
 	-  French — Conversational (A2)
 
 ---
@@ -147,6 +143,5 @@ Software Engineer offering five years of experience designing, implementing, and
 
 - International Information System Security Certification Consortium (**ISC²**)  
 - Member of the **Institute of Engineering and Technology (IET)**  
-- Member of the **Engineers Without Borders** initiative  
-
----
+- Member of the **Engineers Without Borders** initiative 
+- ---
