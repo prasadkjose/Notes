@@ -9,7 +9,8 @@
     </td>
     <td align="right" style="vertical-align:top; width:50%; border: none;">
 	             🔗 <a href="https://www.linkedin.com/in/prasadkjose">https://www.linkedin.com/in/prasadkjose</a><br>
-      💻 <a href="https://github.com/prasadkjose">https://github.com/prasadkjose</a>
+      💻 <a href="https://github.com/prasadkjose">https://github.com/prasadkjose</a><br>
+      💻 <a href="https://prasadkjose.com">https://prasadkjose.com</a>
     </td>
   </tr>
 </table>

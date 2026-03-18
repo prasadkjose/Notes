@@ -9,7 +9,8 @@
     </td>
     <td align="right" style="vertical-align:top; width:50%; border: none;">
 	             🔗 <a href="https://www.linkedin.com/in/prasadkjose">https://www.linkedin.com/in/prasadkjose</a><br>
-      💻 <a href="https://github.com/prasadkjose">https://github.com/prasadkjose</a>
+      💻 <a href="https://github.com/prasadkjose">https://github.com/prasadkjose</a><br>
+      💻 <a href="https://prasadkjose.com">https://prasadkjose.com</a>
     </td>
   </tr>
 </table>
@@ -26,7 +27,7 @@ Software Engineer offering five years of experience designing, implementing, and
 	    <b> Sr. Software Engineer  at Oracle Corporation, Prague, Czech Republic</b> <br>
 	     July 2022 - January 2026<br>
 	    <ul>
-	    <li><i>Tech Stack: JS/TS, JET, (P)React, HTML, (S)CSS, Java 21, OCI</i><br>
+	    <li><i>Tech Stack: JS/TS, JET, (P)React, HTML, (S)CSS, Java 21, OCI, Microsoft Visual Studio, Git, JSON, and RESTful API’s</i><br>
 		     <li>Developed core features of Oracle Visual Builder’s Business Objects with Oracle's Business Object Spectra Service (BOSS), enabling enterprise data security, modeling and 3rd party integrations by leveraging AI coding tools.<br>
 		     <li>Worked on internal frameworks to build UI using metadata provided by various Oracle data services making the product more extensible and simplifying developer effort. 
 		     <li>Proposed and helped design an AI-driven diagram generator for Business Objects based on customer usage analysis, improving usability for existing clients and increasing feature adoption.
@@ -41,7 +42,7 @@ Software Engineer offering five years of experience designing, implementing, and
 	    <b> JavaScript Developer  at Emplifi s.r.o, Prague, Czech Republic</b> <br>
 	    March 2021 – June 2022<br>
 	    <ul>
-		    <li><i>Tech Stack: JS/TS, React, HTML, CSS, Elastic Search, MongoDB, AWS</i><br>
+		    <li><i>Tech Stack: JS/TS, React, HTML, CSS, Elastic Search, MongoDB, AWS, Bitbucket</i><br>
 		     <li>Contributed to the development of Emplifi Community Inbox, implementing key features such as IGTV and TikTok integrations and enhanced multimedia support.
 		      <li>Improved integration reliability by adding API level testing and handling edge cases, reducing support escalations. The changes were fully functional during the 2022 Superbowl, when 100 million+ social media interactions were parsed and compiled in the product and for the first time the Emplifi Community product had zero downtime.
 	     </ul>
