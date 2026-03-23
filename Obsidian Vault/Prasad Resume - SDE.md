@@ -77,28 +77,24 @@ Software Engineer offering five years of experience designing, implementing, and
 ---
 
 <div style="page-break-after:always"></div>
-
 ### **Education**
 <table style="width:100%; border: none;">
   <tr>
-    <td align="left" style="vertical-align:top; width:80%; border: none;">
+    <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    <b> Master of Science in Computer Science</b> <br>
 	     <i>University of Geneva, Switzerland</i><br>
-	     
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
-	      Completed July 2020<br>
+	      Completed July 2020
     </td>
   </tr>
-</table>
-<table style="width:100%; border: none;">
-  <tr>
+   <tr>
     <td align="left" style="vertical-align:top; width:60%; border: none;">
 	    <b> Bachelor of Engineering in Computer Science</b> <br>
 	     <i>K.C.G College of Technology, Chennai, India</i><br>
     </td>
     <td align="right" style="vertical-align:top; width:40%; border: none;">
-      Completed May 2018<br>
+      Completed May 2018
     </td>
   </tr>
 </table>
@@ -120,7 +116,8 @@ Software Engineer offering five years of experience designing, implementing, and
 
 ---
 ### **Skill Set**
-- **Programming Languages:** JavaScript/TypeScript, C++, Python  
+- **Programming Languages:** JavaScript/TypeScript, C++, Python
+- **AI Tools**: Cline for VSCode/Intellij, Claude Code
 - **Frameworks and APIs:** ReactJS, VueJS, WinAPI
 - **Cloud Technologies:** Oracle Cloud - OCI , AWS
 - **RDBMS:** Oracle 9i, MySQL 
