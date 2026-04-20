@@ -3,7 +3,6 @@
 <table style="width:100%; border: none;">
 <tr>
 	<td align="left" style="vertical-align:top; width:50%; border: none;">
-	  🌎 Colorado Springs, CO<br>
       📧 <a href="mailto:prasadkjose@gmail.com">prasadkjose@gmail.com</a><br>
       📞 (719) 243-4755<br>
     </td>
