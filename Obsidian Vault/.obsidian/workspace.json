@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +209,7 @@
   "active": "80b1a774b65d5bb6",
   "lastOpenFiles": [
     "private/Blog Drafts/Software Engineering is not Dead.md",
+    "Blog/OOM/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "private/Blog Drafts/Swap Memory.md",
     "private/Blog Drafts/BLOG Framework.md",
     "private/Blog Drafts/Portfolio.md",
@@ -234,7 +235,6 @@
     "Prasad Resume.md",
     "Cover Letter - Teaching.md",
     "private/Learning Path.md",
-    "README.md",
     "private/Vacations/Norway Northern Lights Trip.canvas",
     "signature.png",
     "Learning Notes/Cloud Security",
