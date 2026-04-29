@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter - SDE.md",
+                "file": "private/Blog Drafts/Software Engineering is not Dead.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter - SDE"
+              "title": "Software Engineering is not Dead"
             }
           }
         ],
@@ -208,13 +208,13 @@
   },
   "active": "f1cd319e39ce9f75",
   "lastOpenFiles": [
-    "Prasad Resume - SDE.md",
     "private/Blog Drafts/Portfolio.md",
+    "Cover Letter - SDE.md",
+    "Prasad Resume - SDE.md",
     "Pasted image 20260429093645.png",
     "private/Blog Drafts/BLOG Framework.md",
     "private/Blog Drafts/Swap Memory.md",
     "private/Blog Drafts/Software Engineering is not Dead.md",
-    "Cover Letter - SDE.md",
     "Blog/OOM/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "private/Personal Projects.md",
     "private/TODO list.md",
