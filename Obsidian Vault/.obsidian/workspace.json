@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Blog Drafts/Software Engineering is not Dead.md",
+                "file": "Blog/Portfolio/Portfolio 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Engineering is not Dead"
+              "title": "Portfolio 1"
             }
           }
         ],
@@ -206,15 +206,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f1cd319e39ce9f75",
+  "active": "9554327c9e2d78ed",
   "lastOpenFiles": [
     "private/Blog Drafts/Portfolio.md",
+    "Blog/Portfolio/Portfolio 1.md",
+    "private/Blog Drafts/BLOG Framework.md",
+    "private/Blog Drafts/Software Engineering is not Dead.md",
+    "Blog/Portfolio/Software Engineering is not Dead 1.md",
     "Cover Letter - SDE.md",
     "Prasad Resume - SDE.md",
     "Pasted image 20260429093645.png",
-    "private/Blog Drafts/BLOG Framework.md",
     "private/Blog Drafts/Swap Memory.md",
-    "private/Blog Drafts/Software Engineering is not Dead.md",
     "Blog/OOM/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "private/Personal Projects.md",
     "private/TODO list.md",
@@ -234,7 +236,6 @@
     "Private Cloud Setup/Private Cloud Setup.canvas",
     "Cover Letter.md",
     "Prasad Resume.md",
-    "Cover Letter - Teaching.md",
     "private/Vacations/Norway Northern Lights Trip.canvas",
     "signature.png",
     "Learning Notes/Cloud Security",
