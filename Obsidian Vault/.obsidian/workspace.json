@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Portfolio/Portfolio 1.md",
+                "file": "private/Blog Drafts/Swap Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portfolio 1"
+              "title": "Swap Memory"
             }
           }
         ],
@@ -206,19 +206,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9554327c9e2d78ed",
+  "active": "f1cd319e39ce9f75",
   "lastOpenFiles": [
-    "private/Blog Drafts/Portfolio.md",
-    "Blog/Portfolio/Portfolio 1.md",
-    "private/Blog Drafts/BLOG Framework.md",
     "private/Blog Drafts/Software Engineering is not Dead.md",
+    "private/Personal Projects.md",
+    "private/Blog Drafts/DONE",
+    "private/Learning Path.md",
+    "private/Blog Drafts/Swap Memory.md",
+    "private/Blog Drafts/DONE/Portfolio.md",
+    "Blog/Portfolio/Portfolio.md",
+    "private/Blog Drafts/BLOG Framework.md",
     "Blog/Portfolio/Software Engineering is not Dead 1.md",
     "Cover Letter - SDE.md",
     "Prasad Resume - SDE.md",
     "Pasted image 20260429093645.png",
-    "private/Blog Drafts/Swap Memory.md",
     "Blog/OOM/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
-    "private/Personal Projects.md",
     "private/TODO list.md",
     "Dev Setup.md",
     "Prasad Resume - Info Sec.md",
@@ -234,8 +236,6 @@
     "Learning Notes/Cloud Security/2. Infrastructure Protection.md",
     "Learning Notes/Cloud Security/3. OS and workload protection.md",
     "Private Cloud Setup/Private Cloud Setup.canvas",
-    "Cover Letter.md",
-    "Prasad Resume.md",
     "private/Vacations/Norway Northern Lights Trip.canvas",
     "signature.png",
     "Learning Notes/Cloud Security",
@@ -252,7 +252,6 @@
     "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
     "Learning Notes/Artificial Intelligence",
     "Blog/Swap Memory",
-    "Blog/OOM/Blog Cover Image.png",
-    "Blog/OOM"
+    "Blog/OOM/Blog Cover Image.png"
   ]
 }
