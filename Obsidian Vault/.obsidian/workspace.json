@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter.md",
+                "file": "private/TODO list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter"
+              "title": "TODO list"
             }
           }
         ],
@@ -208,10 +208,11 @@
   },
   "active": "f1cd319e39ce9f75",
   "lastOpenFiles": [
+    "private/Blog Drafts/Swap Memory.md",
+    "Cover Letter.md",
     "Cover Letter - SDE.md",
     "Prasad Resume - SDE.md",
     "private/TODO list.md",
-    "private/Blog Drafts/Swap Memory.md",
     "private/Personal Projects.md",
     "Blog/OOM/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "private/Blog Drafts/Software Engineering is not Dead.md",
