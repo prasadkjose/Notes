@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Blog Drafts/Swap Memory.md",
+                "file": "Cover Letter - SDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swap Memory"
+              "title": "Cover Letter - SDE"
             }
           }
         ],
@@ -208,10 +208,10 @@
   },
   "active": "f1cd319e39ce9f75",
   "lastOpenFiles": [
+    "private/Blog Drafts/Swap Memory.md",
     "private/Learning Path.md",
     "private/Encryption test.md",
     "private/TODO list.md",
-    "private/Blog Drafts/Swap Memory.md",
     "Cover Letter.md",
     "Cover Letter - SDE.md",
     "Prasad Resume - SDE.md",
