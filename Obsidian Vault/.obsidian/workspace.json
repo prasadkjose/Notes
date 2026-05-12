@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "8896732167792815",
@@ -207,7 +206,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fe324030be7e2441",
+  "active": "f1cd319e39ce9f75",
   "lastOpenFiles": [
     "Cover Letter - Tech Support.md",
     "Cover Letter.md",
