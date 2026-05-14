@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter - Tech Support.md",
+                "file": "Prasad Resume - Info Sec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter - Tech Support"
+              "title": "Prasad Resume - Info Sec"
             }
           }
         ],
@@ -208,6 +208,8 @@
   },
   "active": "f1cd319e39ce9f75",
   "lastOpenFiles": [
+    "Cover Letter.md",
+    "Cover Letter - Tech Support.md",
     "Prasad Resume - SDE.md",
     "Cover Letter - Solutions.md",
     "Prasad Resume - Solutions.md",
@@ -215,8 +217,6 @@
     "Cover Letter - Teaching.md",
     "Prasad Resume.md",
     "Prasad Resume - Info Sec.md",
-    "Cover Letter - Tech Support.md",
-    "Cover Letter.md",
     "private/TODO list.md",
     "private/Blog Drafts/BLOG Framework.md",
     "private/Learning Path.md",
