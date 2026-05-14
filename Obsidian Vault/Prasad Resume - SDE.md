@@ -16,7 +16,7 @@
 ___
 
 ### **Summary**
-Software Engineer offering five years of experience designing, implementing, and optimizing secure software and web applications in languages like JavaScript, Python, and C++. This is supported by a Master’s degree in Computer Science from the University of Geneva, Switzerland and a Bachelor's of Engineering degree in Computer Science. Experience in working with globally distributed teams, across startups and Fortune 500 companies, programming with latest technological stack and cloud services, delivering with agile methodology on schedule.
+Software Engineer with 5 years of experience designing, building, and optimizing secure software and web applications using JavaScript, Python, and C++. Experienced in AI-assisted development, integrating AI-powered features, and leveraging modern coding tools to accelerate development and improve software quality. Backed by a Master’s degree in Computer Science from the University of Geneva and a Bachelor’s degree in Computer Science Engineering. Proven ability to work with globally distributed teams across startups and Fortune 500 companies, using modern cloud platforms, agile methodologies, and emerging technologies to deliver scalable, user-focused solutions on schedule.
 
 --- 
 ### **Work Experience**
