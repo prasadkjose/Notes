@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "058d52257190241b",
+        "id": "574cdb715aa9fad2",
         "type": "tabs",
         "children": [
           {
-            "id": "f1cd319e39ce9f75",
+            "id": "9449fd1cc8f3650e",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Obsidian Vault/Prasad Resume - Solutions.md",
-                "bFile": "Obsidian Vault/Prasad Resume - Solutions.md",
+                "aFile": "Obsidian Vault/.obsidian/workspace.json",
+                "bFile": "Obsidian Vault/.obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Prasad Resume - Solutions"
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -206,13 +206,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f1cd319e39ce9f75",
+  "active": "fe324030be7e2441",
   "lastOpenFiles": [
+    "private/Personal Projects.md",
+    "private/TODO list.md",
     "Prasad Resume - Solutions.md",
+    "Prasad Resume - PM.md",
+    "Prasad Resume - SDE.md",
     "Prasad Resume.md",
     "Prasad Resume - Info Sec.md",
-    "Prasad Resume - SDE.md",
-    "Prasad Resume - PM.md",
     "README.md",
     "Cover Letter - Solutions.md",
     "Cover Letter - Tech Support.md",
@@ -221,11 +223,9 @@
     "private/Learning Path.md",
     "Pasted image 20260429093645.png",
     "Cover Letter - SDE.md",
-    "private/TODO list.md",
     "Cover Letter - Teaching.md",
     "private/Blog Drafts/BLOG Framework.md",
     "private/Encryption test.md",
-    "private/Personal Projects.md",
     "private/Blog Drafts/Swap Memory.md",
     "Blog/OOM/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
     "private/Blog Drafts/Software Engineering is not Dead.md",
