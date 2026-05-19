@@ -23,7 +23,7 @@ Software Engineer with 5 years of experience designing, building, and optimizing
 <table style="width:100%; border: none;">
   <tr>
     <td align="left" style="vertical-align:top; width:75%; border: none;">
-	    <b> Sr. Software Engineer  at Oracle Corporation, Prague, Czech Republic</b> <br>
+	    <b> Software Engineer  at Oracle Corporation, Prague, Czech Republic</b> <br>
 	     July 2022 - January 2026<br>
 	    <ul>
 	    <li><i>Tech Stack: JS/TS, JET, (P)React, NodeJS, HTML, (S)CSS, Java 21, OCI, Microsoft Visual Studio, Git, JSON, and RESTful API’s</i><br>
