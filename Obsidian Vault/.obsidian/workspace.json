@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "574cdb715aa9fad2",
+        "id": "348817ec95c12040",
         "type": "tabs",
         "children": [
           {
-            "id": "9449fd1cc8f3650e",
+            "id": "438bd77c99f8f7fa",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Obsidian Vault/.obsidian/workspace.json",
-                "bFile": "Obsidian Vault/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "private/TODO list.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "TODO list"
             }
           }
         ],
@@ -206,7 +206,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fe324030be7e2441",
+  "active": "438bd77c99f8f7fa",
   "lastOpenFiles": [
     "private/Personal Projects.md",
     "private/TODO list.md",
