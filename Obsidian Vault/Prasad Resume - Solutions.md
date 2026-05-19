@@ -127,6 +127,10 @@ Solutions Engineer with 5 years of experience designing, implementing, and suppo
 
 ---
 ### **Certifications**
+- Project Management: 
+	- [PMI Agile](https://www.credly.com/earner/earned/badge/d0f9613c-7432-468a-a78b-50643a33bd93)
+	- Certified Associate in Project Management - CAPM (in progress)
+	- Information Technology Infrastructure Library ITIL (in progress)
 - Cyber Security and Networks: 
 	- [ISC2 Certified in Cybersecurity (CC) 2025](https://www.credly.com/badges/59e7baf1-9bd9-4828-94d3-b5be723ca045) 
 	- [Google Cybersecurity Professional Certificate 2025](https://www.credly.com/badges/d3300737-0695-4f3b-8a47-f1a02c173559/linked_in_profile)  
@@ -135,12 +139,5 @@ Solutions Engineer with 5 years of experience designing, implementing, and suppo
 	-  [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F7205E65616E645F16A6220755EA13B7195912847F8B983177DEB197B23DE1A2)
 	-  [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E597B433A2CDB78DAD322EC617742269C6519523F78C58387CD74C3C0D91F458)  
 	-  [Prix Arditi 2020 In Informatics – University of Geneva (Best Master Thesis)](https://drive.google.com/file/d/1CDvjoT_IpawMzHnfty_6x0omPk9OMefe/view?usp=sharing)  
-
----
-### **Membership In Professional Bodies**
-
-- International Information System Security Certification Consortium (**ISC²**)  
-- Member of the **Institute of Engineering and Technology (IET)**  
-- Member of the **Engineers Without Borders** initiative  
 
 ---
