@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prasad Resume - SDE.md",
+                "file": "Cover Letter - Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prasad Resume - SDE"
+              "title": "Cover Letter - Solutions"
             }
           }
         ],
@@ -208,9 +208,10 @@
   },
   "active": "438bd77c99f8f7fa",
   "lastOpenFiles": [
+    "Cover Letter - Teaching.md",
+    "Prasad Resume - SDE.md",
     "Prasad Resume - Info Sec.md",
     "Cover Letter - SDE.md",
-    "Prasad Resume - SDE.md",
     "private/TODO list.md",
     "Cover Letter.md",
     "Cover Letter - Tech Support.md",
@@ -223,7 +224,6 @@
     "Cover Letter - PM.md",
     "private/Learning Path.md",
     "Pasted image 20260429093645.png",
-    "Cover Letter - Teaching.md",
     "private/Blog Drafts/BLOG Framework.md",
     "private/Encryption test.md",
     "private/Blog Drafts/Swap Memory.md",
