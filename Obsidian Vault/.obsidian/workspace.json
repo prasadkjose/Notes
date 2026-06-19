@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/TODO list.md",
+                "file": "Cover Letter - Tech Support.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO list"
+              "title": "Cover Letter - Tech Support"
             }
           }
         ],
@@ -208,10 +208,10 @@
   },
   "active": "438bd77c99f8f7fa",
   "lastOpenFiles": [
+    "private/TODO list.md",
     "Cover Letter - Solutions.md",
     "Prasad Resume - Solutions.md",
     "Cover Letter.md",
-    "private/TODO list.md",
     "Prasad Resume - SDE.md",
     "Cover Letter - SDE.md",
     "Prasad Resume - PM.md",
