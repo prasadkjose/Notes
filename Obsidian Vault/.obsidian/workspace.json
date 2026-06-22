@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter - Tech Support.md",
+                "file": "Cover Letter - PM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter - Tech Support"
+              "title": "Cover Letter - PM"
             }
           }
         ],
@@ -208,6 +208,9 @@
   },
   "active": "438bd77c99f8f7fa",
   "lastOpenFiles": [
+    "Linux Setup.md",
+    "Job Answers.md",
+    "Cover Letter - Tech Support.md",
     "private/TODO list.md",
     "Cover Letter - Solutions.md",
     "Prasad Resume - Solutions.md",
@@ -215,7 +218,6 @@
     "Prasad Resume - SDE.md",
     "Cover Letter - SDE.md",
     "Prasad Resume - PM.md",
-    "Cover Letter - Tech Support.md",
     "Cover Letter - Teaching.md",
     "Prasad Resume - Info Sec.md",
     "private/Personal Projects.md",
@@ -234,8 +236,6 @@
     "Blog/Portfolio/Portfolio.md",
     "Blog/Portfolio/Software Engineering is not Dead 1.md",
     "Dev Setup.md",
-    "Linux Setup.md",
-    "Learning Notes/Artificial Intelligence/Fundamentals of Artificial Intelligence.md",
     "Private Cloud Setup/Private Cloud Setup.canvas",
     "private/Vacations/Norway Northern Lights Trip.canvas",
     "signature.png",
