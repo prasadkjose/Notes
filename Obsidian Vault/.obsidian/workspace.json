@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter - Solutions.md",
+                "file": "Learning Notes/Project Management/CAPM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter - Solutions"
+              "title": "CAPM"
             }
           }
         ],
@@ -206,8 +206,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "438bd77c99f8f7fa",
+  "active": "9554327c9e2d78ed",
   "lastOpenFiles": [
+    "Learning Notes/Project Management",
+    "private/Learning Path.md",
+    "Learning Notes/Project Management/CAPM.md",
+    "Cover Letter - Solutions.md",
     "Cover Letter - SDE.md",
     "Prasad Resume - SDE.md",
     "Cover Letter - PM.md",
@@ -215,7 +219,6 @@
     "Job Answers.md",
     "Cover Letter - Tech Support.md",
     "private/TODO list.md",
-    "Cover Letter - Solutions.md",
     "Prasad Resume - Solutions.md",
     "Cover Letter.md",
     "Prasad Resume - PM.md",
@@ -224,7 +227,6 @@
     "private/Personal Projects.md",
     "Prasad Resume.md",
     "README.md",
-    "private/Learning Path.md",
     "Pasted image 20260429093645.png",
     "private/Blog Drafts/BLOG Framework.md",
     "private/Encryption test.md",
@@ -234,8 +236,6 @@
     "private/Blog Drafts/DONE",
     "private/Blog Drafts/DONE/Portfolio.md",
     "Blog/Portfolio/Portfolio.md",
-    "Blog/Portfolio/Software Engineering is not Dead 1.md",
-    "Dev Setup.md",
     "Private Cloud Setup/Private Cloud Setup.canvas",
     "private/Vacations/Norway Northern Lights Trip.canvas",
     "signature.png",
