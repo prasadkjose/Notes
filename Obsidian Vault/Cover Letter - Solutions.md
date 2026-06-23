@@ -1,6 +1,6 @@
 Dear Hiring Team,
 
-I am writing to express my interest in the position of Deployed Software Engineer. I am a software professional with experience building secure, scalable applications with AI, supported by a Master’s degree in Computer Science from the University of Geneva, Switzerland.
+I am writing to express my interest in the position of Solutions Engineer. I am a software professional with experience building secure, scalable applications with AI, supported by a Master’s degree in Computer Science from the University of Geneva, Switzerland.
 
 In my latest role at Oracle, I worked on enterprise-grade systems where security, reliability, and data protection were foundational requirements. I worked on Oracle Visual Builder and Business Objects (BOSS), where I helped develop and maintain enterprise applications that addressed business needs such as data management, workflow automation, reporting, security, and system integrations. My responsibilities included gathering requirements, designing technical solutions, developing APIs and backend services, troubleshooting issues, and collaborating with stakeholders to improve business processes.
 
