@@ -11,20 +11,14 @@
             "id": "438bd77c99f8f7fa",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/Learning Path.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Cover Letter - Solutions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Learning Path"
+              "icon": "lucide-file",
+              "title": "Cover Letter - Solutions"
             }
           }
         ],
@@ -214,15 +208,15 @@
   },
   "active": "438bd77c99f8f7fa",
   "lastOpenFiles": [
+    "Cover Letter - SDE.md",
+    "Prasad Resume - SDE.md",
+    "private/Learning Path.md",
     "private/Encryption test.md",
     "private/Personal Projects.md",
     "Learning Notes/Project Management/CAPM.md",
     "Learning Notes/Project Management/Untitled.md",
     "Learning Notes/Project Management",
-    "private/Learning Path.md",
     "Cover Letter - Solutions.md",
-    "Cover Letter - SDE.md",
-    "Prasad Resume - SDE.md",
     "Cover Letter - PM.md",
     "Linux Setup.md",
     "Job Answers.md",
