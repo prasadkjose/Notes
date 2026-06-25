@@ -120,4 +120,53 @@
 	3. Responsibilities: mandatory standards
 
 # Project Planning
-1.
+
+1. Iron Triangle of PM or triple constrains. 
+	1. Schedule - cost is fixed for predictive scope
+	2. Schedule and cost is flexible for adaptive scope
+2. Quality is **conformance** to requirements.
+	1. It's the ability to satisfy the needs.
+	2. Quality Process includes **planning**, **assurance** and **control**. 
+	3. **Planing** - 
+		1. Iterative process - Plan, Implement, measure, react and document
+		2. Must meet scope 
+		3. Objectives
+		4. Roles and responsibilities., 
+		5. Tooling
+		6. Activities
+		7. Dealing with non conformance, corrective actions, 
+	4. **Cost of Quality**
+		1. Cost of conformance - Setting up quality. 
+		2. Cost of non conformance - if quality is not there. safety etc. 
+		3. Prevention, Appraisal and Failure
+	5. Metrics: 
+		1. Task completed
+		2. Cost performance
+		3. Failure rate
+		4. downtime
+		5. Satisfaction scores. 
+	6. **Design for X** is a product design philosophy. X mean excellence. 
+		1. X can be cost, quality etc
+	7. Documenting
+		1. Reports
+		2. Test and evaluation documentation
+		3. Change requests
+	8. Quality control (Inspection Driven): 
+		1. Measures performance, scheduling and cost. 
+		2. Perform attribute(defect or not) or variable(how defective?) sampling
+		3. Look into **special** or **random** causes
+		4. Check tolerance range - acceptable failure rate
+		5. Control limits
+		6. Testing and Evaluations
+		7. statistical Analysis for quality control: 
+			1. Cause and effect Charts
+				1. Get a fish-bone diagram or Ishikawa diagram. 
+			2. Control Charts: 
+				1. ![[Pasted image 20260625102824.png|390]]
+			3. Pareto Diagrams: 
+				1. Bar graph of Number of Failures vs factors like Skills, light, USB etc
+			4. Histogram Analysis
+			5. Scatter Plots or diagrams
+				1. Correlation analysis
+			6. Run Chart
+			7. Completing statistical Sample - random testing
