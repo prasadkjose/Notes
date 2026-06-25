@@ -207,3 +207,12 @@
 		1. In predictive at the end of each phase is a milestone
 		2. Killpoint  or phasegate to kill the project if the KPIs are not achieved. 
 	2. Task are the work needed to get to the milestone. 
+6. Stakeholder register:
+	1. identify all and list expectations. requirement , level of influence and impact
+	2. Maintain and update. 
+7. Project Closure and Transition
+	1. Definition of Closure and Transition with outcomes, KPIs. 
+	2. All deliverable should be complete. DoD - Definition of Done
+	3. Transfer of ownership, from creation to maintenance. 
+	4. Provide training and documentation.
+	5. Celebrating and recognizing contributions. 
