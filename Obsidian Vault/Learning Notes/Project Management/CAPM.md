@@ -184,4 +184,10 @@
 		3. Budget and schedule
 	4. Cost of Prevention or Risk of occurrence
 		1. Both money and time.
-	5. 
+4. **Why planning is important**
+	1. Communicated intent of the project
+	2. Serves a a guide for the PM
+	3. Give structure and documentation
+	4. Provides baseline for scope, cost, schedule, and performance. 
+	5.  Different stakeholders contribute different things to the planning. 
+	6. 
