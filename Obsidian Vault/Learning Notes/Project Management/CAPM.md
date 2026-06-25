@@ -188,6 +188,18 @@
 	1. Communicated intent of the project
 	2. Serves a a guide for the PM
 	3. Give structure and documentation
+		1. Predictive docs
+			1. Stakeholder register, WBS, Performance reports and data etc
+		2. Adaptive docs
+			1. Product Vision, Roadmap, Stories, Release plans and Iteration plans
 	4. Provides baseline for scope, cost, schedule, and performance. 
 	5.  Different stakeholders contribute different things to the planning. 
-	6. 
+	6. Project vs Product management plans
+		1. Project - 
+			1. What to create, How to operate and deliver. 
+		2. Product - 
+			1. Product lifecycle and management
+			2. Road-map for product team
+			3. Alignment with Org values and vision. 
+			4. Has vision, target market, positioning, roadmap, KPIs, 
+			5. 
