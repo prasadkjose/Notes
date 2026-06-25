@@ -202,4 +202,7 @@
 			2. Road-map for product team
 			3. Alignment with Org values and vision. 
 			4. Has vision, target market, positioning, roadmap, KPIs, 
-			5. 
+5. Milestone vs Task Duration
+	1. Milestones shows progress towards the end. 
+		1. In predictive at the end of each phase is a milestone
+	2. Task are the work needed to get to the milestone. 
