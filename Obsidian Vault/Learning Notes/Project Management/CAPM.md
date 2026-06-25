@@ -170,3 +170,18 @@
 				1. Correlation analysis
 			6. Run Chart
 			7. Completing statistical Sample - random testing
+3. Risk in PM: 
+	1. Perform **Qualitative** Risk Analysis
+		1. Prioritize - with Risk Score(high moderate, low)
+		2. Assess occurrence and impact
+		3. Not all risk needs qualitative analysis.
+	2. Perform **Quantitative** Risk Analysis. 
+		1. Prioritize by probability of occurrence and assign score. 
+		2. Escalating, Avoidance, Transference, Mitigating, and accepting
+	3. Risk Register Updates
+		1. Response Strategies and actions
+		2. Triggers, warning signs
+		3. Budget and schedule
+	4. Cost of Prevention or Risk of occurrence
+		1. Both money and time.
+	5. 
