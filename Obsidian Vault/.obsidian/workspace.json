@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter - Solutions.md",
+                "file": "Learning Notes/Project Management/CAPM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter - Solutions"
+              "title": "CAPM"
             }
           }
         ],
@@ -208,9 +208,9 @@
   },
   "active": "438bd77c99f8f7fa",
   "lastOpenFiles": [
+    "Cover Letter - Solutions.md",
     "Prasad Resume - SDE.md",
     "Cover Letter - SDE.md",
-    "Cover Letter - Solutions.md",
     "private/Learning Path.md",
     "private/Encryption test.md",
     "private/Personal Projects.md",
