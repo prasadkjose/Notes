@@ -205,4 +205,5 @@
 5. Milestone vs Task Duration
 	1. Milestones shows progress towards the end. 
 		1. In predictive at the end of each phase is a milestone
+		2. Killpoint  or phasegate to kill the project if the KPIs are not achieved. 
 	2. Task are the work needed to get to the milestone. 
