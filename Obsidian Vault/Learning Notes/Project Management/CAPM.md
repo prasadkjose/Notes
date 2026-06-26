@@ -233,4 +233,6 @@
 	6. Manage Risk
 	7. Team performance
 	8. Stakeholder communication
-3. 
+
+# Strategies and Frameworks
+1. 
