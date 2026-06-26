@@ -216,3 +216,18 @@
 	3. Transfer of ownership, from creation to maintenance. 
 	4. Provide training and documentation.
 	5. Celebrating and recognizing contributions. 
+
+# Roles and Responsibilities
+1. Project sponsor: 
+	1. Authority to provide resources. 
+	2. Authority for conflict resolution etc. 
+	3. Approves some scope modifications
+	4. Some communication with high level stakeholders
+	5. Defined business goals and vision 
+2. Project Manager: 
+	1. Oversight
+	2. Setting goals
+	3. Developing a plan
+	4. Schedule, budget, KPIs etc
+	5. Some procurement etc
+3. 
