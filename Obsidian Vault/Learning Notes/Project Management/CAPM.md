@@ -55,7 +55,7 @@
 		4. Are requirements necessary and relevant. 
 		5. Are constrains/exclusions reasonable and necessary. 
 		6. Are costrains/assumptions defined and understood. 
-11. Process Management Processes (49):
+11. **Process Management Processes (49):**
 	1. Project **Integration** Management: 
 		1. Charter
 		2. Plan
@@ -235,4 +235,24 @@
 	8. Stakeholder communication
 
 # Strategies and Frameworks
-1. 
+1. Steps to follow and execute planned strategies and framework
+	1.  Define scope and objectives
+	2. Develop project plan - all plans from the PM process above
+	3. Communicate plan
+	4. Identify risks
+	5. Establish benchmarks and milestones
+	6. monitor and access progress
+	7. celebrate success
+2. Project Initiation and benefit planning
+	1. Initiation: 
+		1. Business Analysis - the need of the project
+		2. Define scope and objectives
+		3. Assemble team
+		4. Develop a plan
+		5. Secure resources
+	2. Benefits planning: 
+		1. Identify and quantify
+		2. prioritize them
+		3. strategic goals
+		4. Resources vs positive return on investment RoI
+		5. 
