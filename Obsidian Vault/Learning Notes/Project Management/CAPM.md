@@ -230,4 +230,7 @@
 	3. Developing a plan
 	4. Schedule, budget, KPIs etc
 	5. Some procurement etc
+	6. Manage Risk
+	7. Team performance
+	8. Stakeholder communication
 3. 
