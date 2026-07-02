@@ -15,7 +15,8 @@
 </table>
 ___
 
-Software Professional with five years of experience in secure software engineering and a Master’s degree specializing in Cybersecurity from the University of Geneva, Switzerland and a Bachelor's of Engineering degree in Computer Science.  Experience in working with globally distributed teams, across startups and Fortune 500 companies, programming with latest technological stack and cloud services, with knowledge in security engineering, threat prevention, and secure application design.
+
+Software Professional with experience in secure software engineering and a Master’s degree specializing in Cybersecurity from the University of Geneva, Switzerland and a Bachelor's of Engineering degree in Computer Science.  Experience in working with globally distributed teams, across startups and Fortune 500 companies, programming with latest technological stack and cloud services, with knowledge in security engineering, threat prevention, and secure application design.
 
 --- 
 ### **Work Experience**
