@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter - Teaching.md",
+                "file": "Cover Letter - Tech Support.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter - Teaching"
+              "title": "Cover Letter - Tech Support"
             }
           }
         ],
@@ -208,6 +208,7 @@
   },
   "active": "438bd77c99f8f7fa",
   "lastOpenFiles": [
+    "Cover Letter - Teaching.md",
     "Cover Letter - Solutions.md",
     "Prasad Resume - Solutions.md",
     "Prasad Resume - SDE.md",
@@ -226,7 +227,6 @@
     "private/TODO list.md",
     "Cover Letter.md",
     "Prasad Resume - PM.md",
-    "Cover Letter - Teaching.md",
     "Prasad Resume - Info Sec.md",
     "Prasad Resume.md",
     "README.md",
