@@ -8,7 +8,7 @@ Additionally, I hold a **Colorado Community College System (CCCS) Postsecondary 
 
 I would welcome the opportunity to contribute my technical knowledge, enthusiasm for teaching, and commitment to student development to your institution. Thank you for considering my application.
 
-I am permanent resident of Pikes peak and live within driving distance to the class. 
+I am permanent resident of Colorado Springs and live within driving distance to the campus. 
 
 Kind regards,  
 Prasad Koshy Jose
