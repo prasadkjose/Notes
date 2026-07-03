@@ -4,7 +4,7 @@ I am writing to express my interest in the teaching position at your institution
 
 My experience working on real-world software and security projects allows me to bring practical insights into the classroom. I aim to make lessons engaging, structured, and relevant to real-world applications so that students not only understand concepts but also learn how to apply them effectively. As a fairly recent graduate(2020), my academic experience is still very fresh, which helps me connect well with students and clearly remember the challenges and questions that arise while learning technical subjects. Through my studies and professional experience in software engineering, I have worked with modern programming tools, security practices, and industry-standard development workflows. This allows me to bring practical, real-world perspectives into the classroom and help students understand how concepts are applied in the industry.
 
-In my previous experiences, I regularly took on leadership and mentoring responsibilities by supporting junior engineers, reviewing code, sharing best practices, and helping teammates troubleshoot complex technical issues.
+Additionally, I hold a **Colorado Community College System (CCCS) Postsecondary Information Technology Teaching Credential**, qualifying me to teach Information Technology at the postsecondary level and reinforcing my passion for mentoring, technical instruction, and workforce development.
 
 I would welcome the opportunity to contribute my technical knowledge, enthusiasm for teaching, and commitment to student development to your institution. Thank you for considering my application.
 
