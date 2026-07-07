@@ -16,7 +16,7 @@
 ___
 
 ### **Summary**
-Software professional with 5+ years of experience leading cross-functional initiatives across enterprise cloud platforms, integrations, and scalable software systems. Experienced in integrating AI-powered features, and leveraging latest coding tools to accelerate development and improve software quality. Backed by a Master’s degree from the University of Geneva. Experienced collaborating with engineering, product, and stakeholders to drive delivery, improve processes, and translate business needs into technical solutions. Strong background in Agile environments with a growing focus on technical project and product management.
+Technology professional with 5+ years of experience leading cross-functional technical initiatives, coordinating stakeholders, and delivering enterprise software solutions across Oracle, Emplifi, and international teams. Proven ability to manage complex projects, improve operational processes, support diverse users, and communicate effectively with technical and non-technical audiences. Holds a Master's degree in Computer Science from the University of Geneva and a Colorado Postsecondary Information Technology Teaching Credential, with a passion for supporting student success, academic programs, and technology-driven innovation.
 
 --- 
 ### **Work Experience**
