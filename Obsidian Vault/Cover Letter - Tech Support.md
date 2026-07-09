@@ -1,6 +1,6 @@
 Dear Hiring Team,
 
-I am writing to express my interest in the Technical Support Analyst II. I am a software professional with over 5 years of experience working on and supporting enterprise applications, cloud platforms, and secure systems, supported by a Master’s degree in Computer Science from the University of Geneva, Switzerland.
+I am writing to express my interest in the Information Technology Specialist, Senior. I am a software professional with over 5 years of experience working on and supporting enterprise applications, cloud platforms, and secure systems, supported by a Master’s degree in Computer Science from the University of Geneva, Switzerland.
 
 In my most recent role at Oracle, I worked on enterprise-grade platforms where reliability, troubleshooting, and customer impact were critical. My responsibilities included supporting integrations, resolving technical issues, working with APIs and cloud services, and collaborating across engineering and product teams to improve system stability and usability.  I regularly took on leadership and mentoring responsibilities by supporting junior engineers, reviewing code, sharing best practices, and helping teammates troubleshoot complex technical issues. I collaborated closely with product managers, architects, QA engineers, and developers to facilitate design discussions, and ensure smooth team functioning. I also promoted Agile practices through sprint planning, technical reviews, and knowledge sharing, fostering an environment focused on continuous improvement.
 

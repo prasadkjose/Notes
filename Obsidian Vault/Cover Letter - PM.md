@@ -1,6 +1,6 @@
 Dear Hiring Team,
 
-I am writing to express my interest in the position of Project Manager I, Data & Technology Services. I am a software professional  evolving toward product leadership, with experience planning and delivering secure, scalable applications with AI, supported by a Master’s degree in from the University of Geneva, Switzerland.
+I am writing to express my interest in the position of Associate Vice President, Information Technology Services at your esteemed institution. I am a software professional moving toward leadership, with experience planning and delivering secure, scalable applications with AI, supported by a Master’s degree in from the University of Geneva, Switzerland.
 
 In my latest role at Oracle, I led development of enterprise-grade systems where security, reliability, and data protection were foundational requirements. I have contributed to core platform features involving secure data modeling, cloud integrations, and metadata-driven frameworks. In my previous experiences, I regularly took on leadership and mentoring responsibilities by supporting junior engineers, reviewing code, sharing best practices, and helping teammates troubleshoot complex technical issues. I collaborated closely with product managers, architects, QA engineers, and developers to facilitate design discussions, and ensure smooth team functioning. I also promoted Agile practices through sprint planning, technical reviews, and knowledge sharing, fostering an environment focused on continuous improvement.
 
