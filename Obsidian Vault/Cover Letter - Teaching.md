@@ -1,6 +1,6 @@
 Dear Hiring Team,
 
-I am writing to express my interest in the teaching position at your institution. I have a background in computer science and management, with several years of experience in software engineering, customer and administrative support and technical problem solving. Throughout my career, I have mentored peers, explaining complex technical concepts, and helping others build confidence in their technical abilities.
+I am writing to express my interest in the teaching position at your institution. I have a Master’s degree in Computer Science from the University of Geneva, Switzerland, with several years of experience in software engineering, customer and administrative support and technical problem solving. Throughout my career, I have mentored peers, explaining complex technical concepts, and helping others build confidence in their technical abilities.
 
 My experience working on real-world software and security projects allows me to bring practical insights into the classroom. I aim to make lessons engaging, structured, and relevant to real-world applications so that students not only understand concepts but also learn how to apply them effectively. Through my education and professional experience in software engineering, I have worked with modern administrative and programming tools, security practices, and industry-standard workflows. This allows me to bring practical, real-world perspectives into the classroom and help design curriculum aligned towards industry standards.
 
