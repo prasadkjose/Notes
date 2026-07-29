@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prasad Resume - AI.md",
+                "file": "private/TODO list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prasad Resume - AI"
+              "title": "TODO list"
             }
           }
         ],
@@ -208,8 +208,9 @@
   },
   "active": "438bd77c99f8f7fa",
   "lastOpenFiles": [
-    "Prasad Resume - SDE.md",
     "Prasad Resume - AI.md",
+    "Prasad Resume - SDE.md",
+    "Prasad Resume - PM.md",
     "Prasad Resume - Info Sec.md",
     "Cover Letter - Tech Support.md",
     "Cover Letter - Solutions.md",
@@ -219,7 +220,6 @@
     "Cover Letter - SDE.md",
     "Cover Letter - PM.md",
     "private/TODO list.md",
-    "Prasad Resume - PM.md",
     "Learning Notes/Project Management/CAPM.md",
     "Learning Notes/images/Pasted image 20260625102824.png",
     "private/Learning Path.md",
