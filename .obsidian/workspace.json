@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad8acbf83ee129e5",
+        "id": "afcedeff361b0f9d",
         "type": "tabs",
         "children": [
           {
-            "id": "c984b9bd356fa8ea",
+            "id": "8440b4e2592f567f",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -202,10 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c984b9bd356fa8ea",
+  "active": "8440b4e2592f567f",
   "lastOpenFiles": [
-    "Obsidian Vault/private/TODO list.md",
+    "Untitled.base",
     "Obsidian Vault/private/Financial Structure.canvas",
+    "Obsidian Vault/private/Untitled.canvas",
+    "Obsidian Vault/private/TODO list.md",
     "Obsidian Vault/private/Untitled.md",
     "Obsidian Vault/Cover Letter - Tech Support.md",
     "Obsidian Vault/Prasad Resume - Cloud and Systems.md",
