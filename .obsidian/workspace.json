@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "afcedeff361b0f9d",
+        "id": "88c5f2a4c008377a",
         "type": "tabs",
         "children": [
           {
-            "id": "8440b4e2592f567f",
+            "id": "ac6a92b69029f0bc",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Obsidian Vault/private/Financial Structure.canvas",
                 "viewState": {
-                  "x": -463.5,
-                  "y": -607.5,
-                  "zoom": -0.513853400892677
+                  "x": -557,
+                  "y": -384.5545038167939,
+                  "zoom": -0.5915433634628242
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -202,12 +202,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8440b4e2592f567f",
+  "active": "ac6a92b69029f0bc",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Obsidian Vault/private/Drawing-2026-09-07-1834.md",
     "Obsidian Vault/private/Financial Structure.canvas",
-    "Obsidian Vault/private/Untitled.canvas",
     "Obsidian Vault/private/TODO list.md",
+    "Obsidian Vault/private/Learning Path.md",
+    "Untitled.base",
+    "Obsidian Vault/private/Untitled.canvas",
     "Obsidian Vault/private/Untitled.md",
     "Obsidian Vault/Cover Letter - Tech Support.md",
     "Obsidian Vault/Prasad Resume - Cloud and Systems.md",
