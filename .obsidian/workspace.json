@@ -11,17 +11,14 @@
             "id": "ac6a92b69029f0bc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Financial Structure.canvas",
-                "viewState": {
-                  "x": -557,
-                  "y": -384.5545038167939,
-                  "zoom": -0.5915433634628242
-                }
+                "file": "Obsidian Vault/Private Cloud Setup/Home Server Setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Financial Structure"
+              "icon": "lucide-file",
+              "title": "Home Server Setup"
             }
           }
         ]
@@ -83,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0f0cb4cbec65a116",
@@ -202,10 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac6a92b69029f0bc",
+  "active": "b093be1749697300",
   "lastOpenFiles": [
-    "Obsidian Vault/private/Drawing-2026-09-07-1834.md",
     "Obsidian Vault/private/Financial Structure.canvas",
+    "Obsidian Vault/Private Cloud Setup/Home Server Setup.md",
+    "Obsidian Vault/Private Cloud Setup/Private Cloud Setup.canvas",
+    "Obsidian Vault/private/Drawing-2026-09-07-1834.md",
     "Obsidian Vault/private/TODO list.md",
     "Obsidian Vault/private/Learning Path.md",
     "Untitled.base",
