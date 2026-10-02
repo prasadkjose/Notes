@@ -1,14 +1,14 @@
-1. Install Podman and podman-compose
+1. **Install Podman and podman-compose**
 	1. Install from officail site
 	2. Check if it's running
 		```sudo systemctl status podman``` 
 	3. Create a new config dir ```~/home-server/config/podman```
 	4. Create a `new podman-compose.yml` file
-2. NordVPN meshnet (TEMP) for traffic routing
+2. **NordVPN meshnet (TEMP) for traffic routing**
 	1. Start meshnet on server
 		1. `nordvpn set meshnet on`
 		2. 
-3. Containers Applist:
+3. **Containers Applist:**
 	1. Jellyfin - Media Server
 		1. Create a new dir `~/home-server/jellyfin/media/`
 		2. Add to podman-compose.yml:
@@ -35,10 +35,10 @@
 		5. http://localhost:8096/web/#/dashboard/libraries
 	2. Immich - Photo Server
 	3. Caddy
-	4. Uptime-Kuma
+	4. Uptime-Kuma to monitor server status
 		1. Create a new dir: `~/home-server/uptime-kuma`
 		2. Update podman-compose.yml with
-		   ```
+		    ```
 		     uptime-kuma:
 			    image: docker.io/louislam/uptime-kuma:2
 			    container_name: uptime-kuma
@@ -66,9 +66,15 @@
 			
 			networks:
 			  kuma_network:
-			    driver: bridge
-			  ```
-4. Torrent Setup
+			    driver: bridge 
+		    ```
+		3. Create a push monitor in Uptime-Kuma and copy the link
+		4. Create a script that will push the system info `heartbeat.sh`
+		5. Add to crontab -e
+			`0 * * * * /home/prasad/home-server/scripts/heartbeat.sh`
+		6. http://localhost:3001/dashboard
+			  
+4. **Torrent Setup**
 	1. Install Transmission
 		 `sudo apt install transmission-cli transmission-daemon`
 	2. Start service
