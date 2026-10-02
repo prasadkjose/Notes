@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88c5f2a4c008377a",
+        "id": "e2928cac78bbc38b",
         "type": "tabs",
         "children": [
           {
-            "id": "ac6a92b69029f0bc",
+            "id": "9cff61077509ebec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Private Cloud Setup/Home Server Setup.md",
+                "file": "Obsidian Vault/Private Cloud Setup/SOPs/Tools and Setup SOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Server Setup"
+              "title": "Tools and Setup SOP"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Cover Letter - Tech Support.md",
+                "file": "Obsidian Vault/Private Cloud Setup/SOPs/Tools and Setup SOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.2999267578125
+    "width": 356.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,9 +200,11 @@
   },
   "active": "b093be1749697300",
   "lastOpenFiles": [
-    "Obsidian Vault/private/Financial Structure.canvas",
     "Obsidian Vault/Private Cloud Setup/Home Server Setup.md",
+    "Obsidian Vault/Private Cloud Setup/SOPs/Tools and Setup SOP.md",
     "Obsidian Vault/Private Cloud Setup/Private Cloud Setup.canvas",
+    "Obsidian Vault/Private Cloud Setup/SOPs",
+    "Obsidian Vault/private/Financial Structure.canvas",
     "Obsidian Vault/private/Drawing-2026-09-07-1834.md",
     "Obsidian Vault/private/TODO list.md",
     "Obsidian Vault/private/Learning Path.md",
