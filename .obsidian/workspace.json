@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Private Cloud Setup/SOPs/4. Uptime-kuma Monitor setup.md",
+                "file": "Obsidian Vault/Private Cloud Setup/SOPs/4. Cron jobs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Uptime-kuma Monitor setup"
+              "title": "4. Cron jobs"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Private Cloud Setup/SOPs/4. Uptime-kuma Monitor setup.md",
+                "file": "Obsidian Vault/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.2999267578125
+    "width": 356.2999267578125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,13 +202,13 @@
   "active": "9cff61077509ebec",
   "lastOpenFiles": [
     "Obsidian Vault/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+    "Obsidian Vault/Private Cloud Setup/Home Server Setup.md",
+    "Obsidian Vault/Private Cloud Setup/Private Cloud Setup.canvas",
     "Obsidian Vault/Private Cloud Setup/SOPs/4. Uptime-kuma Monitor setup.md",
     "Obsidian Vault/Private Cloud Setup/SOPs/4. Cron jobs.md",
     "Obsidian Vault/Private Cloud Setup/SOPs/3. Torrent Service.md",
     "Obsidian Vault/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
     "Obsidian Vault/Private Cloud Setup/Ideas.md",
-    "Obsidian Vault/Private Cloud Setup/Home Server Setup.md",
-    "Obsidian Vault/Private Cloud Setup/Private Cloud Setup.canvas",
     "Untitled 1.base",
     "Obsidian Vault/Private Cloud Setup/SOPs",
     "Obsidian Vault/private/Financial Structure.canvas",
