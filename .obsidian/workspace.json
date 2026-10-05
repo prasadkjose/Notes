@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.2999267578125,
-    "collapsed": true
+    "width": 356.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cff61077509ebec",
+  "active": "b093be1749697300",
   "lastOpenFiles": [
     "Obsidian Vault/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/Private Cloud Setup/Home Server Setup.md",
