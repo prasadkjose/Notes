@@ -11,17 +11,14 @@
             "id": "9cff61077509ebec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
-                "viewState": {
-                  "x": -240,
-                  "y": 357.5,
-                  "zoom": -1.3623933326719742
-                }
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Private Cloud Setup"
+              "icon": "lucide-file",
+              "title": "1. Tools and Setup SOP"
             }
           }
         ]
@@ -201,21 +198,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cff61077509ebec",
+  "active": "b093be1749697300",
   "lastOpenFiles": [
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Torrent Service.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Uptime-kuma Monitor setup.md",
+    "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Cron jobs.md",
+    "Obsidian Vault/Linux Setup.md",
+    "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
     "Obsidian Vault/private/Financial Structure.canvas",
     "Obsidian Vault/private/Learning Path.md",
     "Obsidian Vault/private/Personal Projects.md",
     "Obsidian Vault/private/TODO list.md",
     "Obsidian Vault/private/Encryption test.md",
     "Obsidian Vault/private/Drawing-2026-09-07-1834.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Torrent Service.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Uptime-kuma Monitor setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Cron jobs.md",
-    "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
     "Obsidian Vault/private/Private Cloud Setup/Ideas.md",
     "Untitled 1.base",
     "Obsidian Vault/private/Private Cloud Setup/SOPs",
