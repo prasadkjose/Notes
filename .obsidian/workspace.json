@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+                "file": "Obsidian Vault/private/Private Cloud Setup/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Tools and Setup SOP"
+              "title": "TODO"
             }
           }
         ]
@@ -198,14 +198,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b093be1749697300",
+  "active": "9cff61077509ebec",
   "lastOpenFiles": [
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking.md",
+    "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Torrent Service.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Uptime-kuma Monitor setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Cron jobs.md",
     "Obsidian Vault/Linux Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
@@ -215,7 +215,7 @@
     "Obsidian Vault/private/TODO list.md",
     "Obsidian Vault/private/Encryption test.md",
     "Obsidian Vault/private/Drawing-2026-09-07-1834.md",
-    "Obsidian Vault/private/Private Cloud Setup/Ideas.md",
+    "Obsidian Vault/private/Private Cloud Setup/TODO.md",
     "Untitled 1.base",
     "Obsidian Vault/private/Private Cloud Setup/SOPs",
     "Untitled.base",
