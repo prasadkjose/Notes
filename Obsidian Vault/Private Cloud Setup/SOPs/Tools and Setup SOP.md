@@ -4,12 +4,13 @@
 		```sudo systemctl status podman``` 
 	3. Create a new config dir ```~/home-server/config/podman```
 	4. Create a `new podman-compose.yml` file
-2. **NordVPN meshnet (TEMP) for traffic routing**
+2. TODO: Setup git for config files. 
+3. **NordVPN meshnet (TEMP instead of WireGuard) for traffic routing**
 	1. Start meshnet on server
 		1. `nordvpn set meshnet on`
 		2. 
-3. **Containers Applist:**
-	1. Jellyfin - Media Server
+4. **Containers Applist:**
+	1. **Jellyfin - Media Server**
 		1. Create a new dir `~/home-server/jellyfin/media/`
 		2. Add to podman-compose.yml:
 			```
@@ -33,9 +34,9 @@
 			1. Movies - `mkdir Movies`
 			2. TV Shows - `mkdir TV Shows`
 		5. http://localhost:8096/web/#/dashboard/libraries
-	2. Immich - Photo Server
-	3. Caddy
-	4. Uptime-Kuma to monitor server status
+	2. **Immich - Photo Server**
+	3. **Caddy**
+	4. **Uptime-Kuma to monitor server status**
 		1. Create a new dir: `~/home-server/uptime-kuma`
 		2. Update podman-compose.yml with
 		    ```
@@ -73,25 +74,4 @@
 		5. Add to crontab -e
 			`0 * * * * /home/prasad/home-server/scripts/heartbeat.sh`
 		6. http://localhost:3001/dashboard
-			  
-4. **Torrent Setup**
-	1. Install Transmission
-		 `sudo apt install transmission-cli transmission-daemon`
-	2. Start service
-		`sudo systemctl edit transmission-daemon.service`
-			```[Service]
-			Type=exec```
-		`sudo systemctl daemon-reload`
-		`sudo systemctl restart transmission-daemon.service`
-	
-	3. Configure Transmission setting
-		1. open
-			`sudo vim /var/lib/transmission-daemon/info/settings.json`
-		2. Create a new dir in `~/home-server/Downloads/`
-		3. change the json property:
-			`"download-dir": "~/home-server/Downloads/",`
-	4. Test Download
-		1. `transmission-cli "magnetlink"`
-5. Server Life Cycle
-	1. Sleep settings
-	2. Sleep condition
+			
