@@ -11,17 +11,14 @@
             "id": "9cff61077509ebec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
-                "viewState": {
-                  "x": -240,
-                  "y": 70.56372657111342,
-                  "zoom": -1.3623933326719742
-                }
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/4. System Monitoring setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Private Cloud Setup"
+              "icon": "lucide-file",
+              "title": "4. System Monitoring setup"
             }
           }
         ]
@@ -203,16 +200,18 @@
   },
   "active": "9cff61077509ebec",
   "lastOpenFiles": [
+    "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
+    "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.md",
+    "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
     "Obsidian Vault/private/Private Cloud Setup/TODO.md",
     "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Torrent Service.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Uptime-kuma Monitor setup.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. System Monitoring setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Cron jobs.md",
     "Obsidian Vault/Linux Setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
     "Obsidian Vault/private/Financial Structure.canvas",
     "Obsidian Vault/private/Learning Path.md",
     "Obsidian Vault/private/Personal Projects.md",
