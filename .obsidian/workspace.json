@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.699951171875,
-    "collapsed": true
+    "width": 286.699951171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cff61077509ebec",
+  "active": "b093be1749697300",
   "lastOpenFiles": [
     "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Torrent Service.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
