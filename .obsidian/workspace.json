@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 332.70001220703125
   },
   "right": {
     "id": "0f0cb4cbec65a116",
@@ -200,19 +200,19 @@
   },
   "active": "9cff61077509ebec",
   "lastOpenFiles": [
-    "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/TODO.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/6. System Management with Cockpit.md",
-    "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
-    "Obsidian Vault/private/Financial Structure.canvas",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Cron jobs.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/4. System Monitoring setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Torrent Service.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Cron jobs.md",
+    "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
+    "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
+    "Obsidian Vault/private/Private Cloud Setup/TODO.md",
+    "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
+    "Obsidian Vault/private/Financial Structure.canvas",
     "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.md",
     "Obsidian Vault/Linux Setup.md",
     "Obsidian Vault/private/Learning Path.md",
