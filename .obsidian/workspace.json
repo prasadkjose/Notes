@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Cron jobs.md",
+                "file": "Obsidian Vault/private/Private Cloud Setup/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Cron jobs"
+              "title": "TODO"
             }
           }
         ]
@@ -200,8 +200,9 @@
   },
   "active": "9cff61077509ebec",
   "lastOpenFiles": [
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Cron jobs.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/private/Private Cloud Setup/TODO.md",
     "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
@@ -209,7 +210,6 @@
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/4. System Monitoring setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Torrent Service.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Cron jobs.md",
     "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
     "Obsidian Vault/private/Financial Structure.canvas",
