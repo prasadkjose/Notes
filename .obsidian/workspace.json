@@ -33,21 +33,14 @@
             "id": "0b3f64ba594175fb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking -  Tailscale Meshnet for Podman Containers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Progress"
+              "icon": "lucide-file",
+              "title": "5. Networking -  Tailscale Meshnet for Podman Containers"
             }
           }
         ],
@@ -231,11 +224,11 @@
   },
   "active": "0b3f64ba594175fb",
   "lastOpenFiles": [
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
+    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/8. Report generation and MSMTP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking -  Tailscale Meshnet for Podman Containers.md",
-    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/4. Cron jobs.md",
     "Obsidian Vault/private/TODO list.md",
