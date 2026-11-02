@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Cron jobs.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Tools and Setup SOP"
+              "title": "3. Cron jobs"
             }
           }
         ],
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "systemd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,13 +101,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 332.70001220703125,
-    "collapsed": true
+    "width": 332.70001220703125
   },
   "right": {
     "id": "0f0cb4cbec65a116",
@@ -228,12 +226,12 @@
   },
   "active": "e378066d1a43d257",
   "lastOpenFiles": [
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/8. Report generation and MSMTP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Torrent Service.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/6. System Management with Cockpit.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Cron jobs.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/4. System Monitoring setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
