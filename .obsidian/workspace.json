@@ -35,22 +35,14 @@
             "id": "e378066d1a43d257",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Progress"
+              "icon": "lucide-file",
+              "title": "1. Tools and Setup SOP"
             }
           }
         ],
@@ -88,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "systemd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,19 +228,19 @@
   },
   "active": "e378066d1a43d257",
   "lastOpenFiles": [
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/8. Report generation and MSMTP.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Torrent Service.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/6. System Management with Cockpit.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Cron jobs.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. System Monitoring setup.md",
+    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking - Headscale in FLY.IO  Tailscale Meshnet for Podman Containers.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Torrent Service.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking -  Tailscale Meshnet for Podman Containers.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/6. System Management with Cockpit.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/4. System Monitoring setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Cron jobs.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/8. Report generation and MSMTP.md",
     "Obsidian Vault/private/TODO list.md",
     "Obsidian Vault/private/Financial Structure.canvas",
     "Obsidian Vault/private/Learning Path.md",
