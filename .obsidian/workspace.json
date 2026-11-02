@@ -46,8 +46,7 @@
               "title": "7. HDD Storage Setup"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.70001220703125
+    "width": 332.70001220703125,
+    "collapsed": true
   },
   "right": {
     "id": "0f0cb4cbec65a116",
@@ -225,13 +225,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b093be1749697300",
+  "active": "1cef634e065b0c4d",
   "lastOpenFiles": [
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Cron jobs.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/8. Report generation and MSMTP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Torrent Service.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/6. System Management with Cockpit.md",
