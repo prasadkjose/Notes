@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.70001220703125
+    "width": 332.70001220703125,
+    "collapsed": true
   },
   "right": {
     "id": "0f0cb4cbec65a116",
@@ -234,10 +235,10 @@
   },
   "active": "e378066d1a43d257",
   "lastOpenFiles": [
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
     "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking - Headscale in FLY.IO  Tailscale Meshnet for Podman Containers.md",
