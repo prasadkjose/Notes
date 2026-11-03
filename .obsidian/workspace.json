@@ -129,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.70001220703125
+    "width": 242.751953125
   },
   "right": {
     "id": "0f0cb4cbec65a116",
@@ -233,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.699951171875
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,7 +248,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9c18b97382692acc",
+  "active": "b093be1749697300",
   "lastOpenFiles": [
     "Obsidian Vault/private/Private Cloud Setup/SOPs/11. Offline Backups.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
