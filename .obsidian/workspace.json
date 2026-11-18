@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.12109375
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,6 +212,9 @@
   },
   "active": "1cef634e065b0c4d",
   "lastOpenFiles": [
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Torrent Service.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Caddy Reverse Proxy.md",
+    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2758679",
     "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2748376",
@@ -235,8 +238,6 @@
     "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/icons/Adwaita/symbolic/status/weather-fog-symbolic.svg",
     "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/doc/libgtk-3-bin/README.md",
     "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/doc/libgtk-3-0t64/README.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Caddy Reverse Proxy.md",
-    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
@@ -250,7 +251,6 @@
     "Obsidian Vault/Cover Letter.md",
     "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/11. Offline Backups.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Torrent Service.md",
     "Obsidian Vault/private/Financial Structure.canvas",
     "Obsidian Vault/private/Learning Path.md",
     "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
