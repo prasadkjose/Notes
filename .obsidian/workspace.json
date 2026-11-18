@@ -38,12 +38,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Caddy Reverse Proxy.md",
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Caddy Reverse Proxy"
+              "title": "1. Tools and Setup SOP"
             }
           }
         ],
@@ -225,10 +225,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8a7d3121d4d09949",
+  "active": "b093be1749697300",
   "lastOpenFiles": [
-    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Caddy Reverse Proxy.md",
+    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
     "Obsidian Vault/Desktop",
     "Obsidian Vault/ssl/cert.pem",
