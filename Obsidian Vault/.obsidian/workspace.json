@@ -1,259 +1,42 @@
 {
   "main": {
-    "id": "e98322f1f9ed804b",
+    "id": "vault",
     "type": "split",
     "children": [
       {
-        "id": "348817ec95c12040",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "438bd77c99f8f7fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/TODO list.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO list"
-            }
-          }
-        ],
-        "stacked": true
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "b068b1d421ef5cfe",
-    "type": "split",
-    "children": [
+        "id": "files",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
       {
-        "id": "09b813acf7f76026",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9554327c9e2d78ed",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
+        "id": "outline",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": null,
+            "followCursor": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
-          {
-            "id": "2e618f1bdc373f32",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "829f43e241f854fc",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "473fcd53feacf720",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          }
-        ]
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 300
   },
-  "right": {
-    "id": "8896732167792815",
-    "type": "split",
-    "children": [
-      {
-        "id": "ab0acdf7a61b9e82",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b30904fd2a443e5e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "e48a9a83406a8b25",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Prasad Resume - SDE.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Prasad Resume - SDE"
-            }
-          },
-          {
-            "id": "7536a230b6218b00",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "fe324030be7e2441",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "ddc8305a05395bfb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Prasad Resume - SDE.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Prasad Resume - SDE"
-            }
-          },
-          {
-            "id": "038bf237101e9f8f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
-    "direction": "horizontal",
-    "width": 322.5
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false,
-      "obsidian-kanban:Create new board": false
-    }
-  },
-  "active": "438bd77c99f8f7fa",
-  "lastOpenFiles": [
-    "Prasad Resume - AI.md",
-    "Prasad Resume - SDE.md",
-    "Prasad Resume - PM.md",
-    "Prasad Resume - Info Sec.md",
-    "Cover Letter - Tech Support.md",
-    "Cover Letter - Solutions.md",
-    "Prasad Resume - Solutions.md",
-    "Cover Letter - Teaching.md",
-    "Cover Letter.md",
-    "Cover Letter - SDE.md",
-    "Cover Letter - PM.md",
-    "private/TODO list.md",
-    "Learning Notes/Project Management/CAPM.md",
-    "Learning Notes/images/Pasted image 20260625102824.png",
-    "private/Learning Path.md",
-    "private/Encryption test.md",
-    "private/Personal Projects.md",
-    "Learning Notes/Project Management/Untitled.md",
-    "Learning Notes/Project Management",
-    "Linux Setup.md",
-    "Job Answers.md",
-    "Prasad Resume.md",
-    "README.md",
-    "Pasted image 20260429093645.png",
-    "private/Blog Drafts/BLOG Framework.md",
-    "private/Blog Drafts/Swap Memory.md",
-    "Blog/OOM/Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM.md",
-    "private/Blog Drafts/Software Engineering is not Dead.md",
-    "private/Blog Drafts/DONE",
-    "private/Blog Drafts/DONE/Portfolio.md",
-    "Private Cloud Setup/Private Cloud Setup.canvas",
-    "private/Vacations/Norway Northern Lights Trip.canvas",
-    "signature.png",
-    "Learning Notes/Cloud Security",
-    "Learning Notes/images/Pasted image 20251121111153.png",
-    "Unconfirmed 371728.crdownload",
-    "signature 1.png",
-    "Learning Notes/images/Unconfirmed 344185.crdownload",
-    "private/Vacations/Untitled",
-    "private/Vacations",
-    "Learning Notes/Cybersecurity",
-    "Learning Notes/images/Pasted image 20251105210556.png",
-    "Learning Notes/images/Pasted image 20251105211503.png",
-    "Learning Notes/images",
-    "Learning Notes/Artificial Intelligence/Artificial Intelligence Canvas.canvas",
-    "Learning Notes/Artificial Intelligence",
-    "Blog/OOM/Blog Cover Image.png"
-  ]
+  "active": "files",
+  "lastOpenFiles": []
 }

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Obsidian PA
+Exec=/bin/sh -c "$HOME/.local/bin/proot-apps run ghcr.io/linuxserver/proot-apps:obsidian %U"
+Terminal=false
+Type=Application
+Icon=obsidian
+StartupWMClass=md.obsidian.Obsidian
+X-AppImage-Version=1.15.1
+Comment=Obsidian
+MimeType=application/pdf;text/markdown;application/x-obsidian-canvas;application/x-obsidian-base;x-scheme-handler/obsidian;
+Categories=Office;

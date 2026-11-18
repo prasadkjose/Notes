@@ -1,0 +1,12 @@
+2026/11/18-17:18:36.722 1bf Reusing MANIFEST /config/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/18-17:18:36.722 1bf Recovering log #189
+2026/11/18-17:18:36.723 1bf Reusing old log /config/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000189.log 
+2026/11/18-17:18:36.779 1d1 Level-0 table #196: started
+2026/11/18-17:18:36.790 1d1 Level-0 table #196: 831469 bytes OK
+2026/11/18-17:18:36.791 1d1 Delete type=0 #189
+2026/11/18-17:18:36.817 1d1 Level-0 table #198: started
+2026/11/18-17:18:36.831 1d1 Level-0 table #198: 762927 bytes OK
+2026/11/18-17:18:36.833 1d1 Delete type=0 #195
+2026/11/18-17:18:36.877 1d1 Level-0 table #200: started
+2026/11/18-17:18:36.889 1d1 Level-0 table #200: 770473 bytes OK
+2026/11/18-17:18:36.891 1d1 Delete type=0 #197

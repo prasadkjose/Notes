@@ -31,23 +31,8 @@
               "icon": "lucide-trello",
               "title": "Kanban Progress"
             }
-          },
-          {
-            "id": "8a7d3121d4d09949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Tools and Setup SOP"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,17 +210,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b093be1749697300",
+  "active": "1cef634e065b0c4d",
   "lastOpenFiles": [
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2758679",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2748376",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2748373",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2756755",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2748273",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2753795",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2748234",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2755062",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2750960",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2753724",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/pixmaps/debian-logo.png",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/icons/Adwaita/symbolic/status/weather-windy-symbolic.svg",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/icons/Adwaita/symbolic/status/weather-tornado-symbolic.svg",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/icons/Adwaita/symbolic/status/weather-storm-symbolic.svg",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/icons/Adwaita/symbolic/status/weather-snow-symbolic.svg",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/icons/Adwaita/symbolic/status/weather-showers-symbolic.svg",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/icons/Adwaita/symbolic/status/weather-showers-scattered-symbolic.svg",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/icons/Adwaita/symbolic/status/weather-severe-alert-symbolic.svg",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/icons/Adwaita/symbolic/status/weather-overcast-symbolic.svg",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/icons/Adwaita/symbolic/status/weather-fog-symbolic.svg",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/doc/libgtk-3-bin/README.md",
+    "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/doc/libgtk-3-0t64/README.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Caddy Reverse Proxy.md",
     "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
-    "Obsidian Vault/Desktop",
-    "Obsidian Vault/ssl/cert.pem",
-    "Obsidian Vault/ssl/cert.key",
-    "Obsidian Vault/ssl",
     "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking - Headscale in FLY.IO  Tailscale Meshnet for Podman Containers.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking -  Tailscale Meshnet for Podman Containers.md",
@@ -253,18 +256,10 @@
     "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
     "Obsidian Vault/private/Private Cloud Setup/TODO.md",
     "Obsidian Vault/private/Personal Projects.md",
-    "Untitled.base",
-    "Obsidian Vault/private/Private Cloud Setup/Untitled.base",
     "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.md",
     "Obsidian Vault/Linux Setup.md",
     "Obsidian Vault/private/Encryption test.md",
     "Obsidian Vault/private/Drawing-2026-09-07-1834.md",
-    "Untitled 1.base",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs",
-    "Obsidian Vault/private/Untitled.canvas",
-    "Obsidian Vault/private/Untitled.md",
-    "Obsidian Vault/Cover Letter - Tech Support.md",
-    "Cover Letter - SDE.pdf",
-    "Cover Letter - Network.pdf"
+    "Obsidian Vault/private/Untitled.canvas"
   ]
 }
