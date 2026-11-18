@@ -45,23 +45,9 @@
               "icon": "lucide-file",
               "title": "7. HDD Storage Setup"
             }
-          },
-          {
-            "id": "8a6fec4e4e139f46",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: appearance.json  (Working Tree)"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 485.12109375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,15 +225,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8a6fec4e4e139f46",
+  "active": "975920a3dc67614f",
   "lastOpenFiles": [
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Caddy Reverse Proxy.md",
     "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
+    "Obsidian Vault/Desktop",
+    "Obsidian Vault/ssl/cert.pem",
+    "Obsidian Vault/ssl/cert.key",
+    "Obsidian Vault/ssl",
     "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking - Headscale in FLY.IO  Tailscale Meshnet for Podman Containers.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking -  Tailscale Meshnet for Podman Containers.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Caddy Reverse Proxy.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Cron jobs.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/4. System Monitoring setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/8. Report generation and MSMTP.md",
@@ -274,11 +264,7 @@
     "Obsidian Vault/private/Untitled.canvas",
     "Obsidian Vault/private/Untitled.md",
     "Obsidian Vault/Cover Letter - Tech Support.md",
-    "Obsidian Vault/Prasad Resume - Cloud and Systems.md",
     "Cover Letter - SDE.pdf",
-    "Cover Letter - Network.pdf",
-    "Prasad Resume - Cloud and Systems.pdf",
-    "Cover Letter - Teaching.pdf",
-    "Cover Letter - Tech Support.pdf"
+    "Cover Letter - Network.pdf"
   ]
 }
