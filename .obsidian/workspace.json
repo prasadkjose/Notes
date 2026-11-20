@@ -36,23 +36,14 @@
             "id": "522859c487bb22b4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Progress"
+              "icon": "lucide-file",
+              "title": "1. Tools and Setup of services SOP"
             }
           }
         ],
@@ -236,12 +227,14 @@
   },
   "active": "522859c487bb22b4",
   "lastOpenFiles": [
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Systemd Timers & Cron jobs.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md",
+    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking - Headscale in FLY.IO  Tailscale Meshnet for Podman Containers.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Caddy Reverse Proxy.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/11. Offline Backups.md",
-    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Torrent Service.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup SOP.md",
     "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2758679",
     "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2748376",
     "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/var/run/systemd/journal/streams/10:2748373",
@@ -266,9 +259,7 @@
     "Obsidian Vault/proot-apps/ghcr.io_linuxserver_proot-apps_obsidian/usr/share/doc/libgtk-3-0t64/README.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/7. HDD Storage Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/5. Networking -  Tailscale Meshnet for Podman Containers.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Cron jobs.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/4. System Monitoring setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/8. Report generation and MSMTP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/6. System Management with Cockpit.md",
