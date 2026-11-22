@@ -36,23 +36,14 @@
             "id": "100dc7dbab8ba6cb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Progress"
+              "icon": "lucide-file",
+              "title": "1. Tools and Setup of services SOP"
             }
           }
         ],
@@ -69,21 +60,6 @@
         "id": "cd86b2e9fc3efb3c",
         "type": "tabs",
         "children": [
-          {
-            "id": "a04a07ac21c9b8a9",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "d3aa8a600b4fd3a1",
             "type": "leaf",
@@ -109,6 +85,43 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a04a07ac21c9b8a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "9914ffa9bf33388c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da198e4f76aaf915",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -188,21 +201,6 @@
             }
           },
           {
-            "id": "da198e4f76aaf915",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian Vault/Cover Letter - Tech Support.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
             "id": "b093be1749697300",
             "type": "leaf",
             "pinned": true,
@@ -213,9 +211,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "4bba5ee5c0fa6b70",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -235,16 +245,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "100dc7dbab8ba6cb",
+  "active": "a04a07ac21c9b8a9",
   "lastOpenFiles": [
+    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Offline Backups.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Systemd Timers & Cron jobs.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/2. Server Sleep & Life Cycle.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/8. Report generation and MSMTP.md",
-    "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Offline Backups.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Caddy Reverse Proxy.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Torrent Service.md",
     "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
