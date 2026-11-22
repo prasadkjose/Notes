@@ -6,7 +6,6 @@
       {
         "id": "e8b1b58afc440726",
         "type": "tabs",
-        "dimension": 67.22222222222223,
         "children": [
           {
             "id": "1cef634e065b0c4d",
@@ -37,68 +36,18 @@
             "id": "14c1b4761b1b9645",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/11. Offline Backups.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/terminal/data.json",
+                "bFile": ".obsidian/plugins/terminal/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "11. Offline Backups"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "52dba2756883fb68",
-        "type": "tabs",
-        "dimension": 32.77777777777778,
-        "children": [
-          {
-            "id": "dbaef0d44d1324bd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/prasad/projects/Notes",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "/bin/sh",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "win32Backend": "conpty"
-                  },
-                  "profileSourceId": "linuxIntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
-              },
-              "pinned": true,
-              "icon": "terminal:tab-bezel",
-              "title": "sh"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
