@@ -38,12 +38,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Caddy Reverse Proxy.md",
+                "file": "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Caddy Reverse Proxy"
+              "title": "Home Server Setup"
             }
           }
         ],
@@ -228,14 +228,14 @@
   },
   "active": "100dc7dbab8ba6cb",
   "lastOpenFiles": [
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Caddy Reverse Proxy.md",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/11. Offline Backups.md",
+    "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
+    "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Offline Backups.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Caddy Reverse Proxy.md",
+    "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Torrent Service.md",
     "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md",
-    "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/Private Cloud Setup.canvas",
-    "Obsidian Vault/private/Private Cloud Setup/Hardware Architecture.canvas",
-    "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Torrent Service.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/6. Networking - Headscale in FLY.IO  Tailscale Meshnet for Podman Containers.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/4. System Monitoring setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/6. System Management with Cockpit.md",
