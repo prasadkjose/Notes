@@ -36,23 +36,14 @@
             "id": "100dc7dbab8ba6cb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Progress"
+              "icon": "lucide-file",
+              "title": "1. Tools and Setup of services SOP"
             }
           }
         ],
@@ -124,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,7 +218,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md"
+                "file": "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -256,9 +247,9 @@
   },
   "active": "100dc7dbab8ba6cb",
   "lastOpenFiles": [
-    "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/10. Offline Backups.md",
     "Obsidian Vault/private/Private Cloud Setup/Kanban Progress.md",
+    "Obsidian Vault/private/Private Cloud Setup/Home Server Setup.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/9. Caddy Reverse Proxy.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/1. Tools and Setup of services SOP.md",
     "Obsidian Vault/private/Private Cloud Setup/SOPs/3. Systemd Timers & Cron jobs.md",
