@@ -18,9 +18,11 @@
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
+                    false,
+                    false,
+                    false,
+                    false,
                     null,
-                    false,
-                    false,
                     false,
                     false,
                     false
